@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSI-3450/Why Databases.md",
+                "file": "CSI-3450/Entity Relationship Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why Databases"
+              "title": "Entity Relationship Models"
             }
           }
         ]
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +171,11 @@
   },
   "active": "a991ffe0c2ba2030",
   "lastOpenFiles": [
-    "CSI-3450/Database Systems_ Design, Implementation, & Management -- Carlos Coronel, Steven Morris -- 2018 -- Cengage Learning -- 9781337627900 -- 29edca03c1bac3ea1ab3a1283f5d67a1 -- Anna’s Archive.pdf",
-    "CSI-3450/Why Databases.md"
+    "CSI-3450/example-erd.png",
+    "CSI-3450/Entity Relationship Models.md",
+    "CSI-3450/Untitled diagram-2025-01-06-163647.png.crdownload",
+    "CSI-3450/Why Databases.md",
+    "CSI-3620/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf",
+    "CSI-3450/Database Systems_ Design, Implementation, & Management -- Carlos Coronel, Steven Morris -- 2018 -- Cengage Learning -- 9781337627900 -- 29edca03c1bac3ea1ab3a1283f5d67a1 -- Anna’s Archive.pdf"
   ]
 }
