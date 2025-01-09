@@ -63,4 +63,4 @@ int main() {
 ```
 ### Example output
 ![[Pasted image 20250109114048.png]]
-For `char`, its value will always be in front of the memory address. 
+For variables of type `char`, its value will always be in front of the memory address. 

@@ -11,10 +11,14 @@
             "id": "1e2ab5357fce45e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3620/Pointers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pointers"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "1e2ab5357fce45e9",
   "lastOpenFiles": [
     "CSI-3620/Pointers.md",
     "CSI-3620/Pasted image 20250109114048.png",
