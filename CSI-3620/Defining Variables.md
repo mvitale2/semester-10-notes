@@ -1,0 +1,1 @@
+It is good practice in C++ to define a variable when it is first initialized. 
