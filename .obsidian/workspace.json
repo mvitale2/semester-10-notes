@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSI-3620/Pointers.md",
+                "file": "CSI-3450/Entity Relationship Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pointers"
+              "title": "Entity Relationship Models"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +183,7 @@
   },
   "active": "1e2ab5357fce45e9",
   "lastOpenFiles": [
+    "CSI-3450/Why Databases.md",
     "CSI-3620/Pointers.md",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3620/Textbooks/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf",
@@ -204,7 +206,6 @@
     "CSI-3450/Entity Relationship Models.md",
     "CSI-3450/example-erd.png",
     "CSI-4430/Introduction.md",
-    "CSI-4430/AI Is Silly.md",
-    "CSI-3450/Why Databases.md"
+    "CSI-4430/AI Is Silly.md"
   ]
 }
