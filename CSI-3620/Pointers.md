@@ -5,6 +5,10 @@ Variables have information associated with them:
 - Value
 - Data type to indicate size
 - Location in memory
+# Why are pointers such a big deal?
+- Manage memory at a low-level
+- Pointers take up less space than an entire data structure
+- Pointers can be used for simple variables
 # Declaring Pointers
 A pointer uses the same data types followed by an asterisk. 
 
@@ -33,6 +37,16 @@ int main() {
     cout << "The value of grade is: " << grade << "\n";
     cout << "The value of grade_ptr is: " << grade_ptr << "\n";
 }
+```
+## How to not declare a pointer
+It is not possible to declare pointers on one line.
+```c++
+int a, b, c
+int* x, y, z
+x = &a
+// These next two lines will throw an error. 
+y = &b
+z = &c
 ```
 ## Dereferencing a Pointer
 ```c++
@@ -64,3 +78,29 @@ int main() {
 ### Example output
 ![[Pasted image 20250109114048.png]]
 For variables of type `char`, its value will always be in front of the memory address. 
+# Special types
+**Void pointer**: pointer that can point to a variable of any type. 
+- Use `void*` notation.
+
+Example
+```c++
+/* Filename: special_pointers.cpp
+* Description: Provide an overview of how to use void and null pointers.
+*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	int* nullpointer = NULL;
+	
+	cout << "Value of null_pointer: " << nullpointer << "\n";
+    cout << "Dereferenced value of null_pointer: " << *nullpointer << "\n";
+
+    int value = 5;
+    void* void_ptr;
+    cout << "value of void_ptr: " << void_ptr << "\n";
+    // C will not like this line because the void pointer has no bytes to dereference
+    // cout << "dereferenced value of void_ptr: " << *void_ptr << "\n";
+}
+```
