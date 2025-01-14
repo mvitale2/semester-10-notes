@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSI-4430/Organizational Approaches.md",
+                "file": "CSI-4430/Agile Methodology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organizational Approaches"
+              "title": "Agile Methodology"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "b78581cd2cf0ed3c",
   "lastOpenFiles": [
     "CSI-4430/Introduction.md",
+    "CSI-4430/Agile Methodology.md",
     "CSI-4430/Organizational Approaches.md",
     "conflict-files-obsidian-git.md",
     "CSI-3620/Arrays.md",
