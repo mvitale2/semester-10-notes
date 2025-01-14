@@ -9,6 +9,7 @@ Repeated from [[Network Definitions]]
 - End system and host are equivalent. 
 - Router: Hardware device that receives data/message from a switch and passes it to the next router or host. 
 # Network Layers
+Also called the Open Systems Interconnection (OSI) Model. 
 Some protocols were designed to operate with a specific layer in mind. 
 - Physical
 - Data Link
@@ -34,7 +35,7 @@ TCP is meant to be as secure as possible while UDP prioritizes transmission spee
 # Local Area Networks
 LANs connect end systems to edge routers. 
 
-Ethernet can have speeds between 10 Mbps and 10Gbps.
+Ethernet can have speeds between 10 Mbps and 10 Gbps.
 
 LAN Transmission Categories:
 - Unicast
