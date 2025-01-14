@@ -14,7 +14,7 @@ cout << "Current gear: " << current_gear
 4. The `&` operator sets a variable equal to the memory location of the variable that comes after `&`.  
    The `*` operator has two use cases:
    1. It defines a variable as a pointer.
-   2. It is used to dereference a pointer, which prints the current value instead of the memory location. 
+   2. It is used to de-reference a pointer, which prints the current value instead of the memory location. 
 5. `Arrays` store values of any type, such as `string` or `int`. 
    `Enums` allow the programmer to create their own "types." A variable declared with a type of an `enum` can only have a value stored within the `enum`. 
    `Structures` or `struct` are a way to declare pseudo-objects in C++. You define a template of an object and can assign values to attributes of that object. Example:
@@ -80,18 +80,19 @@ string employees[4];
 8. Debug the code:
 ```c++
 int main() { 
-// Declares a non-empty array 
-// First column represents course number 
-// Second column represents section number 
-// Third column represents GPA grade received 
-float transcript[3][2]; 
-// Fill in 2-D array with info for CSI 3620 
-transcript[0][0] = 3620;
-transcript[0][1] = 14667;
-transcript[0][2] = 3.7;
-// Fill in array with info for CSI 4660 
-transcript[1][0] = 4660; 
-transcript[1][1] = 42259; 
-transcript[1][2] = 3.9; 
+	// Declares a non-empty array 
+	// First column represents course number 
+	// Second column represents section number 
+	// Third column represents GPA grade received 
+	float transcript[3][2]; 
+	// Fill in 2-D array with info for CSI 3620 
+	transcript[0][0] = 3620;
+	transcript[0][1] = 14667;
+	transcript[0][2] = 3.7;
+	// Fill in array with info for CSI 4660 
+	transcript[1][0] = 4660; 
+	transcript[1][1] = 42259; 
+	transcript[1][2] = 3.9; 
 }
 ```
+**Description of the problem:** 
