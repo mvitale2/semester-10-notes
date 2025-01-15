@@ -68,6 +68,7 @@ erDiagram
 	SUPPLIER {
 		string Name
 		string PhoneNumber
+		string StreetAddr
 		string City
 		int PostalCode
 		string PhoneNumber
@@ -75,6 +76,8 @@ erDiagram
 	PRODUCT |{--|| SUPPLIER : has
 ```
 ## Relationships
+A connection between two or more entities. In contrast, a relation is a tuple or pair of entities, or an entity set. 
+
 Includes:
 - Name
 - Entity set
@@ -103,6 +106,9 @@ A relationship set of this ER would look like this:
 | Sue's | Fanta     |
 | Sue's | Coca-Cola |
 | Sue's | Zero      |
+### Relations
+For a relationship between customers, products, and suppliers, a relation between the entities could be represented like this:
+
 ### Three-way Relationships
 ```mermaid
 	erDiagram
@@ -165,6 +171,28 @@ In contrast, E/R entities have representatives.
 | ------ | -------- | ------- | ------------- | ------ |
 | 001    | Cola     | Classic | Coca Cola Co. | Brown  |
 | 003    | Fanta    | Classic | Coca Cola co. | Orange |
+## Three Approaches to Subclasses
+1. Object-oriented: One relation per subset of subclasses, with all relevant attributes.
+2. Use nulls: One relation; entities have NULL in attributes that don't belong to them.
+3. E/R style: One relation for each subclass:
+   - Key attribute(s).
+   - Attributes of that subclass. 
+### Object-oriented
+
+| name | manf           |
+| ---- | -------------- |
+| Bud  | Anheuser-Busch |
+
+| name       | manf   | color |
+| ---------- | ------ | ----- |
+| Summerbrew | pete's | dark  |
+### Using Nulls
+
+| name       | manf           | color |
+| ---------- | -------------- | ----- |
+| Bud        | Anheuser-Busch | NULL  |
+| Summerbrew | Pete's         | dark  |
+
 # Keys
 A key is a set of attributes for one entity set such that no two entities in this set can have all the attributes of the key. 
 ## Keys in E/R Diagrams
@@ -211,3 +239,71 @@ erDiagram
 	}
 	PLAYERS }|--|| TEAMS : "plays on"
 ```
+Weak entity sets are useful when there is no global authority capable of creating unique ID's. For example, it would not be possible to assign a unique number to each player on each team across one sports league. 
+## Handling Weak Entity Sets
+```mermaid
+erDiagram
+	LOGINS {
+		string name
+		string billTo
+	}
+	HOSTS {
+		string name
+		string location
+	}
+	LOGINS }o--|| HOSTS : at
+```
+It can be useful to convert weak entity sets to relations:
+Hosts(hostName, location)
+Logins(loginName, hostName, billTo)
+
+All entities must be convertible to relations or tables.
+Some relationships need to be converted into relations or tables. 
+# Design Techniques
+1. Avoid redundancy
+2. Limit the use of weak entity sets
+3. Don't use an entity set when an attribute will do. This will mostly apply to one-to-one relationships. 
+## Examples of good design
+```mermaid
+erDiagram
+	SODA {
+		string name
+	}
+	MANF {
+		string name
+		string addr
+	}
+	MANF ||--|{ SODA : manufactures
+```
+In this example, manufacturer has no specific attributes other than name, so it is suitable to only include it as an attribute of soda. 
+```mermaid
+erDiagram
+	SODA {
+		string name
+		string manf
+	}
+```
+## Examples of bad design
+This example states the manufacturer of a soda twice: as an attribute and as a related entity. 
+```mermaid
+erDiagram
+	SODA {
+		string name
+		string manf
+	}
+	MANFS{
+		string name
+		string addr
+	}
+	SODA }|--|| MANFS: "manufactured by"
+```
+This design repeats the manufacturer's address multiple times for each soda. The solution is to ensure that the manufacturer exists as a separate entity. 
+```mermaid
+erDiagram
+	SODA {
+		string name
+		string manf
+		string manfAddr
+	}
+```
+

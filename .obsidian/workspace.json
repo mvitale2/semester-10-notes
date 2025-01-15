@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc05b242d9ad2662",
+        "id": "23af3df0b1485202",
         "type": "tabs",
         "children": [
           {
-            "id": "b78581cd2cf0ed3c",
+            "id": "e1d1a521f8517071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSI-4430/Agile Methodology.md",
+                "file": "CSI-3450/Entity Relationship Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agile Methodology"
+              "title": "Entity Relationship Models"
             }
           }
         ]
@@ -188,13 +188,25 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b78581cd2cf0ed3c",
+  "active": "e1d1a521f8517071",
   "lastOpenFiles": [
-    "CSI-4430/Introduction.md",
+    "CSI-4600/Assignments/1/Assignment 1.pdf",
+    "CSI-4600/Assignments/1/Assignment 1.pdf.crdownload",
+    "CSI-4600/Assignments/1/Assignment 1.doc",
+    "CSI-4600/Assignments/1/Unconfirmed 197195.crdownload",
+    "CSI-4600/Assignments/1",
+    "CSI-4600/Assignments/New folder",
+    "CSI-4600/Assignments",
+    "CSI-4600/New folder",
+    "CSI-3450/Assignments/1/Diagram.md",
+    "CSI-3450/Entity Relationship Models.md",
     "CSI-4430/Agile Methodology.md",
+    "CSI-4430/Introduction.md",
     "CSI-4430/Organizational Approaches.md",
     "conflict-files-obsidian-git.md",
     "CSI-3620/Arrays.md",
@@ -204,20 +216,11 @@
     "CSI-3620/Assignments/2/Assignment 2.pdf",
     "CSI-3620/Assignments/2/Assignment 2.pdf.crdownload",
     "CSI-3620/Assignments/1",
-    "CSI-3620/Assignments/2/Assignment 2.docx",
-    "CSI-3620/Assignments/2/Unconfirmed 896925.crdownload",
-    "CSI-3620/Assignments/2",
-    "CSI-3620/Assignments/New folder",
-    "CSI-3450/Assignments/1/Diagram.md",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
-    "CSI-3450/Assignments/1/Untitled diagram-2025-01-13-191539.png.crdownload",
-    "CSI-3450/Assignments/1/Assignment1-ER Diagram.pdf",
-    "CSI-3450/Entity Relationship Models.md",
     "CSI-3450/Hospital ERD Example.md",
     "CSI-3450/example-erd.png",
     "CSI-3450/medical er-2025-01-08-160459.png",
     "CSI-3620/Pasted image 20250109114048.png",
-    "CSI-3620/Textbooks/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf",
     "CSI-3620/Fundamental Types in C++.md",
     "CSI-3620/Defining Variables.md",
     "CSI-3620/Quiz Solutions/Quiz 1 Solutions.md",
