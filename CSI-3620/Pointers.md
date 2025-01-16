@@ -81,6 +81,7 @@ For variables of type `char`, its value will always be in front of the memory ad
 # Special types
 **Void pointer**: pointer that can point to a variable of any type. 
 - Use `void*` notation.
+- `void` pointers cannot be dereferenced. 
 
 Example
 ```c++

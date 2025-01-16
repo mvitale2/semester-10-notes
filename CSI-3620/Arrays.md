@@ -92,3 +92,138 @@ int main() {
 }
 ```
 # Array of Pointers
+## Example 1
+```c++
+// Description: Demonstrating how an array of pointers work
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Create an array of string pointers with 4 elements (indices 0-3)
+    string* movies[4];
+
+    // Create 4 movie variables
+    string movie1 = "Interstellar";
+    string movie2 = "Inception";
+    string movie3 = "The Dark Knight";
+    string movie4 = "Dunkirk";
+
+    // Assign the movie variables to the array of pointers
+    movies[0] = &movie1;
+    movies[1] = &movie2;
+    movies[2] = &movie3;
+    movies[3] = &movie4;
+
+    // Print some stuff to the terminal
+    cout << "First movie: " << *movies[0] << "\n";
+    cout << "Second movie: " << *movies[1] << "\n";
+    cout << "Third movie: " << *movies[2] << "\n";
+    cout << "Fourth movie: " << *movies[3] << "\n";
+
+    // Print the memory locations of the pointers
+    cout << "Memory location of first movie: " << movies[0] << "\n";
+    cout << "Memory location of second movie: " << movies[1] << "\n";
+    cout << "Memory location of third movie: " << movies[2] << "\n";
+    cout << "Memory location of fourth movie: " << movies[3] << "\n";
+}
+```
+
+Three ways to access the first element of an array of pointers:
+1. The array name is a pointer to the 0th element
+2. Can create a pointer to point to the array (as a whole)
+3. Can create a pointer to point to the 0th element in the array
+
+Pointers in arrays don't need to be dereferenced. 
+## Example 2
+```c++
+// Description: Demonstrate that the array name is a pointer to the 0th element
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Declare ana rray of video games
+    string video_games[] = {"The Legend of Zelda", "Super Mario Bros.", "Metroid"};
+    // Create a pointer equal to the video_games array
+    // Needs to be a string type pointer, because it's pointing to a string array
+    string* video_games_ptr = video_games;
+    // Triple check that the pointer is pointing to the 0th element
+    string* first_video_game = &video_games[0];
+    // Print out the memory locations of the pointer and the 0th element
+    cout << "Memory location of the pointer: " << video_games << "\n";
+    cout << "Print video games pointer: " << video_games_ptr << "\n";
+    cout << "Printing first_video_game pointer: " << first_video_game << "\n";
+    
+    // Print zelda to the terminal using each of the pointers
+    cout << "Printing video_games[0] using video_games: " << video_games[0] << "\n";
+    cout << "Printing video_games[0] using video_games_ptr: " << video_games_ptr[0] << "\n";
+    cout << "Printing video_games[0] using first_video_game: " << first_video_game[0] << "\n";
+}
+```
+# Strings
+Strings in C++ are treated as fixed-length arrays that end with the null character. Due to this, not many string operations are available by default. 
+## Example 1
+```c++
+// Description: Basic string operations
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Create a normal string variable
+    string str = "Hello, World!";
+    cout << str << endl;
+    cout << "First letter of the string is: " << str[0] << endl;
+    // Using sizeof will return whitespace since the actual last character is the null value indicating the end of the string
+    // cout << "Last letter of the string is: " << str[sizeof(str) - 1] << endl;
+    // Using length() will return the actual last character of the string
+    cout << "Last letter of the string is: " << str[str.length() - 1] << endl;
+
+    // Add some pointers
+    // Create a pointer to the string
+    string* str_pointer = &str;
+
+    // Print the string using the pointer by dereferencing it
+    cout << "String using pointer: " << *str_pointer << endl;
+    // Print the memory location of the string
+    cout << "Memory location of the string: " << str_pointer << endl;
+}
+```
+## Example 2
+```c++
+// Description: String operations with stl
+
+#include <iostream>
+using namespace std;
+
+#include <string>
+using std::string;
+
+int main() {
+    // Create a normal string
+    string str = "Hello, World!";
+
+    // Create other strings that add to the original string
+    string str2 = "foo";
+    string str3 = "bar";
+    string death = "bye world!";
+
+    // Concatenate strings, the string library is required to do this
+    string str4 = str2 + str3;
+    string str5 = str + " " + death;
+
+    // Compare strings based on ASCII table
+    if (str > str2)
+        cout << "str is greater than str2" << endl;
+    else
+        cout << "str is less than str2" << endl;
+
+    // Print the strings
+    cout << str << endl;
+    cout << str2 << endl;
+    cout << str3 << endl;
+    cout << str4 << endl;
+    cout << str5 << endl;
+}
+```
