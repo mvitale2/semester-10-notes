@@ -15,9 +15,9 @@ cout << "Current gear: " << current_gear
    The `*` operator has two use cases:
    1. It defines a variable as a pointer.
    2. It is used to de-reference a pointer, which prints the current value instead of the memory location. 
-5. `Arrays` store values of any type, such as `string` or `int`. 
-   `Enums` allow the programmer to create their own "types." A variable declared with a type of an `enum` can only have a value stored within the `enum`. 
-   `Structures` or `struct` are a way to declare pseudo-objects in C++. You define a template of an object and can assign values to attributes of that object. Example:
+5. Arrays store values of any type, such as `string` or `int`. 
+   Enums allow the programmer to create their own "types." A variable declared with a type of an `enum` can only have a value stored within the `enum`. 
+   Structures or `struct` are a way to declare pseudo-objects in C++. You define a template of an object and can assign values to attributes of that object. Example:
 ```c++
 struct house {
 	string street
@@ -58,7 +58,7 @@ float* midterm_ptr;
 float* final_ptr;
 assignments_ptr = &assignments;
 midterm_ptr = &midterm;
-final_ptr = &final;
+final_ptr = &finalexam;
 ```
 7. Debug the code:
 ```c++
@@ -72,7 +72,7 @@ employees[2] = "Rosa Diaz";
 employees[3] = "Raymond Holt"; 
 }
 ```
-**Description of the problem:** The `employees[]` array is not properly declared. 
+**Description of the problem:** The `employees[]` array is not properly declared. When an empty array is declared in C, its index size must be specified.  
 **How to fix it:** The array needs a type declaration as well as an index number.
 ```c++
 string employees[4];
@@ -95,4 +95,101 @@ int main() {
 	transcript[1][2] = 3.9; 
 }
 ```
-**Description of the problem:** 
+**Description of the problem:** Arrays in C++ start at 0, so it isn't necessary to declare the first column with an index of 3. 
+**How to fix it:** Change `float transcript[3][2]` to `float transcript[2][2]`.
+9. Debug the code:
+```c++
+#include <iostream> 
+using namespace std; 
+int main() { 
+	// Declares an array of video games 
+	string video_games[] = {"Skyrim", "RDR2", "Mass Effect", "Witcher 3", "Age of Innocence"}; 
+	// Create a pointer equal to the video_games array
+	string* video_games_ptr = video_games; 
+	// Create a pointer equal to the address of the first element of the video_games array 
+	string* first_game_ptr = &video_games[0]; 
+	// Prints out each variable, demonstrating that they all point to the same memory location 
+	cout << "Printing video_games array: " << video_games << "\n"; 
+	cout << "Printing video_games_ptr: " << video_games_ptr << "\n"; 
+	cout << "Printing first_game_ptr: " << first_game_ptr << "\n\n"; 
+	// Prints various values from array 
+	cout << "Print RDR2 with video_games array: " << video_games[1] << "\n"; 
+	cout << "Print Skyrim with video_games_ptr: " << *video_games_ptr << "\n"; 
+	cout << "Print Age of Innocence with first_game_ptr: " << first_game_ptr + 5 << "\n"; 
+}
+```
+**Description of the problem:** Adding 5 to the `first_game_ptr` just prints the memory location plus 5, not the string "Age of Innocence."
+**How to fix it:** change `first_game_ptr + 5` to `first_game_ptr[4]`, which properly references the stored string. 
+10. Debug the code:
+```c++
+#include <iostream> 
+using namespace std; 
+int main() { 
+	// Declares structure to include various details about a movie struct 
+	Movie { 
+		string title; 
+		int year_released; 
+		float rating; 
+	} 
+	// Define Interstellar movie according to IMDB Movie
+	favorite_movie = { "Interstellar"; 2014; 8.6 } 
+}
+```
+**Description of the problem:** This is a syntax error. When instantiating `favorite_move`, commas are used instead of semicolons to separate each attribute. 
+**How to fix it:** Use commas instead of semicolons when instantiating `favorite_movie`.
+```c++
+favorite_movie = { "Interstellar", 2014, 8.6 }
+```
+11. write code :)
+```c++
+/* Filename: a2_q11.cpp
+* Author: Michael Vitale
+* Description: Demonstrate how pointers work. 
+*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Declare float variable
+    float a = 2.1;
+    // Declare a float pointer variable
+    float* a_ptr;
+    // Assign the a variable to the pointer to point to a's memory location
+    a_ptr = &a;
+
+    // Print the stored memory size of a and a_ptr
+    cout << sizeof(a) << endl; 
+    cout << sizeof(a_ptr) << endl;
+}
+```
+12. write code :)
+```c++
+/* Filename: a2_q12.cpp
+* Author: Michael Vitale
+* Description: String variable and pointer shenanigans
+*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Declare string variable & pointer
+    string book = "The Crystal Shard";
+    string* book_ptr;
+    book_ptr = &book;
+    
+    // Print the variables
+    cout << book << endl;
+    cout << book_ptr << endl;
+    cout << "Dereferenced pointer: " << *book_ptr << endl;
+
+    // Modify the book string
+    book = "House of Leaves";
+
+    // Reprint the variables
+    cout << book << endl;
+    cout << book_ptr << endl;
+    cout << "Dereferenced pointer: " << *book_ptr << endl;
+}
+```

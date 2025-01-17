@@ -1,0 +1,1 @@
+![[vitale_a1.png]]
