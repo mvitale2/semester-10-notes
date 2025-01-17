@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb6b7291d2b12882",
+        "id": "31eb1e5d6b2e1acc",
         "type": "tabs",
         "children": [
           {
-            "id": "aa448f4df9f0d28a",
+            "id": "74de8a49667c06cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,19 +188,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aa448f4df9f0d28a",
+  "active": "8898be814895f678",
   "lastOpenFiles": [
-    "CSI-3620/Assignments/2/Answers.md",
+    "CSI-4600/Assignments/1/Answers.md",
     "CSI-3620/Assignments/2/vitale_a2.pdf",
+    "CSI-4600/Assignments/1/vitale_a1.pdf",
+    "CSI-4600/Assignments/1/Markdown to PDF.pdf.crdownload",
+    "CSI-4600/Assignments/1/Assignment 1.pdf",
+    "CSI-4600/Network Definitions.md",
+    "CSI-3620/Assignments/2/Answers.md",
     "CSI-3620/Assignments/2/Markdown to PDF.pdf.crdownload",
     "CSI-3620/Assignments/2/a2_q12.cpp",
     "CSI-3620/Assignments/2/a2_q11.cpp",
     "CSI-3620/Assignments/2/Assignment 2.pdf",
     "CSI-3620/types-size.txt",
     "CSI-3620/enum-output.txt",
-    "CSI-3620/Assignments/1/vitale_a1.pdf",
-    "CSI-3620/Assignments/1/msoDCF5.tmp",
-    "CSI-3620/Assignments/1/Assignment 1.pdf",
     "CSI-3620/Assignments/1/Answer.md",
     "CSI-3620/Assignments/1/vitale_assignment1.png",
     "CSI-3620/Assignments/1/vitale_a1.png",
@@ -226,7 +228,6 @@
     "CSI-3620/Defining Variables.md",
     "CSI-3620/Quiz Solutions/Quiz 1 Solutions.md",
     "CSI-4600/Introduction.md",
-    "CSI-4600/Network Definitions.md",
     "CSI-4430/AI Is Silly.md",
     "CSI-3450/Why Databases.md"
   ]
