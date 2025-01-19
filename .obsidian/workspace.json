@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31eb1e5d6b2e1acc",
+        "id": "7c0891fe860410b6",
         "type": "tabs",
         "children": [
           {
-            "id": "74de8a49667c06cd",
+            "id": "ff366c5a08d4017e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,8 +188,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8898be814895f678",
+  "active": "2c33e8282e3302ee",
   "lastOpenFiles": [
+    "CSI-3620/Textbooks/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf",
+    "CSI-3620/Textbooks/Common Sense Guide Exercises.md",
+    "CSI-3620/Textbooks/Data Structures and Algorithms in C++, Second Edition -- Safari, an O'Reilly Media Company_; Goodrich, Michael; -- 1st edition, 2011 -- Wiley; John -- 9780470383278 -- 92cb9026468c294f9f72259017f8f6c3 -- Anna’s Arc.pdf",
+    "CSI-4600/Computer & Internet Security_ A Hands-on Approach -- Wenliang Du -- 2, 2019 -- Wenliang Du -- 9781733003933 -- bdd025c83ef0a462b659f98e2ad2d7ca -- Anna’s Archive.pdf",
+    "CSI-4600/Cryptography and Network Security_ Principles and Practice, -- William Stallings -- 7, 2017 -- Pearson -- 9780134444284 -- ea4cc998e9d9498d285b386680badebd -- Anna’s Archive.pdf",
     "CSI-4600/Assignments/1/Answers.md",
     "CSI-3620/Assignments/2/vitale_a2.pdf",
     "CSI-4600/Assignments/1/vitale_a1.pdf",
@@ -199,10 +204,6 @@
     "CSI-3620/Assignments/2/Answers.md",
     "CSI-3620/Assignments/2/Markdown to PDF.pdf.crdownload",
     "CSI-3620/Assignments/2/a2_q12.cpp",
-    "CSI-3620/Assignments/2/a2_q11.cpp",
-    "CSI-3620/Assignments/2/Assignment 2.pdf",
-    "CSI-3620/types-size.txt",
-    "CSI-3620/enum-output.txt",
     "CSI-3620/Assignments/1/Answer.md",
     "CSI-3620/Assignments/1/vitale_assignment1.png",
     "CSI-3620/Assignments/1/vitale_a1.png",
