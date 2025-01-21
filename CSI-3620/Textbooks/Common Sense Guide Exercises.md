@@ -16,3 +16,7 @@
 1. 4 steps
 2. 2 steps
 3. 16 steps
+# Chapter 3
+1. O(1)
+2. O(N)
+3. 

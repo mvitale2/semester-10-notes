@@ -8,13 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3530f4391b05b332",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CSI-3620/Textbooks/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b992a34ea429e92f",
+        "type": "tabs",
+        "children": [
+          {
             "id": "ff366c5a08d4017e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3620/Textbooks/Common Sense Guide Exercises.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Common Sense Guide Exercises"
             }
           }
         ]
@@ -73,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4385881bf15cb535",
@@ -172,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +212,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "ff366c5a08d4017e",
   "lastOpenFiles": [
     "CSI-3620/Textbooks/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf",
     "CSI-3620/Textbooks/Common Sense Guide Exercises.md",
