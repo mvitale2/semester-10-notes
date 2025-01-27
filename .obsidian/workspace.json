@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d58f38c940ebdb6c",
+        "id": "03acdabf56afbaca",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a2045ca2d8ccb8",
+            "id": "e03082648f43bd8e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,10 +172,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,6 +190,9 @@
   },
   "active": "8898be814895f678",
   "lastOpenFiles": [
+    "CSI-3450/Assignments/1/Diagram.md",
+    "CSI-3450/Entity Relationship Models.md",
+    "CSI-3450/Introduction to SQL.md",
     "conflict-files-obsidian-git.md",
     "CSI-4600/Assignments/1/Answers.md",
     "CSI-4600/Assignments/1",
@@ -209,7 +213,6 @@
     "CSI-3620/Structures.md",
     "CSI-3620/Quiz Solutions/Quiz 3 Solutions.md",
     "CSI-4600/Information Security.md",
-    "CSI-3450/Entity Relationship Models.md",
     "CSI-4430/Organizational Approaches.md",
     "CSI-4430/Agile Methodology.md",
     "CSI-3620/Quiz Solutions/Quiz 2 Solutions.md",
@@ -219,7 +222,6 @@
     "CSI-4600/Network Definitions.md",
     "CSI-3620/Assignments/2/Assignment 2.pdf",
     "CSI-3620/Pointers.md",
-    "CSI-3450/Assignments/1/Diagram.md",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
     "CSI-3450/Hospital ERD Example.md",
     "CSI-3450/example-erd.png",
@@ -228,7 +230,6 @@
     "CSI-3620/Fundamental Types in C++.md",
     "CSI-3620/Defining Variables.md",
     "CSI-3620/Quiz Solutions/Quiz 1 Solutions.md",
-    "CSI-3620/Assignments/1/vitale_assignment1.png",
-    "CSI-4430/Introduction.md"
+    "CSI-3620/Assignments/1/vitale_assignment1.png"
   ]
 }
