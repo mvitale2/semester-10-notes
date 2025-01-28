@@ -1,5 +1,7 @@
 Every variable and data structure is stored in computer memory somewhere. 
 
+Pointers are essentially variables that store memory locations.  
+
 Variables have information associated with them:
 - Name
 - Value
@@ -10,7 +12,11 @@ Variables have information associated with them:
 - Pointers take up less space than an entire data structure
 - Pointers can be used for simple variables
 # Declaring Pointers
-A pointer uses the same data types followed by an asterisk. 
+- Need to use a data type (unless it's `void`)
+- Need to use `*` after the data type
+- Type the variable name
+
+To link it to a variable's memory location, use the `&` operator. The target variable must be defined. 
 
 ```c++
 int grade; // normal int variable
@@ -20,23 +26,8 @@ int* grade_ptr; // defines a pointer that refers to a memory location
 grade_ptr = &grade; // sets the pointer equal to the memory location of grade
 ```
 ## Example 1
-```c++
-// Description: We love pointers!
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    //Define a new integer variable
-    int grade = 100;
-    // Define a new pointer variable that points to an integer variable
-    int* grade_ptr;
-    // We have two unrelated variables
-    // grade_ptr is a pointer that refers to the address of the grade variable
-    grade_ptr = &grade;
-    cout << "The value of grade is: " << grade << "\n";
-    cout << "The value of grade_ptr is: " << grade_ptr << "\n";
-}
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/intro_to_pointers.cpp"
 ```
 ## How to not declare a pointer
 It is not possible to declare pointers on one line.
@@ -58,22 +49,8 @@ Dereferencing a pointer while the memory location has no assigned value is a log
 
 Additionally, it's a hacking technique to refer to a location in memory to try to decipher the value of, for example, an encryption key. 
 ## Example 2
-```c++
-// Description: Get more practice with pointers
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    // Define a normal variable
-    char ch = 'h';
-    // Define a pointer that refers to the memory location of the ch variable
-    char* p = &ch;
-    //Print the value of the pointer
-    cout << "Memory location: " << p << "\n";
-    //Print the value of the dereferenced pointer
-    cout << "Value of pointer: " << *p << "\n";
-}
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/more_pointers.cpp"
 ```
 ### Example output
 ![[Pasted image 20250109114048.png]]
@@ -84,24 +61,6 @@ For variables of type `char`, its value will always be in front of the memory ad
 - `void` pointers cannot be dereferenced. 
 
 Example
-```c++
-/* Filename: special_pointers.cpp
-* Description: Provide an overview of how to use void and null pointers.
-*/
-
-#include <iostream>
-using namespace std;
-
-int main() {
-	int* nullpointer = NULL;
-	
-	cout << "Value of null_pointer: " << nullpointer << "\n";
-    cout << "Dereferenced value of null_pointer: " << *nullpointer << "\n";
-
-    int value = 5;
-    void* void_ptr;
-    cout << "value of void_ptr: " << void_ptr << "\n";
-    // C will not like this line because the void pointer has no bytes to dereference
-    // cout << "dereferenced value of void_ptr: " << *void_ptr << "\n";
-}
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/special_pointers.cpp"
 ```

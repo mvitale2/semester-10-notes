@@ -1,0 +1,1 @@
+1. What would be printed to the screen if the following code were executed? In the event of a memory location, write "memory location of X", where X is a value stored at that memory location (i.e. replace X).
