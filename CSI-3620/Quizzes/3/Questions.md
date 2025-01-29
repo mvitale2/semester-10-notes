@@ -7,7 +7,7 @@ int main() {
 	double gpa = 3.97;
 	void* void_ptr = &gpa;
 
-	coout << "Value of void_ptr: " << void_ptr << "\n";
+	cout << "Value of void_ptr: " << void_ptr << "\n";
 	cout << "Dereferenced value of void_ptr: " << *void_ptr << "\n";
 }
 ```
