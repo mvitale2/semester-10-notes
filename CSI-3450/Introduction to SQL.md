@@ -65,3 +65,39 @@ CREATE TABLE Students (
 	PRIMARY KEY (sid),
 )
 ```
+# Notation
+Input schema:
+Product(*Pname*, Price, Category, *Manufacturer*)
+Output schema:
+Answer(*Pname*, Price, Manufacturer)
+
+```sql
+SELECT Pname, Price, Manufacturer
+FROM Product
+WHERE Category = 'Gadgets';
+```
+## LIKE: String pattern matching
+```sql
+SELECT *
+FROM Products
+WHERE Pname LIKE '%gizmo%';
+```
+
+Identify strings with 'a' in the second position:
+```sql
+SELECT * FROM Customers WHERE CustomerName LIKE '_a%';
+```
+
+Negative searches:
+```sql
+SELECT * FROM Supplier WHERE ContactName NOT LIKE 'a%';
+```
+## ORDER BY: Sorting the results
+Searched data can be ordered. 
+```sql
+SELECT PName, Price, Manufacturer FROM Product WHERE Category='gizmo' AND Price > 50 ORDER BY Price, PName;
+```
+## Referencing Foreign Keys
+```sql
+Foreign Key (Studentid) REFERENCES Student (sid);
+```
