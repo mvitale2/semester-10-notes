@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d456f47901e4b88",
+        "id": "24552fbbdecd4b7b",
         "type": "tabs",
         "children": [
           {
-            "id": "683ec0ab5aac12c1",
+            "id": "799f6b5ee3b85a57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-4430/1.30.25 - Schedule Management.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.30.25 - Schedule Management"
             }
           }
         ]
@@ -148,23 +152,23 @@
             }
           },
           {
-            "id": "f09b45fc76319ac0",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "901e8314163d044c",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "87c57cef75776a80",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -188,8 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "799f6b5ee3b85a57",
   "lastOpenFiles": [
+    "CSI-4430/Pasted image 20250130182402.png",
+    "CSI-4430/1.30.25 - Schedule Management.md",
+    "CSI-4430/Management_Learning_to_live_with_red_tape_It_can_tie_up_projects_unduly_yet_the_organization_man_or_woman_can_use_it_wisely.pdf",
     "CSI-3620/Quizzes/2/Questions.md",
     "CSI-3620/Quizzes/3/Questions.md",
     "CSI-3620/Quizzes/4/Practice.md",
@@ -220,12 +227,10 @@
     "CSI-3620/cpp/executables/a.exe",
     "CSI-3620/cpp/executables/debug.exe",
     "CSI-3620/cpp/executables/sum.exe",
-    "CSI-3620/cpp/executables/size.exe",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3620/Defining Variables.md",
     "CSI-3450/Assignments/1/Diagram.md",
     "CSI-3450/Entity Relationship Models.md",
-    "CSI-3450/Introduction to SQL.md",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
     "CSI-3450/example-erd.png",
     "CSI-3450/medical er-2025-01-08-160459.png",
