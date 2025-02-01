@@ -59,7 +59,7 @@ Next establish checklists for maintaining contacts with those whose opinions sho
 Proceeding without authorization to get the job done is highly touted in novels and in movies, The hero succeeds, and the company climbs to new heights of sales and prestige. We never hear of the failures by the wayside. 
 
 But there may come a time when red tape is better cut than followed. What, you may ask, is one to do when the red tape process does interfere with an important and time-constrained assignment? The problem is learning to distinguish between apparent "emergencies" and real ones. When red tape is cut, the risks are generally enormous. As one who was burned, may I offer some suggestions? If you choose to cut through red tape: 
-- Maintain the attitude publicly that you are doing it for the job only-because of time, importance, and the like. Don't let yourself be branded as a rebel against the system.
+- Maintain the attitude publicly that you are doing it for the job only -- because of time, importance, and the like. Don't let yourself be branded as a rebel against the system.
 - Work through your supervisor and get tacit approval for what you are doing.
 - Make absolutely sure that you have all the facts. Is the item really that important for you to put yourself in jeopardy and your colleagues through the strains of this violation of routine? Or is it really only your interpretation, your personal scale of values, that makes this matter nonroutine? I should have asked these questions when I cut the red-tape approvals for my Zener diode circuits. Had I been less headstrong, had I searched out all the facts, I could have avoided trouble.
 - Develop a standing plan for yourself that prescribes how you will cut red tape should the occasion arise. This will pre- vent you from "shooting from the hip."
@@ -71,7 +71,7 @@ Simply put, not everyone who works for a company has his or her heart, mind or s
 
 Red tape, in short, can help to ensure that what comes out of an organization is correct, can withstand all the legal ramifications, and meets the needs of the organization over the long term. It assures that a simple response to a customer does not become the basis for a liability suit or that a simple meeting with another company's representative does not lead to a collusion-in-pricing lawsuit. 
 
-Corporate reform from the bottom is rare; it must come from the top. But I'm willing to bet that when you reach the top, you will undo very few of the red-tape controls you at- tacked from the bottom. They really do serve a function in most cases. And if they don't, get the brass to reform them.
+Corporate reform from the bottom is rare; it must come from the top. But I'm willing to bet that when you reach the top, you will undo very few of the red-tape controls you attacked from the bottom. They really do serve a function in most cases. And if they don't, get the brass to reform them.
 
 *Published by IEEE Spectrum, July 1979*
 
