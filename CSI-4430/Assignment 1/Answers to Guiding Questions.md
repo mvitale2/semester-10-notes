@@ -10,6 +10,7 @@
 The following are answers to the questions in [[Peer Review Rubric CSI 4430 Winter 2025.pdf]] and serve as an outline for the essay. 
 ## Title & Abstract
 1. The title is appropriate as it summarizes the main point of the article. 
+2. The article does not include an abstract. 
 ## Introduction
 
 ## Materials & Methods
