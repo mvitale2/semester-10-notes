@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a5e967b130bc8ed",
+        "id": "b953ebbc2c2fc142",
         "type": "tabs",
         "children": [
           {
-            "id": "b557d03f97bf7521",
+            "id": "7b6f76d5915be5fd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "4385881bf15cb535",
@@ -173,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,18 +190,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "7b6f76d5915be5fd",
   "lastOpenFiles": [
+    "CSI-4430/Assignment 1/References/Fostering Collaborative Innovation.pdf",
     "CSI-4430/Assignment 1/Answers to Guiding Questions.md",
-    "CSI-4430/Assignment 1/Peer Review Rubric CSI 4430 Winter 2025.pdf",
     "CSI-4430/Assignment 1/Learning to Live With Red Tape.md",
-    "CSI-4430/Assignment 1/Peer Review Rubric CSI 4430 Winter 2025.pdf.crdownload",
-    "CSI-4600/Assignments/3/Assignment 3.doc",
-    "CSI-4600/Assignments/3/Unconfirmed 115583.crdownload",
-    "CSI-4600/Assignments/3",
-    "CSI-4600/Assignments/New folder",
+    "CSI-4430/Assignment 1/Peer Review Rubric CSI 4430 Winter 2025.pdf",
+    "CSI-4430/Assignment 1/References/Mixed Feelings.pdf",
+    "CSI-4430/Assignment 1/References/Employee Performace Management.pdf",
+    "CSI-4430/Assignment 1/References/EBSCO-FullText-02_02_2025.pdf",
+    "CSI-4430/Assignment 1/References",
+    "CSI-4430/Assignment 1/Employee Performace Management.pdf",
+    "CSI-4430/Assignment 1/EBSCO-FullText-02_02_2025.pdf.crdownload",
+    "CSI-4430/Assignment 1/Mixed Feelings.pdf",
+    "CSI-4430/Assignment 1/EBSCO-FullText-02_02_2025 (1).pdf.crdownload",
     "CSI-4430/Notes/1.30.25 - Schedule Management.md",
-    "CSI-4430/Assignment 1/red-tape.pdf",
     "[Program.md",
     "CSI-4430/Notes/Project Management.md",
     "CSI-4430/Notes/Project Integration Management.md",
@@ -208,10 +213,7 @@
     "CSI-4430/Notes/AI Is Silly.md",
     "CSI-4430/Notes/Agile Methodology.md",
     "CSI-4430/Notes/1.28.25 - Scope Management.md",
-    "CSI-4430/Notes",
     "CSI-4430/1.28.25 - Scope Management.md",
-    "CSI-4430/Textbooks",
-    "CSI-4430/Assignment 1",
     "CSI-3450/Assignments/2/Diagram.md",
     "CSI-4430/1.30.25 - Schedule Management.md",
     "CSI-4430/Pasted image 20250130182402.png",
