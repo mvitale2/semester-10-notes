@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a5e967b130bc8ed",
+        "id": "d2640cdebfcf257b",
         "type": "tabs",
         "children": [
           {
-            "id": "b557d03f97bf7521",
+            "id": "dd35c1c15bad208b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3450/Introduction to SQL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction to SQL"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "4385881bf15cb535",
@@ -188,12 +193,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "dd35c1c15bad208b",
   "lastOpenFiles": [
+    "CSI-3450/SQL Semantics.md",
+    "CSI-3450/Introduction to SQL.md",
     "CSI-4430/Assignment 1/Answers to Guiding Questions.md",
     "CSI-4430/Assignment 1/Peer Review Rubric CSI 4430 Winter 2025.pdf",
-    "CSI-4430/Assignment 1/Learning to Live With Red Tape.md",
     "CSI-4430/Assignment 1/Peer Review Rubric CSI 4430 Winter 2025.pdf.crdownload",
+    "CSI-4430/Assignment 1/Learning to Live With Red Tape.md",
     "CSI-4600/Assignments/3/Assignment 3.doc",
     "CSI-4600/Assignments/3/Unconfirmed 115583.crdownload",
     "CSI-4600/Assignments/3",
@@ -225,7 +232,6 @@
     "CSI-3620/Quizzes/3/Practice.md",
     "CSI-3620/Quizzes/3/Solutions.md",
     "CSI-3620/Quizzes/2/Practice.md",
-    "CSI-3620/Quizzes/2/Solutions.md",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
     "CSI-3450/example-erd.png",

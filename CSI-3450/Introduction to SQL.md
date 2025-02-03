@@ -101,3 +101,86 @@ SELECT PName, Price, Manufacturer FROM Product WHERE Category='gizmo' AND Price 
 ```sql
 Foreign Key (Studentid) REFERENCES Student (sid);
 ```
+## Joins
+```sql
+SELECT PName, Price
+FROM Product, Company
+WHERE Manufacturer = CName AND Country = 'Japan' AND Price <= 200;
+```
+
+| PName       | Price | Category    | Manufacturer |
+| ----------- | ----- | ----------- | ------------ |
+| Gizmo       | $19   | Gadgets     | GizmoWorks   |
+| Powergizmo  | $29   | Gadgets     | GizmoWorks   |
+| SingleTouch | $149  | Photography | Canon        |
+| MultiTouch  | $203  | Household   | Hitachi      |
+
+| CName      | Stock Price | Country |
+| ---------- | ----------- | ------- |
+| GizmoWorks | 25          | USA     |
+| Canon      | 65          | Japan   |
+| Hitachi    | 15          | Japan   |
+The above query outputs the following result with the above tables:
+
+| PName       | Price |
+| ----------- | ----- |
+| SingleTouch | $149  |
+# Simple Aggregations
+1. Sum
+2. Avg
+3. Count
+4. GroupBy
+## SUM
+
+| Product | Date | Price | Quantity |
+| ------- | ---- | ----- | -------- |
+| bagel   | 1/10 | 1     | 20       |
+| banana  | 1/8  | 3     | 100      |
+| pear    | 1/19 | 2     | 50       |
+| bagel   | 1/2  | 4     | 40       |
+```sql
+SELECT SUM(price * quantity)
+FROM Purchase
+WHERE product = 'bagel';
+```
+Output:
+selects both bagel rows and multiples price and quantity, then adds them together.
+$(1*20) + (4*40) = 180$
+## GROUPBY
+| Product | Date | Price | Quantity |
+| ------- | ---- | ----- | -------- |
+| bagel   | 1/10 | 1     | 20       |
+| banana  | 1/8  | 3     | 100      |
+| banana  | 1/19 | 2     | 50       |
+| bagel   | 1/2  | 4     | 40       |
+```sql
+SELECT product, SUM(price * quantity) AS TotalSales
+FROM Purchase
+WHERE date > '10/1'
+GROUP BY product
+```
+Output:
+
+There would only be two cells in the product column, bagel and banana. The corresponding rows would be aligned with their respective products. 
+# HAVING Clause
+```sql
+SELECT product, SUM(price*quantity)
+FROM purchase
+WHERE date > '10/1/2025'
+GROUP BY product
+HAVING SUM(quantity) > 100;
+```
+Having clauses contain conditions on aggregates, whereas WHERE clauses condition on individual tuples. 
+## General Form
+```sql
+SELECT S
+FROM R1...Rn
+WHERE C1
+GROUP BY a1...ak
+HAVING C2
+```
+Evaluation steps:
+1. Evaluate FROM-WHERE
+2. GROUP BY the attributes a1,..., ak
+3. Apply condition C2 to each group (may need to compute aggregates)
+4. Compute aggregates in S and return the result
