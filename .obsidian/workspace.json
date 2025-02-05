@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a08aaa76e64fc95",
+        "id": "667255db74bdca12",
         "type": "tabs",
         "children": [
           {
-            "id": "44bddb9cef349c6c",
+            "id": "b2382a0778b934fd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 217.5
   },
   "right": {
     "id": "4385881bf15cb535",
@@ -190,11 +190,17 @@
   },
   "active": "2c33e8282e3302ee",
   "lastOpenFiles": [
+    "CSI-3450/Assignments/3/Assignment3-Queries (SQL) .pdf",
+    "CSI-3450/Assignments/3/Answers.md",
+    "CSI-3450/Assignments/3/vitale_assignment3.pdf",
+    "CSI-3450/Assignments/3/Markdown to PDF.pdf.crdownload",
+    "CSI-3450/Introduction to SQL.md",
+    "CSI-3450/Assignments/3/Assignment3-Queries (SQL) .pdf.crdownload",
+    "CSI-3450/Assignments/3",
     "CSI-3450/Nested Queries.md",
     "CSI-3450/Multiset Operations.md",
     "CSI-3450/Joins.md",
     "CSI-3450/Database Systems_ Design, Implementation, & Management -- Carlos Coronel, Steven Morris -- 2018 -- Cengage Learning -- 9781337627900 -- 29edca03c1bac3ea1ab3a1283f5d67a1 -- Anna’s Archive.pdf",
-    "CSI-3450/Introduction to SQL.md",
     "CSI-3450/SQL Semantics.md",
     "CSI-3450/Assignments/1/Diagram.md",
     "CSI-4430/Notes/2.4.2025 - Estimating Costs.md",
@@ -206,12 +212,7 @@
     "CSI-3620/cpp/scanf.cpp",
     "CSI-3620/cpp/executables/a.exe",
     "CSI-3620/cpp/a.exe",
-    "CSI-3620/cpp/const_array.cpp",
     "CSI-3620/Tests/Exam 1.md",
-    "CSI-3620/Tests",
-    "Untitled",
-    "CSI-4600/Term Project (Report  Presentations).pdf",
-    "CSI-4600/Assignments/2/~$signment 2 - Project Proposal .docx",
     "CSI-4600/Assignments/3/Answers.md",
     "CSI-4430/Assignment 1/Learning to Live With Red Tape.md",
     "CSI-4430/Assignment 1/Answers to Guiding Questions.md",
@@ -224,8 +225,6 @@
     "CSI-4430/Notes/Introduction.md",
     "CSI-4430/Notes/1.28.25 - Scope Management.md",
     "CSI-4430/1.28.25 - Scope Management.md",
-    "CSI-3450/Assignments/2/Diagram.md",
-    "CSI-4430/1.30.25 - Schedule Management.md",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
