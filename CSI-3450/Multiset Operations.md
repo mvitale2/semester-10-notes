@@ -1,0 +1,36 @@
+```sql
+SELECT R.A FROM R, S 
+WHERE R.A = S.A 
+INTERSECT 
+SELECT R.A 
+FROM R, T 
+WHERE R.A = T.A;
+```
+```sql
+SELECT R.A 
+FROM R, S 
+WHERE R.A=S.A 
+UNION 
+SELECT R.A 
+FROM R, T 
+WHERE R.A = T.A;
+```
+```SQL
+SELECT R.A
+FROM R, S
+WHERE R.A=S.A
+EXCEPT
+SELECT R.A
+FROM R, T
+WHERE R.A = T.A;
+```
+ALL indicates multiset operations
+```sql
+SELECT R.A
+FROM R,S
+WHERE R.A = S.A
+UNION ALL
+SELECT R.A
+FROM R, T
+WHERE R.A = T.A
+```
