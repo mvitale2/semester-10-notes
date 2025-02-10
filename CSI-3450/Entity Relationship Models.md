@@ -32,7 +32,11 @@ A set of multiple entities.
 ## Instances
 A relationship R that connects n entity sets has an instance. In other words, an occurrence of one entity that has its own attributes. 
 
-For example: (Ben, 1234567890, 123 main st) is a relationship set for the current instance of R. This is equivalent to one table within the database. 
+For example, the tuple Customer(Ben, 1234567890, 123 main st) is a relationship set for the current instance of R. This is equivalent to one table within the database. 
+
+Ben is an instance of name, just like how his phone number and street are instances of their respective columns. 
+
+Customer
 
 | Name | Phone #    | Street      |
 | ---- | ---------- | ----------- |
@@ -106,6 +110,7 @@ A relationship set of this ER would look like this:
 | Sue's | Fanta     |
 | Sue's | Coca-Cola |
 | Sue's | Zero      |
+
 ### Relations
 For a relationship between customers, products, and suppliers, a relation between the entities could be represented like this:
 

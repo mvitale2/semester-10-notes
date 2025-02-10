@@ -76,6 +76,12 @@ SELECT Pname, Price, Manufacturer
 FROM Product
 WHERE Category = 'Gadgets';
 ```
+## Projection
+```sql
+SELECT Pname, Price, Manufacturer
+FROM Product
+WHERE Category = Product
+```
 ## LIKE: String pattern matching
 ```sql
 SELECT *
@@ -105,7 +111,9 @@ Foreign Key (Studentid) REFERENCES Student (sid);
 ```sql
 SELECT PName, Price
 FROM Product, Company
-WHERE Manufacturer = CName AND Country = 'Japan' AND Price <= 200;
+WHERE Product.Manufacturer = Company.CName 
+AND Company.Country = 'Japan' 
+AND Product.Price <= 200;
 ```
 
 | PName       | Price | Category    | Manufacturer |
