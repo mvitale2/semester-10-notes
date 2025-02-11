@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "12c5459d9bda946b",
+        "id": "f524fbfd05c181ba",
         "type": "tabs",
         "children": [
           {
-            "id": "815e5ac270a1da0b",
+            "id": "f361e72e3be7863f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSI-3620/Quizzes/6/Solutions.md",
+                "file": "02-11-2025 - Resource Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solutions"
-            }
-          },
-          {
-            "id": "9902308b8df41bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSI-3620/Boolean Operators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boolean Operators"
+              "title": "02-11-2025 - Resource Management"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,13 +193,17 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9902308b8df41bd7",
+  "active": "8898be814895f678",
   "lastOpenFiles": [
+    "02-11-2025 - Resource Management.md",
+    "CSI-4430/Textbooks/A Guide to the Project Management Body of Knowledge (PMBOK -- Project Management Institute -- Seventh edition, 2021 -- Project Management Institute.pdf",
+    "CSI-3450/Assignments/2/vitale_project_proposal.pdf",
+    "CSI-3450/Assignments/2/CSI5600_4600 Project Proposal.pdf.crdownload",
+    "CSI-3620/Boolean Operators.md",
     "CSI-3620/cpp/functions.cpp",
     "CSI-3620/cpp/data_loss.cpp",
     "CSI-3620/cpp/casting.cpp",
     "CSI-3620/Custom Types.md",
-    "CSI-3620/Boolean Operators.md",
     "CSI-3620/cpp/bool_exp.cpp",
     "CSI-3620/cpp/type_def.cpp",
     "CSI-3620/C++ Syntax and Functions.md",
@@ -222,10 +211,6 @@
     "CSI-3620/Quizzes/5/Solutions.md",
     "CSI-3620/Quizzes/6",
     "CSI-3450/Assignments/4/PostgreSQL commands.pdf",
-    "CSI-3450/Assignments/4/~WRL0003.tmp",
-    "CSI-3450/Assignments/4/~WRD0002.tmp",
-    "CSI-3450/Assignments/4/~WRL0001.tmp",
-    "CSI-3450/Assignments/4/~WRD0000.tmp",
     "CSI-3450/Midterm Review.md",
     "CSI-3450/SQL Semantics.md",
     "CSI-3450/Introduction to SQL.md",
