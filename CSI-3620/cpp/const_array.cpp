@@ -1,28 +1,25 @@
-#include <iostream>
+// #include <iostream>
 #include <stdio.h>
-using namespace std;
+#include <string>
+using std::string;
 
 int main () {
     // Define our constant array size
     const int NUM_VIDEO_GAMES = 5;
-    // Using const instead of
-    // int NUM_VIDEO_GAMES = 5
-    // so that this variable can be used to declare the array size
 
     // Declare an empty array
     string video_games[NUM_VIDEO_GAMES];
+    char charArray[50];
 
-    for (int i=0; i < NUM_VIDEO_GAMES; i++) {
-        // Instruct the user
-        printf("Enter the video game to save:\n");
-        // Get user input and save it to the array
-        cin >> video_games[i];
+    for (int i=0; i<NUM_VIDEO_GAMES; i++) {
+        printf("Enter the game to save: ");
+        // The 49 specifies the maximum number of characters. The last character has to be \0.
+        scanf("%49s", charArray);
+
+        video_games[i] = string(charArray);
     }
 
-    cout << endl;
-
-    // Print each new element of the array
-    for (int i=0; i < NUM_VIDEO_GAMES; i++) {
-        cout << video_games[i] << endl;
+    for (int i=0; i<NUM_VIDEO_GAMES; i++) {
+        printf("%s\n", video_games[i].c_str());
     }
 }

@@ -1,3 +1,7 @@
+# Scanf
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/scanf.cpp"
+```
 # Constants
 The value of a constant variable cannot be changed. In order to signify this, it is common practice to use all caps. 
 

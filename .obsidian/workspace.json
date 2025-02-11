@@ -11,13 +11,32 @@
             "id": "815e5ac270a1da0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3620/Quizzes/6/Solutions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Solutions"
+            }
+          },
+          {
+            "id": "9902308b8df41bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3620/Boolean Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boolean Operators"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,23 +208,28 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "9902308b8df41bd7",
   "lastOpenFiles": [
+    "CSI-3620/cpp/functions.cpp",
+    "CSI-3620/cpp/data_loss.cpp",
+    "CSI-3620/cpp/casting.cpp",
+    "CSI-3620/Custom Types.md",
+    "CSI-3620/Boolean Operators.md",
+    "CSI-3620/cpp/bool_exp.cpp",
+    "CSI-3620/cpp/type_def.cpp",
+    "CSI-3620/C++ Syntax and Functions.md",
+    "CSI-3620/Quizzes/6/Solutions.md",
+    "CSI-3620/Quizzes/5/Solutions.md",
+    "CSI-3620/Quizzes/6",
     "CSI-3450/Assignments/4/PostgreSQL commands.pdf",
     "CSI-3450/Assignments/4/~WRL0003.tmp",
     "CSI-3450/Assignments/4/~WRD0002.tmp",
     "CSI-3450/Assignments/4/~WRL0001.tmp",
     "CSI-3450/Assignments/4/~WRD0000.tmp",
-    "CSI-3450/Assignments/4/~$tale_a4.docx",
-    "CSI-3450/Assignments/4/vitale_a4.docx",
-    "CSI-3450/Assignments/4/New Microsoft Word Document.docx",
     "CSI-3450/Midterm Review.md",
     "CSI-3450/SQL Semantics.md",
     "CSI-3450/Introduction to SQL.md",
     "CSI-3450/Entity Relationship Models.md",
-    "CSI-4430/Textbooks/six-sigma-way.pdf",
-    "CSI-4600/six-sigma-way.pdf",
-    "CSI-4600/six-sigma-way.pdf.crdownload",
     "CSI-4430/Notes/02-06-2025 - Quality.md",
     "CSI-3450/Assignments/3/Answers.md",
     "CSI-3450/Nested Queries.md",
@@ -216,17 +240,12 @@
     "CSI-4430/Notes/Agile Methodology.md",
     "CSI-4430/Notes/AI Is Silly.md",
     "CSI-3620/Fundamental Types in C++.md",
-    "CSI-3620/C++ Syntax and Functions.md",
     "CSI-3620/Tests/Exam 1.md",
     "CSI-4600/Assignments/3/Answers.md",
     "CSI-4430/Assignment 1/Learning to Live With Red Tape.md",
     "CSI-4430/Assignment 1/Answers to Guiding Questions.md",
     "conflict-files-obsidian-git.md",
     "CSI-4430/Notes/01-30-2025 - Schedule Management.md",
-    "[Program.md",
-    "CSI-4430/Notes/Project Management.md",
-    "CSI-4430/Notes/Project Integration Management.md",
-    "CSI-4430/Notes/Organizational Approaches.md",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
