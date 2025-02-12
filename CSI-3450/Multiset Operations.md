@@ -1,3 +1,6 @@
+A multiset is a set that allows duplicate elements. SQL tables act like multisets since rows and columns can be duplicated, unless they are defined as a primary key or unique. 
+# SQL Examples
+
 ```sql
 SELECT R.A FROM R, S 
 WHERE R.A = S.A 

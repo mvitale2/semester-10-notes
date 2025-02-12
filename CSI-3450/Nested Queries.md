@@ -37,8 +37,3 @@ Company
 | Gizmo     | NY      |
 | Tech Corp | NY      |
 | Innovated | Chicago |
-The output of the query would look like this:
-
-|     |     |
-| --- | --- |
-|     |     |
