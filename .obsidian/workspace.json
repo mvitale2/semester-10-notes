@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c7e92f2a6a70a37",
+        "id": "2bcc2728d79503ad",
         "type": "tabs",
         "children": [
           {
-            "id": "3a922e2ca123bd49",
+            "id": "128813f32e4ce168",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,9 +191,10 @@
   },
   "active": "2c33e8282e3302ee",
   "lastOpenFiles": [
+    "CSI-3450/Exam 1 Cheat Sheet.md",
+    "CSI-3450/Exam 1 Cheat Sheet.md",
     "CSI-3450/Entity Relationship Models.md",
     "CSI-3450/Introduction to SQL.md",
-    "CSI-3450/Exam 1 Cheat Sheet.md",
     "CSI-3450/Multiset Operations.md",
     "CSI-3450/Joins.md",
     "CSI-3450/Relational Algebra.md",
@@ -227,7 +228,6 @@
     "CSI-4430/Notes/AI Is Silly.md",
     "CSI-3620/Fundamental Types in C++.md",
     "CSI-3620/Tests/Exam 1.md",
-    "CSI-4600/Assignments/3/Answers.md",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
