@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "790f8e5c7fb7fc99",
+        "id": "5c7e92f2a6a70a37",
         "type": "tabs",
         "children": [
           {
-            "id": "00f7ea3a23bb3896",
+            "id": "3a922e2ca123bd49",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,20 +189,23 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "8898be814895f678",
+  "active": "2c33e8282e3302ee",
   "lastOpenFiles": [
+    "CSI-3450/Entity Relationship Models.md",
+    "CSI-3450/Introduction to SQL.md",
+    "CSI-3450/Exam 1 Cheat Sheet.md",
+    "CSI-3450/Multiset Operations.md",
+    "CSI-3450/Joins.md",
+    "CSI-3450/Relational Algebra.md",
+    "CSI-3450/Midterm Review.md",
+    "CSI-3450/SQL Semantics.md",
     "CSI-4430/Assignments/2/Answers.md",
     "CSI-4430/Assignments/2/vitale_exercise_1.pdf",
     "CSI-4430/Assignments/2/Pasted image 20250212133254.png",
     "CSI-4430/Assignments",
     "CSI-4430/Assignments/2",
-    "CSI-3450/Multiset Operations.md",
-    "CSI-3450/Relational Algebra.md",
-    "CSI-3450/Joins.md",
     "CSI-3450/Joins.pdf",
-    "CSI-3450/Introduction to SQL.md",
     "CSI-3450/Nested Queries.md",
-    "CSI-3450/SQL Semantics.md",
     "CSI-3450/Assignments/2/Diagram.md",
     "CSI-4430/Notes/02-11-2025 - Resource Management.md",
     "CSI-4430/Textbooks/A Guide to the Project Management Body of Knowledge (PMBOK -- Project Management Institute -- Seventh edition, 2021 -- Project Management Institute.pdf",
@@ -216,8 +219,6 @@
     "CSI-3620/C++ Syntax and Functions.md",
     "CSI-3620/Quizzes/6/Solutions.md",
     "CSI-3620/Quizzes/5/Solutions.md",
-    "CSI-3450/Midterm Review.md",
-    "CSI-3450/Entity Relationship Models.md",
     "CSI-4430/Notes/02-06-2025 - Quality.md",
     "CSI-3450/Assignments/3/Answers.md",
     "CSI-3450/Assignments/1/Diagram.md",
