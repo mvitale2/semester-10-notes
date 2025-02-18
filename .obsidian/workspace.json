@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6faa929d60411254",
+        "id": "8a50ea58fc98b1f6",
         "type": "tabs",
         "children": [
           {
-            "id": "fe7ff82f8d90043a",
+            "id": "bffd7b76372ed46e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSI-4600/Proposal Presentation Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Proposal Presentation Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -177,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +190,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "fe7ff82f8d90043a",
+  "active": "bffd7b76372ed46e",
   "lastOpenFiles": [
+    "CSI-3620/Custom Types.md",
+    "CSI-3620/Functions.md",
+    "CSI-3620/cpp/executables/a.exe",
+    "CSI-3620/cpp/function_overloading.cpp",
+    "CSI-3620/cpp/scope.cpp",
+    "CSI-3620/cpp/arg_passing.cpp",
+    "CSI-3620/Quizzes/7/Solutions.md",
+    "CSI-3620/Quizzes/6/Solutions.md",
+    "CSI-3620/cpp/pre_vs_post.cpp",
+    "CSI-3620/Quizzes/7",
     "CSI-4600/Proposal Presentation Notes.md",
     "CSI-3450/Exam 1 Cheat Sheet.md",
     "CSI-3450/Database Systems_ Design, Implementation, & Management -- Carlos Coronel, Steven Morris -- 2018 -- Cengage Learning -- 9781337627900 -- 29edca03c1bac3ea1ab3a1283f5d67a1 -- Anna’s Archive.pdf",
@@ -206,21 +213,13 @@
     "CSI-3450/Multiset Operations.md",
     "CSI-3450/Relational Algebra.md",
     "CSI-3450/Joins.md",
-    "CSI-3450/Joins.pdf",
     "CSI-3450/Introduction to SQL.md",
     "CSI-3450/Nested Queries.md",
     "CSI-3450/SQL Semantics.md",
     "CSI-3450/Assignments/2/Diagram.md",
     "CSI-4430/Notes/02-11-2025 - Resource Management.md",
-    "CSI-4430/Textbooks/A Guide to the Project Management Body of Knowledge (PMBOK -- Project Management Institute -- Seventh edition, 2021 -- Project Management Institute.pdf",
-    "CSI-3450/Assignments/2/vitale_project_proposal.pdf",
-    "CSI-3450/Assignments/2/CSI5600_4600 Project Proposal.pdf.crdownload",
     "CSI-3620/Boolean Operators.md",
-    "CSI-3620/cpp/functions.cpp",
-    "CSI-3620/cpp/data_loss.cpp",
-    "CSI-3620/Custom Types.md",
     "CSI-3620/C++ Syntax and Functions.md",
-    "CSI-3620/Quizzes/6/Solutions.md",
     "CSI-3620/Quizzes/5/Solutions.md",
     "CSI-3450/Midterm Review.md",
     "CSI-3450/Entity Relationship Models.md",
@@ -229,9 +228,6 @@
     "CSI-3450/Assignments/1/Diagram.md",
     "CSI-4430/Notes/02-04-2025 - Estimating Costs.md",
     "CSI-4430/Notes/Agile Methodology.md",
-    "CSI-4430/Notes/AI Is Silly.md",
-    "CSI-3620/Fundamental Types in C++.md",
-    "CSI-3620/Tests/Exam 1.md",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
