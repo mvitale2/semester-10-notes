@@ -11,10 +11,14 @@
             "id": "bffd7b76372ed46e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-4430/Notes/02-18-25 - Review.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02-18-25 - Review"
             }
           }
         ]
@@ -173,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,6 +195,12 @@
   },
   "active": "bffd7b76372ed46e",
   "lastOpenFiles": [
+    "CSI-4430/Notes/02-11-2025 - Resource Management.md",
+    "CSI-4430/Notes/Project Management.md",
+    "CSI-4430/Notes/02-04-2025 - Estimating Costs.md",
+    "CSI-4430/Notes/02-06-2025 - Quality.md",
+    "CSI-4430/Notes/02-18-25 - Review.md",
+    "CSI-4430/Notes/01-28-2025 - Scope Management.md",
     "CSI-3620/Custom Types.md",
     "CSI-3620/Functions.md",
     "CSI-3620/cpp/executables/a.exe",
@@ -217,17 +226,12 @@
     "CSI-3450/Nested Queries.md",
     "CSI-3450/SQL Semantics.md",
     "CSI-3450/Assignments/2/Diagram.md",
-    "CSI-4430/Notes/02-11-2025 - Resource Management.md",
     "CSI-3620/Boolean Operators.md",
     "CSI-3620/C++ Syntax and Functions.md",
     "CSI-3620/Quizzes/5/Solutions.md",
     "CSI-3450/Midterm Review.md",
     "CSI-3450/Entity Relationship Models.md",
-    "CSI-4430/Notes/02-06-2025 - Quality.md",
     "CSI-3450/Assignments/3/Answers.md",
-    "CSI-3450/Assignments/1/Diagram.md",
-    "CSI-4430/Notes/02-04-2025 - Estimating Costs.md",
-    "CSI-4430/Notes/Agile Methodology.md",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
