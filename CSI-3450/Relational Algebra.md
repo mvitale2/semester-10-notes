@@ -24,4 +24,26 @@ AND R.A < 10;
 ## RA
 $πA,D(σA<10(T⋈(R⋈S)))$
 
-# Expression Trees
+# Operators
+## Grouping
+$R1 := GAMMAL(R)$
+## Outer join (⟗)
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+| 4   | 5   |
+R
+
+| B   | C   |
+| --- | --- |
+| 2   | 3   |
+| 6   | 7   |
+S
+
+| A    | B   | C    |
+| ---- | --- | ---- |
+| 1    | 2   | 3    |
+| 4    | 5   | NULL |
+| NULL | 6   | 7    |
+R ⟗ S
