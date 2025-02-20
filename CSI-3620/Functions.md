@@ -11,6 +11,11 @@ PATH: "vault://CSI-3620/cpp/arg_passing.cpp"
 PATH: "vault://CSI-3620/cpp/scope.cpp"
 ```
 # Overloading
+## Function Overloading
 ```embed-cpp
 PATH: "vault://CSI-3620/cpp/function_overloading.cpp"
+```
+## Operator Overloading
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/operator_overloading.cpp"
 ```

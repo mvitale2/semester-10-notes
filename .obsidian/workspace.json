@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "20668a5b1df6bbad",
+        "id": "48052490a6be113e",
         "type": "tabs",
         "children": [
           {
-            "id": "037c8a86b2742b19",
+            "id": "a2c016eab405a11a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSI-3450/Relational Algebra.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Relational Algebra"
+              "title": "New tab"
             }
           }
         ]
@@ -177,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +190,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "037c8a86b2742b19",
+  "active": "a2c016eab405a11a",
   "lastOpenFiles": [
+    "CSI-3620/Classes.md",
+    "CSI-3620/cpp/classes/example1/employee_main.cpp",
+    "CSI-3620/cpp/classes/example1/employee_header.h",
+    "CSI-3620/cpp/classes/example1/employee_class.cpp",
+    "CSI-3620/cpp/classes/example1/a.exe",
+    "CSI-3620/cpp/classes/example1",
+    "CSI-3620/cpp/classes/a.exe",
+    "CSI-3620/cpp/classes/executables/a.exe",
+    "CSI-3620/cpp/classes/executables",
+    "CSI-3620/cpp/classes/employee_main.cpp",
+    "CSI-3620/cpp/classes/employee_class.cpp",
+    "CSI-3620/Functions.md",
+    "CSI-3620/Quizzes/8/Solutions.md",
+    "CSI-3450/Relational Algebra.md",
     "CSI-4430/Notes/02-11-2025 - Resource Management.md",
     "CSI-4430/Notes/Project Management.md",
     "CSI-4430/Notes/02-04-2025 - Estimating Costs.md",
@@ -202,25 +213,13 @@
     "CSI-4430/Notes/02-18-25 - Review.md",
     "CSI-4430/Notes/01-28-2025 - Scope Management.md",
     "CSI-3620/Custom Types.md",
-    "CSI-3620/Functions.md",
-    "CSI-3620/cpp/executables/a.exe",
-    "CSI-3620/cpp/function_overloading.cpp",
-    "CSI-3620/cpp/scope.cpp",
-    "CSI-3620/cpp/arg_passing.cpp",
     "CSI-3620/Quizzes/7/Solutions.md",
     "CSI-3620/Quizzes/6/Solutions.md",
-    "CSI-3620/cpp/pre_vs_post.cpp",
-    "CSI-3620/Quizzes/7",
     "CSI-4600/Proposal Presentation Notes.md",
     "CSI-3450/Exam 1 Cheat Sheet.md",
-    "CSI-3450/Database Systems_ Design, Implementation, & Management -- Carlos Coronel, Steven Morris -- 2018 -- Cengage Learning -- 9781337627900 -- 29edca03c1bac3ea1ab3a1283f5d67a1 -- Anna’s Archive.pdf",
     "CSI-4430/Assignments/2/Answers.md",
-    "CSI-4430/Assignments/2/vitale_exercise_1.pdf",
     "CSI-4430/Assignments/2/Pasted image 20250212133254.png",
-    "CSI-4430/Assignments",
-    "CSI-4430/Assignments/2",
     "CSI-3450/Multiset Operations.md",
-    "CSI-3450/Relational Algebra.md",
     "CSI-3450/Joins.md",
     "CSI-3450/Introduction to SQL.md",
     "CSI-3450/Nested Queries.md",
@@ -229,9 +228,6 @@
     "CSI-3620/Boolean Operators.md",
     "CSI-3620/C++ Syntax and Functions.md",
     "CSI-3620/Quizzes/5/Solutions.md",
-    "CSI-3450/Midterm Review.md",
-    "CSI-3450/Entity Relationship Models.md",
-    "CSI-3450/Assignments/3/Answers.md",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
