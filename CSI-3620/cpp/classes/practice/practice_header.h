@@ -1,4 +1,6 @@
 #include <string>
+#include <map>
+#include <iostream>
 using namespace std;
 
 class Printer {
@@ -11,6 +13,9 @@ class Printer {
         }
         int getPaperStatus() {
             return paper;
+        }
+        void printPaperStatus() {
+            printf("Printer ID: %d\nPaper: %d\n", id, paper);
         }
         void setToner(int value, string color) {
             if (color == "black") {
@@ -25,9 +30,30 @@ class Printer {
                 printf("%s does not exist!", color);
             }
         }
-        void getTonerStatus() {
-            printf("Black: %s\nYellow: %s\nMagenta: %s\nCyan: %s\n", tonerLevels.black, tonerLevels.yellow, tonerLevels.magenta, tonerLevels.cyan);
+        void setAllToner(int value) {
+            tonerLevels.black = value;
+            tonerLevels.yellow = value;
+            tonerLevels.magenta = value;
+            tonerLevels.cyan = value;
         }
+        int getTonerStatus(string color) {
+            if (color == "black") {
+                return tonerLevels.black;
+            } else if (color == "yellow") {
+                return tonerLevels.yellow;
+            } else if (color == "magenta") {
+                return tonerLevels.magenta;
+            } else if (color == "cyan") {
+                return tonerLevels.cyan;
+            } else {
+                printf("%s does not exist!", color);
+                return 0;
+            }
+        }
+        void printTonerStatus() {
+            printf("--Printer %d toner levels--\nBlack: %d\nYellow: %d\nMagenta: %d\nCyan: %d\n", id, tonerLevels.black, tonerLevels.yellow, tonerLevels.magenta, tonerLevels.cyan);
+        }
+    
     private:
         int paper;
         string colors[4] = {"black", "yellow", "magenta", "cyan"};

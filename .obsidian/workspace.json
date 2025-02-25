@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fa916c89fcd8a91",
+        "id": "dbd354ba4d56ef20",
         "type": "tabs",
         "children": [
           {
-            "id": "e46fcc751484dedb",
+            "id": "f5df4db31b72708d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,8 +189,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "f5df4db31b72708d",
   "lastOpenFiles": [
+    "CSI-3620/cpp/classes/practice/a.exe",
+    "CSI-3620/Pasted image 20250109114048.png",
     "CSI-4430/vitale_midterm.pdf",
     "CSI-4430/Michael Vitale Midterm Answers.md",
     "CSI-4430/Michael Vitale Midterm Answers.pdf",
@@ -228,7 +230,6 @@
     "CSI-3620/Boolean Operators.md",
     "CSI-3620/C++ Syntax and Functions.md",
     "CSI-4430/Pasted image 20250130182402.png",
-    "CSI-3620/Pasted image 20250109114048.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
     "CSI-3450/example-erd.png",
     "CSI-3450/medical er-2025-01-08-160459.png",
