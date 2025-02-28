@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dbd354ba4d56ef20",
+        "id": "e285397d59e7ba98",
         "type": "tabs",
         "children": [
           {
-            "id": "f5df4db31b72708d",
+            "id": "36472e050773a268",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "right": {
     "id": "4385881bf15cb535",
@@ -189,8 +190,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f5df4db31b72708d",
+  "active": "36472e050773a268",
   "lastOpenFiles": [
+    "CSI-3620/Assignments/3/Assignment 3.pdf",
+    "CSI-3620/Assignments/3/Answers.md",
     "CSI-3620/cpp/classes/practice/a.exe",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-4430/vitale_midterm.pdf",
@@ -204,8 +207,6 @@
     "CSI-3620/cpp/classes/example1/employee_header.h",
     "CSI-3620/cpp/classes/example1/employee_class.cpp",
     "CSI-3620/cpp/classes/example1/a.exe",
-    "CSI-3620/cpp/classes/example1",
-    "CSI-3620/cpp/classes/a.exe",
     "CSI-3620/Functions.md",
     "CSI-3620/Quizzes/8/Solutions.md",
     "CSI-3450/Relational Algebra.md",
@@ -228,7 +229,6 @@
     "CSI-3450/SQL Semantics.md",
     "CSI-3450/Assignments/2/Diagram.md",
     "CSI-3620/Boolean Operators.md",
-    "CSI-3620/C++ Syntax and Functions.md",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
     "CSI-3450/example-erd.png",
