@@ -20,3 +20,15 @@ int main {
    In order to specify that a parameter should only be passed by reference, an ampersand is put after the variable declaration. For example: `void print(int& x)`
 
 # Section 2
+## Question 6
+**Description of the problem:** The `sizeof()` function returns the amount of space the array uses in memory, so it will not work in the for loop.
+**How to fix it:** Since we know how many elements are in the array, use an `int` variable to store the size of the array and use that in the for loop.
+```cpp
+// ...
+int size = 5;
+// ...
+for (int=0; i<size; i++) {
+// ...
+```
+## Question 7
+**Description of the problem:** 

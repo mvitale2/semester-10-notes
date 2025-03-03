@@ -18,9 +18,12 @@ int main() {
 
     double avg2 = average(80, 90);
     cout << "Average of the two ints: " << avg2 << endl;
+
+    double avg3 = average(grades, 2);
+    cout << "Average of the array (again): " << avg3 << endl;
 }
 
-double average(int arr[], int size) {
+double average(double arr[], int size) {
     double sum = 0;
 
     for (int i = 0; i<size; i++) {

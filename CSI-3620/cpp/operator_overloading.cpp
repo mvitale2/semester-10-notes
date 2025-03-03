@@ -63,4 +63,8 @@ int main() {
     } else {
         cout << "student1 and student4 are not the same person." << endl;
     }
+
+    if (4 == 4) {
+        cout << "The normal == operator still works." << endl;
+    }
 }
