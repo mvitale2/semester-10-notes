@@ -31,4 +31,36 @@ for (int=0; i<size; i++) {
 // ...
 ```
 ## Question 7
+**Description of the problem:** The result of the ternary operator is swapped. It should produce "Even" when true and "Odd" when false.
+**How to fix it:** `string result = (num % 2 == 0) ? "Even" : "Odd";`
+## Question 8
 **Description of the problem:** 
+## Question 9
+**Description of the problem:** The function's logic should is defined before it is declared. 
+**How to fix it:** 
+```c++
+// ...
+double area(double radius);
+// ...
+double area(double radius) {
+	return 3.1459 * radius * radius;
+}
+```
+## Question 10
+**Description of the problems:** The operator overloading function returns a string instead of a boolean.
+**How to fix it:** Rewrite the operator overloading function.
+```c++
+// ...
+bool operator==(const Rectangle& r1, const Rectangle& r2) {
+	if (r.1length == r2.length && r1.width == r2.width)
+		return true;
+	else
+		return false;
+}
+// ...
+```
+# Section 3
+## Question 11
+```c++
+
+```
