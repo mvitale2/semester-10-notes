@@ -61,6 +61,7 @@ bool operator==(const Rectangle& r1, const Rectangle& r2) {
 ```
 # Section 3
 ## Question 11
-```c++
-
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/assignments/3/vitale_q11.cpp"
 ```
+## Question 12
