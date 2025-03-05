@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f3efdbf3f6dad4",
+        "id": "e2f5e4f54627ccfa",
         "type": "tabs",
         "children": [
           {
-            "id": "d56cf8ba91a2f218",
+            "id": "951279afb0a8190d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,10 +189,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "951279afb0a8190d",
   "lastOpenFiles": [
     "CSI-3620/Assignments/3/Assignment 3.pdf",
-    "CSI-3620/Assignments/3/Answers.md",
+    "CSI-3620/Assignments/3/vitale_a3.md",
     "CSI-3620/cpp/mod.cpp",
     "CSI-3620/Assignments/3/W25_CSI_3620_Syllabus.pdf",
     "CSI-3620/cpp/assignments/3/test.cpp",
