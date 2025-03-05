@@ -5,10 +5,12 @@
 
 // #include <iostream>
 #include <stdio.h>
+#include <string>
 using namespace std;
 
 // function declaration
 double calculateFinalGrade(const double &grade1, const double &grade2, const double &grade3);
+string determineLetterGrade(double grade);
 
 int main() {
     // Grade categories according to syllabus
@@ -28,8 +30,11 @@ int main() {
     // calculate the final grade
     double finalGrade = calculateFinalGrade(assignments_grade, exams_grade, final_exam_grade);
     finalGrade = finalGrade * 100;
+    string letterGrade = determineLetterGrade(finalGrade);
+
     // %.2f formats the float so that it only shows a maximum of 2 decimal places
-    printf("Your final grade is: %.2f\n", finalGrade);
+    // letterGrade needs to be converted into a c-style string in order to be inserted properly
+    printf("Your final grade is: %s (%.2f%)\n", letterGrade.c_str(), finalGrade);
 }
 
 double calculateFinalGrade(const double &grade1, const double &grade2, const double &grade3) {
@@ -42,4 +47,30 @@ double calculateFinalGrade(const double &grade1, const double &grade2, const dou
     weight3 = .25;
     double grade = (grade1*weight1) + (grade2*weight2) + (grade3*weight3);
     return grade;
+}
+
+string determineLetterGrade(double grade) {
+    // determine the letter grade based on the final grade, as per the syllabus
+    if (grade >= 95)
+        return "A";
+    else if (grade >= 91)
+        return "A-";
+    else if (grade >= 87)
+        return "B+";
+    else if (grade >= 83)
+        return "B";
+    else if (grade >= 79)
+        return "B-";
+    else if (grade >= 75)
+        return "C+";
+    else if (grade >= 70)
+        return "C";
+    else if (grade >= 66)
+        return "C-";
+    else if (grade >= 61)
+        return "D+";
+    else if (grade >= 56)
+        return "D";
+    else
+        return "F";
 }

@@ -22,7 +22,7 @@ int main {
 # Section 2
 ## Question 6
 **Description of the problem:** The `sizeof()` function returns the amount of space the array uses in memory, so it will not work in the for loop.
-**How to fix it:** Since we know how many elements are in the array, use an `int` variable to store the size of the array and use that in the for loop.
+**How to fix it:** Since it is known how many elements are in the array, use an `int` variable to store the size of the array and use that in the for loop.
 ```cpp
 // ...
 int size = 5;
@@ -32,22 +32,33 @@ for (int=0; i<size; i++) {
 ```
 ## Question 7
 **Description of the problem:** The result of the ternary operator is swapped. It should produce "Even" when true and "Odd" when false.
-**How to fix it:** `string result = (num % 2 == 0) ? "Even" : "Odd";`
-## Question 8
-**Description of the problem:** 
-## Question 9
-**Description of the problem:** The function's logic should is defined before it is declared. 
 **How to fix it:** 
 ```c++
 // ...
-double area(double radius);
+string result = (num % 2 == 0) ? "Even" : "Odd";
 // ...
-double area(double radius) {
+```
+## Question 8
+**Description of the problem:** `scanf` does not play nice with `std::string`. In order to use `scanf` to collect string inputs, the input must be stored in a `char` array. Additionally, the input can't exceed the maximum value of the `char` array.
+**How to fix it:**
+```c++
+// ...
+char video_games[NUM_VIDEO_GAMES];
+// ...
+```
+## Question 9
+**Description of the problem:** The function is not declared as an inline function. Also, the function's logic is defined before it is declared. 
+**How to fix it:** 
+```c++
+// ...
+inline double area(double radius);
+// ...
+inline double area(double radius) {
 	return 3.1459 * radius * radius;
 }
 ```
 ## Question 10
-**Description of the problems:** The operator overloading function returns a string instead of a boolean.
+**Description of the problem:** The operator overloading function returns a string instead of a boolean.
 **How to fix it:** Rewrite the operator overloading function.
 ```c++
 // ...
@@ -65,3 +76,6 @@ bool operator==(const Rectangle& r1, const Rectangle& r2) {
 PATH: "vault://CSI-3620/cpp/assignments/3/vitale_q11.cpp"
 ```
 ## Question 12
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/assignments/3/vitale_q12.cpp"
+```
