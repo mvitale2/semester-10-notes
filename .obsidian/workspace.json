@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "0ed8b7d14cd26f27",
+    "id": "9d5eb0a18148aead",
     "type": "split",
     "children": [
       {
-        "id": "86b925248f77b3f5",
+        "id": "5c65f6f05deb254d",
         "type": "tabs",
         "children": [
           {
-            "id": "cc77bf5804920804",
+            "id": "30061f122c57492c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3620/Tests/Exam 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Exam 2"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9dfdcd6490aaeb64",
+    "id": "60732de95866a0f0",
     "type": "split",
     "children": [
       {
-        "id": "d2a13644d6f9ac7e",
+        "id": "1884df517da82d80",
         "type": "tabs",
         "children": [
           {
-            "id": "2c33e8282e3302ee",
+            "id": "6c7dcdaa452c9095",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "982d1e20f8737618",
+            "id": "cfdb0bbbd412a311",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "f8b4b89a76560d64",
+            "id": "10b09881a8cedf65",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 200
   },
   "right": {
-    "id": "4385881bf15cb535",
+    "id": "6b33945235a02853",
     "type": "split",
     "children": [
       {
-        "id": "9c0a028e041dab70",
+        "id": "139a3937ef5fea5f",
         "type": "tabs",
         "children": [
           {
-            "id": "582fde15db6a9a40",
+            "id": "8a254a1cadce4e77",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +107,7 @@
             }
           },
           {
-            "id": "748f833a0dfbd358",
+            "id": "2562eb251854ee5e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,30 +120,36 @@
             }
           },
           {
-            "id": "0cb3c16410ce96b4",
+            "id": "93339a664701baf2",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e62884d5d506aea1",
+            "id": "84805eda6ed6aea8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "Outline"
             }
           },
           {
-            "id": "8898be814895f678",
+            "id": "8eccee55f734a33d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -147,93 +157,38 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "901e8314163d044c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "87c57cef75776a80",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "daily-notes:Open today's daily note": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "30061f122c57492c",
   "lastOpenFiles": [
-    "CSI-4600/Labs/1/vitale_lab1.pdf",
-    "CSI-4600/Labs/1/Lab 1.pdf",
+    "CSI-3620/Tests/Exam 2 Review Topics.pdf",
+    "CSI-3620/Tests/Exam 2.md",
+    "CSI-3620/Tests/Exam 1.md",
     "CSI-4600/Labs/1/vitale_lab1.md",
-    "CSI-3620/Assignments/3/vitale_a3.pdf",
-    "CSI-4430/Notes/03-04-2025 - Project Communications Management.md",
+    "CSI-4600/Labs/1",
+    "CSI-4600/Labs",
     "CSI-3620/cpp/mod.cpp",
-    "CSI-3620/cpp/assignments/3/vitale_q12.cpp",
-    "CSI-3620/cpp/assignments/3/vitale_q11.cpp",
-    "CSI-3620/cpp/assignments/3/a.exe",
-    "CSI-3620/cpp/assignments/3",
-    "CSI-3620/Assignments/3/vitale_a3.md",
-    "CSI-3450/PcPartPickerLite-2025-03-03-182737.png",
-    "CSI-3450/Constraints & Triggers.md",
-    "conflict-files-obsidian-git.md",
-    "CSI-3620/cpp/classes/practice/practice_main.cpp",
-    "CSI-3620/cpp/classes/practice/practice_header.h",
-    "CSI-3620/cpp/classes/practice/practice_class.cpp",
-    "CSI-3620/Assignments/3/Answers.md",
-    "CSI-3450/Joins.md",
-    "CSI-3450/Introduction to SQL.md",
-    "CSI-3450/SQL Semantics.md",
-    "CSI-4430/Michael Vitale Midterm Answers.md",
-    "CSI-4430/Notes/02-18-25 - Review.md",
-    "CSI-3620/Classes.md",
-    "CSI-3620/Functions.md",
-    "CSI-3620/Quizzes/8/Solutions.md",
-    "CSI-3450/Relational Algebra.md",
-    "CSI-4430/Notes/02-11-2025 - Resource Management.md",
-    "CSI-4430/Notes/Project Management.md",
-    "CSI-4430/Notes/02-04-2025 - Estimating Costs.md",
-    "CSI-4430/Notes/02-06-2025 - Quality.md",
-    "CSI-4430/Notes/01-28-2025 - Scope Management.md",
-    "CSI-3620/Custom Types.md",
-    "CSI-3620/Quizzes/7/Solutions.md",
-    "CSI-3620/Quizzes/6/Solutions.md",
-    "CSI-4600/Proposal Presentation Notes.md",
-    "CSI-3450/Exam 1 Cheat Sheet.md",
-    "CSI-4430/Assignments/2/Pasted image 20250212133254.png",
-    "CSI-4430/Pasted image 20250130182402.png",
-    "CSI-3620/Pasted image 20250109114048.png",
-    "CSI-3450/Assignments/1/vitale-assignment1.png",
-    "CSI-3450/example-erd.png",
-    "CSI-3450/medical er-2025-01-08-160459.png",
-    "CSI-3620/Assignments/1/vitale_assignment1.png"
+    "CSI-3620/Assignments/3/vitale_a3.md"
   ]
 }

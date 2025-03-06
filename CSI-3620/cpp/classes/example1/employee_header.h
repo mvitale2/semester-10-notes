@@ -8,16 +8,24 @@ class Employee {
         string lname;
         // Makes the constructor public
         Employee();
+        // Define public detailed/standard constructor
+        Employee(const string& tempFName, const string& tempLName, const float& rate);
+        // Define destructure
+        ~Employee();
+        // Define how to make a copy
+        Employee(const Employee& emp);
+
+        Employee& operator=(const Employee& emp);
 
         // Functions that can be accessed through the class object
         float getSalary() {
-            return salary;
+            return this->salary;
         }
         void increaseBy(float rate) {
-            salary += rate;
+            this->salary += rate;
         }
         void setSalary(float salary) {
-            salary = salary;
+            this->salary = salary;
         }
 
     // Define functions and variables that can't be access through the class object
