@@ -47,14 +47,19 @@ char video_games[NUM_VIDEO_GAMES];
 // ...
 ```
 ## Question 9
-**Description of the problem:** The function is not declared as an inline function. Also, the function's logic is defined before it is declared. 
+**Description of the problem:** The function is not declared as an inline function. Also, the function's logic is defined before it is declared. Additionally, there is only one parameter in the function, so the second time it is called, the function will give an error.
 **How to fix it:** 
 ```c++
 // ...
 inline double area(double radius);
+inline double area(double length, double width);
 // ...
 inline double area(double radius) {
 	return 3.1459 * radius * radius;
+}
+// ...
+inline double area(double length, double width) {
+	return length * width;
 }
 ```
 ## Question 10
