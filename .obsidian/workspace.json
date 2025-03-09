@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31ee6462a5a66801",
+        "id": "6a22b981a1b3bf54",
         "type": "tabs",
         "children": [
           {
-            "id": "9a056cc70a46bf1e",
+            "id": "e3e7c4388c8ffbc4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "right": {
     "id": "4385881bf15cb535",
@@ -189,8 +190,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "e3e7c4388c8ffbc4",
   "lastOpenFiles": [
+    "CSI-3620/Assignments/2.5/Assignment 2.5.pdf",
+    "CSI-3620/cpp/assignments/2.5/a.exe",
+    "CSI-3620/cpp/assignments/2.5/vitale_q3.cpp",
+    "CSI-3620/cpp/assignments/2.5/vitale_q2.cpp",
+    "CSI-3620/cpp/assignments/2.5/vitale_q1.cpp",
+    "CSI-3620/cpp/assignments/2.5",
     "CSI-3620/Assignments/4/Assignment 4.pdf",
     "CSI-3620/cpp/assignments/4/a.exe",
     "conflict-files-obsidian-git.md",
@@ -199,14 +206,8 @@
     "CSI-3620/cpp/assignments/4/vitale_a4_class.cpp",
     "CSI-3620/cpp/assignments/4/vitale_a4_class",
     "CSI-3620/cpp/assignments/4/vitale_a4.h",
-    "CSI-3620/cpp/assignments/4/vitale_a4_main.cpp",
-    "CSI-3620/cpp/assignments/4/vitale_a4.cpp",
-    "CSI-3620/cpp/assignments/4",
     "CSI-4600/Labs/1/vitale_lab1.md",
-    "CSI-4600/Labs/1",
-    "CSI-4600/Labs",
     "CSI-3620/Tests/Exam 2.md",
-    "CSI-3620/Assignments/3/Assignment 3.pdf",
     "CSI-3620/Assignments/3/vitale_a3.md",
     "CSI-4430/Notes/03-04-2025 - Project Communications Management.md",
     "CSI-3450/PcPartPickerLite-2025-03-03-182737.png",
