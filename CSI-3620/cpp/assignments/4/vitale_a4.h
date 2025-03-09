@@ -18,17 +18,17 @@ class CrewMember {
         ~CrewMember();
 
         // Getter methods
-        
-
-        // Setter methods
-        void setFname(const string& tempFname) {
-            this->fname = tempFname;
+        string getFname() const {
+            return this->fname;
         }
-        void setLname(const string& tempLname) {
-            this->lname = tempLname;
+        string getLname() const {
+            return this->lname;
         }
-        void setAge(const int& tempAge) {
-            this->age = tempAge;
+        string getRole() const {
+            return this->role;
+        }
+        int getAge() const {
+            return this->age;
         }
 
         // Modifier methods
@@ -38,6 +38,7 @@ class CrewMember {
         void changeRole(const string& tempRole) {
             this->role = tempRole;
         }
+    
     private:
         // Atttributes
         string fname;

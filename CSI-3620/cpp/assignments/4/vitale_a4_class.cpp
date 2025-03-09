@@ -9,24 +9,24 @@
 using namespace std;
 
 CrewMember::CrewMember() {
-   setAge(0);
-   setFname("");
-   setLname("");
-   changeRole("");
+   age = 30;
+   fname = "James";
+   lname = "Holden";
+   role = "Captain";
 }
 
 CrewMember::CrewMember(const string& tempFname, const string& tempLname, const string& tempRole,const int& tempAge) {
-   setFname(tempFname);
-   setLname(tempLname);
-   changeRole(tempRole);
-   setAge(tempAge);
+   fname = tempFname;
+   lname = tempLname;
+   role = tempRole;
+   age = tempAge;
 }
 
 CrewMember::CrewMember(const CrewMember& crewMember) {
-   setFname(crewMember.fname);
-   setLname(crewMember.lname);
-   changeRole(crewMember.role);
-   setAge(crewMember.age);
+   fname = crewMember.fname;
+   lname = crewMember.lname;
+   role = crewMember.role;
+   age = crewMember.age;
 }
 
 CrewMember::~CrewMember() {

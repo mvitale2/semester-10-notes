@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5833fd82aef6c3",
+        "id": "31ee6462a5a66801",
         "type": "tabs",
         "children": [
           {
-            "id": "5cce4e0a42e7b6a1",
+            "id": "9a056cc70a46bf1e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "4385881bf15cb535",
@@ -190,7 +189,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "5cce4e0a42e7b6a1",
+  "active": "2c33e8282e3302ee",
   "lastOpenFiles": [
     "CSI-3620/Assignments/4/Assignment 4.pdf",
     "CSI-3620/cpp/assignments/4/a.exe",
