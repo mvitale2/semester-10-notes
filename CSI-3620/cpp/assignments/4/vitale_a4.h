@@ -3,6 +3,9 @@
  * Description: Header file for CrewMember class.
  */
 
+ #ifndef VITALE_A4_H
+ #define VITALE_A4_H
+
 #include <string>
 using std::string;
 
@@ -15,10 +18,7 @@ class CrewMember {
         ~CrewMember();
 
         // Getter methods
-        string getFname();
-        string getLname();
-        string getRole();
-        int getAge();
+        
 
         // Setter methods
         void setFname(const string& tempFname) {
@@ -26,9 +26,6 @@ class CrewMember {
         }
         void setLname(const string& tempLname) {
             this->lname = tempLname;
-        }
-        void setRole(const string& tempRole) {
-            this->role = tempRole;
         }
         void setAge(const int& tempAge) {
             this->age = tempAge;
@@ -48,3 +45,5 @@ class CrewMember {
         string role;
         int age;
 };
+
+#endif // VITALE_A4_H

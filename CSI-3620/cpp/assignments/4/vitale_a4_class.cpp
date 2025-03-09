@@ -3,30 +3,30 @@
  * Description: Class file for CrewMember class.
 */
 
-#include <./vitale_a4.h>
+#include "./vitale_a4.h"
 #include <string>
 #include <iostream>
 using namespace std;
 
 CrewMember::CrewMember() {
-   age = 0;
-   fname = "";
-   lname = "";
-   role = "";
+   setAge(0);
+   setFname("");
+   setLname("");
+   changeRole("");
 }
 
 CrewMember::CrewMember(const string& tempFname, const string& tempLname, const string& tempRole,const int& tempAge) {
-   fname = tempFname;
-   lname = tempLname;
-   age = tempAge;
-   role = tempRole;
+   setFname(tempFname);
+   setLname(tempLname);
+   changeRole(tempRole);
+   setAge(tempAge);
 }
 
 CrewMember::CrewMember(const CrewMember& crewMember) {
-   fname = crewMember.fname;
-   lname = crewMember.lname;
-   age = crewMember.age;
-   role = crewMember.role;
+   setFname(crewMember.fname);
+   setLname(crewMember.lname);
+   changeRole(crewMember.role);
+   setAge(crewMember.age);
 }
 
 CrewMember::~CrewMember() {

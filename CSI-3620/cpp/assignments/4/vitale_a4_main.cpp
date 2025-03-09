@@ -5,24 +5,32 @@
 
 #include <iostream>
 #include <string>
-#include <./vitale_a4.h>
+#include "./vitale_a4.h"
 using namespace std;
 
 int main() {
     // Create CrewMember objects
     CrewMember crew1("James", "Holden", "Captain", 35);
-    CrewMember crew2("Naomi", "Nagata", "Engineer", 30);
-    CrewMember crew3("Amos", "Burton", "Mechanic", 32);
-    CrewMember crew4("Alex", "Kamal", "Pilot", 40);
-    CrewMember crew5("Bobbie", "Draper", "Marine", 28);
-    CrewMember crew6("Clarissa", "Mao", "Technician", 25);
-    CrewMember crew7(crew6);
-    CrewMember crew8;
+    CrewMember* crew2 = new CrewMember();
+    CrewMember crew3(crew1);
 
-    crew8.setFname("Fred");
-    crew8.setLname("Johnson");
-    crew8.setRole("OPA Leader");
-    crew8.setAge(45);
+    crew2->setFname("Amos");
+    crew2->setLname("Burton");
+    crew2->changeRole("Mechanic");
+    crew2->setAge(32);
 
-    // Print CrewMember details
+    // Call methods
+    crew3.changeRole("Prisoner");
+
+    for (int i = 0; i < 30; i++) {
+        crew3.incrementAge();
+    }
+
+    // Print results
+    cout << "Crew Member 1: " << crew1.getFname() << ", Age: " << crew1.getAge() << ", Role: " << crew1.getRole() << endl;
+    cout << "Crew Member 2: " << crew2->getFname() << " " << crew2->getLname() << ", Age: " << crew2->getAge() << ", Role: " << crew2->getRole() << endl;
+    cout << "Crew Member 3: " << crew3.getFname() << " " << crew3.getLname() << ", Age: " << crew3.getAge() << ", Role: " << crew3.getRole() << endl;
+
+
+    delete crew2;
 }
