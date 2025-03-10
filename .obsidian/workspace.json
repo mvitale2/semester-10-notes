@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a22b981a1b3bf54",
+        "id": "08c84db1255206a6",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e7c4388c8ffbc4",
+            "id": "38ccdeab1f0d7b7a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,7 +160,7 @@
             }
           },
           {
-            "id": "87c57cef75776a80",
+            "id": "4a8220ff48f1363f",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -190,13 +190,16 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e3e7c4388c8ffbc4",
+  "active": "8898be814895f678",
   "lastOpenFiles": [
-    "CSI-3620/Assignments/2.5/Assignment 2.5.pdf",
-    "CSI-3620/cpp/assignments/2.5/a.exe",
+    "CSI-3450/Group Project/Tasks.md",
+    "CSI-3450/SQL Views.md",
+    "CSI-3450/Group Project/PcPartPickerLite-2025-03-03-182737.png",
+    "CSI-3450/Group Project",
     "CSI-3620/cpp/assignments/2.5/vitale_q3.cpp",
     "CSI-3620/cpp/assignments/2.5/vitale_q2.cpp",
     "CSI-3620/cpp/assignments/2.5/vitale_q1.cpp",
+    "CSI-3620/cpp/assignments/2.5/a.exe",
     "CSI-3620/cpp/assignments/2.5",
     "CSI-3620/Assignments/4/Assignment 4.pdf",
     "CSI-3620/cpp/assignments/4/a.exe",
@@ -205,12 +208,10 @@
     "CSI-4430/Notes/03-06-2025 - Risk Management.md",
     "CSI-3620/cpp/assignments/4/vitale_a4_class.cpp",
     "CSI-3620/cpp/assignments/4/vitale_a4_class",
-    "CSI-3620/cpp/assignments/4/vitale_a4.h",
     "CSI-4600/Labs/1/vitale_lab1.md",
     "CSI-3620/Tests/Exam 2.md",
     "CSI-3620/Assignments/3/vitale_a3.md",
     "CSI-4430/Notes/03-04-2025 - Project Communications Management.md",
-    "CSI-3450/PcPartPickerLite-2025-03-03-182737.png",
     "CSI-3450/Constraints & Triggers.md",
     "CSI-3620/Pasted image 20250109114048.png",
     "CSI-4430/Michael Vitale Midterm Answers.md",
@@ -231,7 +232,6 @@
     "CSI-3450/Exam 1 Cheat Sheet.md",
     "CSI-4430/Assignments/2/Answers.md",
     "CSI-4430/Assignments/2/Pasted image 20250212133254.png",
-    "CSI-3450/Multiset Operations.md",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
     "CSI-3450/example-erd.png",
