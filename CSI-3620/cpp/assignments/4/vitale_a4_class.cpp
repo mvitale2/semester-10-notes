@@ -23,10 +23,13 @@ CrewMember::CrewMember(const string& tempFname, const string& tempLname, const s
 }
 
 CrewMember::CrewMember(const CrewMember& crewMember) {
-   fname = crewMember.fname;
-   lname = crewMember.lname;
-   role = crewMember.role;
-   age = crewMember.age;
+   if (this != &crewMember) {
+      fname = crewMember.fname;
+      lname = crewMember.lname;
+      role = crewMember.role;
+      age = crewMember.age;
+   }
+   // return *this;
 }
 
 CrewMember::~CrewMember() {
