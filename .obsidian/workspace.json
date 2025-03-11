@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08c84db1255206a6",
+        "id": "a3c6a82e121b7268",
         "type": "tabs",
         "children": [
           {
-            "id": "38ccdeab1f0d7b7a",
+            "id": "9b2f3d6b4dcd3739",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,7 +160,7 @@
             }
           },
           {
-            "id": "4a8220ff48f1363f",
+            "id": "80ffb74de963ab32",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -192,7 +192,9 @@
   },
   "active": "8898be814895f678",
   "lastOpenFiles": [
+    "CSI-4600/Project/Tasks.md",
     "CSI-3450/Group Project/Tasks.md",
+    "CSI-4600/Project",
     "CSI-3450/SQL Views.md",
     "CSI-3450/Group Project/PcPartPickerLite-2025-03-03-182737.png",
     "CSI-3450/Group Project",
@@ -207,7 +209,6 @@
     "CSI-4430/Notes/Pasted image 20250306184320.png",
     "CSI-4430/Notes/03-06-2025 - Risk Management.md",
     "CSI-3620/cpp/assignments/4/vitale_a4_class.cpp",
-    "CSI-3620/cpp/assignments/4/vitale_a4_class",
     "CSI-4600/Labs/1/vitale_lab1.md",
     "CSI-3620/Tests/Exam 2.md",
     "CSI-3620/Assignments/3/vitale_a3.md",
@@ -230,7 +231,6 @@
     "CSI-3620/Quizzes/6/Solutions.md",
     "CSI-4600/Proposal Presentation Notes.md",
     "CSI-3450/Exam 1 Cheat Sheet.md",
-    "CSI-4430/Assignments/2/Answers.md",
     "CSI-4430/Assignments/2/Pasted image 20250212133254.png",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",
