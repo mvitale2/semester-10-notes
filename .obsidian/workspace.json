@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0ed8b7d14cd26f27",
+    "id": "eba01a793668c252",
     "type": "split",
     "children": [
       {
-        "id": "841133a5d8033b4d",
+        "id": "de534277933af1d3",
         "type": "tabs",
         "children": [
           {
-            "id": "82b9cc3c69f84204",
+            "id": "71664951b01a4981",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9dfdcd6490aaeb64",
+    "id": "9283f843245fbf85",
     "type": "split",
     "children": [
       {
-        "id": "d2a13644d6f9ac7e",
+        "id": "caabfc6b2e684729",
         "type": "tabs",
         "children": [
           {
-            "id": "2c33e8282e3302ee",
+            "id": "bec38e370845365d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "982d1e20f8737618",
+            "id": "826a4ab83df606b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "f8b4b89a76560d64",
+            "id": "72a5ed4862a10344",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,18 +74,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "4385881bf15cb535",
+    "id": "ade3cc37a5f68c94",
     "type": "split",
     "children": [
       {
-        "id": "9c0a028e041dab70",
+        "id": "5a479dd3ab58309a",
         "type": "tabs",
         "children": [
           {
-            "id": "582fde15db6a9a40",
+            "id": "f8b20f2cc7c4ea8d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +104,7 @@
             }
           },
           {
-            "id": "748f833a0dfbd358",
+            "id": "356e9086abb4b09b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,30 +117,36 @@
             }
           },
           {
-            "id": "0cb3c16410ce96b4",
+            "id": "8b037f2e5a67ff4f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e62884d5d506aea1",
+            "id": "35032e5b175cee9e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "Outline"
             }
           },
           {
-            "id": "8898be814895f678",
+            "id": "3f72fb23b702e822",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -147,94 +154,30 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "901e8314163d044c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "4a8220ff48f1363f",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "daily-notes:Open today's daily note": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "71664951b01a4981",
   "lastOpenFiles": [
-    "CSI-3450/Extra Credit.md",
-    "CSI-3450/SQL Views.md",
-    "conflict-files-obsidian-git.md",
-    "CSI-4430/Notes/03-11-2025 - Procurement Management.md",
-    "CSI-4600/Project/Transmission Link ERD.md",
-    "CSI-3450/Group Project/Tasks.md",
-    "CSI-3620/Classes.md",
-    "CSI-4600/Project/Tasks.md",
-    "CSI-4600/Project",
-    "CSI-3620/Polymorphism.md",
-    "CSI-3620/Inheritance.md",
-    "CSI-3620/cpp/classes/inheritance/a.exe",
-    "CSI-3620/cpp/classes/inheritance/main.cpp",
-    "CSI-3620/cpp/classes/inheritance/student_class.cpp",
-    "CSI-3620/cpp/classes/inheritance/student.h",
-    "CSI-3620/cpp/classes/inheritance/person_main.cpp",
-    "CSI-3620/cpp/classes/inheritance/person_class.cpp",
-    "CSI-3620/cpp/classes/inheritance/person.h",
-    "CSI-3620/cpp/classes/inheritance",
-    "CSI-3620/Quizzes/9/Answers.md",
-    "CSI-3620/Quizzes/9",
-    "CSI-3450/Group Project/PcPartPickerLite-2025-03-03-182737.png",
-    "CSI-4430/Notes/Pasted image 20250306184320.png",
-    "CSI-4430/Notes/03-06-2025 - Risk Management.md",
-    "CSI-4600/Labs/1/vitale_lab1.md",
-    "CSI-3620/Tests/Exam 2.md",
-    "CSI-3620/Assignments/3/vitale_a3.md",
-    "CSI-4430/Notes/03-04-2025 - Project Communications Management.md",
-    "CSI-3450/Constraints & Triggers.md",
-    "CSI-3620/Pasted image 20250109114048.png",
-    "CSI-4430/Michael Vitale Midterm Answers.md",
-    "CSI-4430/Notes/02-18-25 - Review.md",
-    "CSI-3620/Functions.md",
-    "CSI-3620/Quizzes/8/Solutions.md",
-    "CSI-3450/Relational Algebra.md",
-    "CSI-4430/Notes/02-11-2025 - Resource Management.md",
-    "CSI-4430/Notes/Project Management.md",
-    "CSI-4430/Notes/02-04-2025 - Estimating Costs.md",
-    "CSI-4430/Notes/02-06-2025 - Quality.md",
-    "CSI-4430/Assignments/2/Pasted image 20250212133254.png",
-    "CSI-4430/Pasted image 20250130182402.png",
-    "CSI-3450/Assignments/1/vitale-assignment1.png",
-    "CSI-3450/example-erd.png",
-    "CSI-3450/medical er-2025-01-08-160459.png",
-    "CSI-3620/Assignments/1/vitale_assignment1.png"
+    "CSI-3450/Extra Credit.md"
   ]
 }
