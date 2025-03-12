@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "429175ccfd0d634f",
+        "id": "841133a5d8033b4d",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0e1811b06fb8e6",
+            "id": "82b9cc3c69f84204",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,8 +189,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "8898be814895f678",
+  "active": "2c33e8282e3302ee",
   "lastOpenFiles": [
+    "CSI-3450/Extra Credit.md",
+    "CSI-3450/SQL Views.md",
     "conflict-files-obsidian-git.md",
     "CSI-4430/Notes/03-11-2025 - Procurement Management.md",
     "CSI-4600/Project/Transmission Link ERD.md",
@@ -210,7 +212,6 @@
     "CSI-3620/cpp/classes/inheritance",
     "CSI-3620/Quizzes/9/Answers.md",
     "CSI-3620/Quizzes/9",
-    "CSI-3450/SQL Views.md",
     "CSI-3450/Group Project/PcPartPickerLite-2025-03-03-182737.png",
     "CSI-4430/Notes/Pasted image 20250306184320.png",
     "CSI-4430/Notes/03-06-2025 - Risk Management.md",
@@ -229,7 +230,6 @@
     "CSI-4430/Notes/Project Management.md",
     "CSI-4430/Notes/02-04-2025 - Estimating Costs.md",
     "CSI-4430/Notes/02-06-2025 - Quality.md",
-    "CSI-4430/Notes/01-28-2025 - Scope Management.md",
     "CSI-4430/Assignments/2/Pasted image 20250212133254.png",
     "CSI-4430/Pasted image 20250130182402.png",
     "CSI-3450/Assignments/1/vitale-assignment1.png",

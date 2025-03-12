@@ -21,3 +21,5 @@ ON Detroit_view.product = Product.name
 WHERE Product.category = 'shoes';
 ```
 The operators are the same, but the view title needs to be written in double quotes. 
+
+Views using aggregator functions cannot be updated. 

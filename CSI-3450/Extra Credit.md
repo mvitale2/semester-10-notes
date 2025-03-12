@@ -1,0 +1,1 @@
+Explain a scenario where you would use a trigger and another scenario where you would use a `CHECK` constraint. 
