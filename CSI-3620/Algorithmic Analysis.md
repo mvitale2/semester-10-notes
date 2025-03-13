@@ -1,0 +1,36 @@
+# Improving Readability
+Write comments so that people can understand what the heck you wrote. 
+# Steps
+```python
+def print_numbers_version_one():
+	number = 2
+	while number <= 100:
+		# If number is even, print it:
+		if number % 2 == 0:
+			print(number)
+		number += 1
+```
+```python
+def print_numbers_version_two():
+	number = 2
+	while number <= 100:
+		print(number)
+		number += 2
+```
+Version two is faster because it accomplishes the same task with less steps. 
+## How to Measure Steps
+- Read: looking for something at a particular spot
+- Search: finding a value anywhere in the data structure
+## Linear Search
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/linear_search.cpp"
+```
+# Big-O Notation
+Reading from an array is O(1). Reading from an array using linear search is O(n), where *n* is the number of elements in the array/data structure. Comparing one element of an array to every other element is O(n^2). 
+
+```cpp
+inline int min(int x, int y) {return x < y ? x : y}
+```
+This line of code is O(1). 
+# Binary Search & Big O
+When performing binary search, the data structure has to be ordered. 

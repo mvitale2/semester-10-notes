@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de534277933af1d3",
+        "id": "9062935f4efa88aa",
         "type": "tabs",
         "children": [
           {
-            "id": "71664951b01a4981",
+            "id": "714f42d77e1dbce6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "ade3cc37a5f68c94",
@@ -176,8 +175,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71664951b01a4981",
+  "active": "3f72fb23b702e822",
   "lastOpenFiles": [
+    "CSI-3620/Algorithmic Analysis.md",
+    "CSI-3620/Arrays.md",
+    "CSI-3620/cpp/linear_search.cpp",
+    "CSI-3620/Textbooks/Common Sense Guide Exercises.md",
+    "CSI-3620/Textbooks/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf",
+    "CSI-3620/Textbooks/Data Structures and Algorithms in C++, Second Edition -- Safari, an O'Reilly Media Company_; Goodrich, Michael; -- 1st edition, 2011 -- Wiley; John -- 9780470383278 -- 92cb9026468c294f9f72259017f8f6c3 -- Anna’s Arc.pdf",
     "CSI-3450/Extra Credit.md"
   ]
 }
