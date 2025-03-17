@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9062935f4efa88aa",
+        "id": "b186efef5af4efec",
         "type": "tabs",
         "children": [
           {
-            "id": "714f42d77e1dbce6",
+            "id": "04de4c0b73d32ad2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,8 +175,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3f72fb23b702e822",
+  "active": "bec38e370845365d",
   "lastOpenFiles": [
+    "CSI-3450/Assignments/5/Assignment5-check-triggers-views.pdf",
+    "CSI-3450/Assignments/5/Answers.md",
     "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/Arrays.md",
     "CSI-3620/cpp/linear_search.cpp",
