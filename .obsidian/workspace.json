@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27b8cbe4e71d9950",
+        "id": "c5a9062181553e59",
         "type": "tabs",
         "children": [
           {
-            "id": "54d5292bacffed41",
+            "id": "a2922256a17563bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,13 +189,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2c33e8282e3302ee",
+  "active": "8898be814895f678",
   "lastOpenFiles": [
-    "CSI-3450/Assignments/5/Answers.md",
+    "CSI-3450/Assignments/5/vitale_a5.pdf",
+    "CSI-3450/Assignments/5/vitale_a5.md",
     "CSI-3450/Assignments/5/Assignment5-check-triggers-views.pdf",
-    "Pasted image 20250318171647.png",
-    "Pasted image 20250318171642.png",
-    "Pasted image 20250318170432.png",
+    "CSI-3450/Assignments/5/Pasted image 20250318171647.png",
+    "CSI-3450/Assignments/5/Pasted image 20250318171642.png",
+    "CSI-3450/Assignments/5/Pasted image 20250318170432.png",
     "CSI-3450/Assignments/5/Pasted image 20250318170410.png",
     "CSI-3450/Assignments/5/Pasted image 20250318163754.png",
     "CSI-3450/Assignments/5/Pasted image 20250318163818.png",
@@ -217,7 +218,6 @@
     "CSI-3620/cpp/classes/inheritance/student_class.cpp",
     "CSI-3620/cpp/classes/inheritance/student.h",
     "CSI-3620/cpp/classes/inheritance/person_class.cpp",
-    "CSI-3620/cpp/classes/inheritance/person.h",
     "CSI-3620/Quizzes/9/Answers.md",
     "CSI-3620/Polymorphism.md",
     "CSI-3620/Inheritance.md",
