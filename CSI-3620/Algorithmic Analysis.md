@@ -32,5 +32,15 @@ Reading from an array is O(1). Reading from an array using linear search is O(n)
 inline int min(int x, int y) {return x < y ? x : y}
 ```
 This line of code is O(1). 
+
+The order of growth:
+- 1 is the most efficient
+- log *n*
+- *n* log *n*
+- *n*^2
+- *n*^3
+- 2^n
 # Binary Search & Big O
 When performing binary search, the data structure has to be ordered. 
+
+Binary search works by eliminating one half of the array first. 

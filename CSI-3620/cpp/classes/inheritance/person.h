@@ -10,12 +10,14 @@ class Person {
         string idNum;
     protected:
         int bankAcct;
-        void setBank(const int& bankNum);
     public:
         string getName();
-        void print();
+        // dynamic binding
+        virtual void print();
         Person();
+        ~Person();
         Person(const string& newName, const string& id);
+        void setBank(const int& bankNum);
 };
 
 #endif

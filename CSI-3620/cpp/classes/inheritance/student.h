@@ -11,7 +11,9 @@ class Student : public Person {
         int gradYear;
     public:
         Student(const string& tempName, const string& tempId, const string& tempMajor, const int& tempYear);
-        void print();
+        ~Student();
+        // dynamic binding
+        virtual void print();
         void changeMajor(const string& newMajor);
 };
 

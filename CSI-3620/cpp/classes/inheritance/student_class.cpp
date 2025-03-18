@@ -16,3 +16,10 @@ void Student::print() {
 void Student::changeMajor(const string& newMajor) {
     major = newMajor;
 }
+
+Student::~Student() {
+    // name is private in Person
+    // This destructor will be called before the Person destructor
+    string name = getName();
+    cout << "The student " << name << " has been deleted." << endl;
+}

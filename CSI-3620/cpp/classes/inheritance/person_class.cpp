@@ -17,6 +17,7 @@ Person::Person(const string& newName, const string& id) {
 
 void Person::print() {
     cout << "Name: " << name << endl;
+    cout << "---" << endl;
     cout << "IDNum: " << idNum << endl;
     cout << "Bank Account: " << bankAcct << endl;
 }
@@ -27,4 +28,8 @@ string Person::getName() {
 
 void Person::setBank(const int& bankNum) {
     bankAcct = bankNum;
+}
+
+Person::~Person() {
+    cout << "The person " << name << " has been deleted." << endl;
 }

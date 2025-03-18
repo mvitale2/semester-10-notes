@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b186efef5af4efec",
+        "id": "d8dfeb21f464e081",
         "type": "tabs",
         "children": [
           {
-            "id": "04de4c0b73d32ad2",
+            "id": "312140abfe0d5407",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3620/Polymorphism.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Polymorphism"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "ade3cc37a5f68c94",
@@ -175,15 +180,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bec38e370845365d",
+  "active": "312140abfe0d5407",
   "lastOpenFiles": [
+    "CSI-3620/Algorithmic Analysis.md",
+    "CSI-3620/Polymorphism.md",
+    "CSI-3620/cpp/classes/inheritance/a.exe",
+    "CSI-3620/Quizzes/10/Answers.md",
+    "CSI-3620/Textbooks/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf",
+    "CSI-3620/Textbooks/Common Sense Guide Exercises.md",
+    "CSI-3620/Quizzes/10",
     "CSI-3450/Assignments/5/Assignment5-check-triggers-views.pdf",
     "CSI-3450/Assignments/5/Answers.md",
-    "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/Arrays.md",
     "CSI-3620/cpp/linear_search.cpp",
-    "CSI-3620/Textbooks/Common Sense Guide Exercises.md",
-    "CSI-3620/Textbooks/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf",
     "CSI-3620/Textbooks/Data Structures and Algorithms in C++, Second Edition -- Safari, an O'Reilly Media Company_; Goodrich, Michael; -- 1st edition, 2011 -- Wiley; John -- 9780470383278 -- 92cb9026468c294f9f72259017f8f6c3 -- Anna’s Arc.pdf",
     "CSI-3450/Extra Credit.md"
   ]
