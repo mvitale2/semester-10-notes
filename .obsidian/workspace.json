@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a9062181553e59",
+        "id": "1de027a1d1b00221",
         "type": "tabs",
         "children": [
           {
-            "id": "a2922256a17563bc",
+            "id": "dff2897dfa603a11",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "right": {
     "id": "4385881bf15cb535",
@@ -189,20 +190,26 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "8898be814895f678",
+  "active": "dff2897dfa603a11",
   "lastOpenFiles": [
-    "CSI-3450/Assignments/5/vitale_a5.pdf",
-    "CSI-3450/Assignments/5/vitale_a5.md",
+    "CSI-4430/Assignments/Individual Project/Case_STUDY_Manage_Your_Health.pdf",
+    "CSI-3450/Indexing.md",
+    "CSI-4430/Assignments/Individual Project/Case_STUDY_Manage_Your_Health.pdf.crdownload",
+    "CSI-4430/Assignments/Individual Project",
+    "CSI-4430/Assignments/New folder",
     "CSI-3450/Assignments/5/Assignment5-check-triggers-views.pdf",
+    "CSI-3450/Assignments/5/vitale_a5.md",
     "CSI-3450/Assignments/5/Pasted image 20250318171647.png",
     "CSI-3450/Assignments/5/Pasted image 20250318171642.png",
     "CSI-3450/Assignments/5/Pasted image 20250318170432.png",
+    "CSI-3450/Assignments/5/Answers.md",
+    "Pasted image 20250318171647.png",
+    "Pasted image 20250318171642.png",
+    "Pasted image 20250318170432.png",
     "CSI-3450/Assignments/5/Pasted image 20250318170410.png",
     "CSI-3450/Assignments/5/Pasted image 20250318163754.png",
     "CSI-3450/Assignments/5/Pasted image 20250318163818.png",
     "CSI-3450/Assignments/5/Pasted image 20250318163908.png",
-    "CSI-3450/Assignments/5/Pasted image 20250318163924.png",
-    "Pasted image 20250318163331.png",
     "CSI-3620/cpp/linear_search.cpp",
     "CSI-3620/cpp/classes/inheritance/a.exe",
     "CSI-3620/Quizzes/10/Answers.md",
@@ -215,15 +222,11 @@
     "CSI-4600/Project/Transmission Link ERD.md",
     "CSI-4600/Project/Tasks.md",
     "CSI-4600/Project",
-    "CSI-3620/cpp/classes/inheritance/student_class.cpp",
-    "CSI-3620/cpp/classes/inheritance/student.h",
-    "CSI-3620/cpp/classes/inheritance/person_class.cpp",
     "CSI-3620/Quizzes/9/Answers.md",
     "CSI-3620/Polymorphism.md",
     "CSI-3620/Inheritance.md",
     "CSI-3450/SQL Views.md",
     "CSI-3450/Group Project/Tasks.md",
-    "CSI-3450/Group Project/PcPartPickerLite-2025-03-03-182737.png",
     "conflict-files-obsidian-git.md",
     "CSI-4430/Notes/03-06-2025 - Risk Management.md",
     "CSI-4600/Labs/1/vitale_lab1.md",
@@ -233,8 +236,6 @@
     "CSI-4430/Michael Vitale Midterm Answers.md",
     "CSI-4430/Notes/02-18-25 - Review.md",
     "CSI-3620/Classes.md",
-    "CSI-3620/Functions.md",
-    "CSI-3620/Quizzes/8/Solutions.md",
-    "CSI-3450/Relational Algebra.md"
+    "CSI-3620/Functions.md"
   ]
 }
