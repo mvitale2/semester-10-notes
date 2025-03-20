@@ -103,3 +103,119 @@ series:
 - **Lack of management buy-in:** Demonstrate financial benefits and alignment with strategic goals.
 
 **6. Conclusion** The Recreation and Wellness Intranet Project is a cost-effective initiative that aligns with MYH’s business objectives. It has the potential to yield significant financial and health benefits, making it a priority investment for the company.
+## Task 4 - Project Charter
+---
+**Project Charter: Recreation and Wellness Intranet Project**
+
+**Project Title:** Recreation and Wellness Intranet Project  
+**Project Sponsor:** Dr. Sharan Kalwani
+**Project Manager:** Michael Vitale
+**Date:** 4/7/2025
+
+### **1. Project Purpose and Justification**
+
+The Recreation and Wellness Intranet Project aims to improve employee health and reduce healthcare costs. MYH currently spends 20% more on employee healthcare premiums than the industry average due to poor employee health. This project will provide employees with access to wellness programs, recreational activities, and health-related tracking tools, resulting in healthier employees and lower healthcare costs.
+
+### **2. Project Objectives**
+
+- Develop an intranet application for wellness and recreational program registration.
+- Encourage employee participation in company-sponsored health initiatives.
+- Provide incentives to employees for achieving wellness goals.
+- Reduce healthcare costs by at least $30 per full-time employee per year.
+- Complete the project within **six months** and within a **$200,000** budget.
+
+### **3. Project Scope**
+
+- **In Scope:**
+    - Web-based platform for employee wellness programs.
+    - Registration system for health and recreational activities.
+    - Tracking system for employee participation and progress.
+    - Incentive and reward system.
+- **Out of Scope:**
+    - Mobile application development.
+    - External partnerships with wellness providers.
+
+### **4. Key Deliverables**
+
+- Functional intranet application with registration and tracking capabilities.
+- Employee incentives and rewards system.
+- Documentation and user training materials.
+- System testing and launch plan.
+
+### **5. High-Level Timeline**
+
+- **Month 1:** Requirements gathering and planning.
+- **Month 2-3:** System development and initial testing.
+- **Month 4:** System integration and user testing.
+- **Month 5:** Training and deployment preparation.
+- **Month 6:** System launch and monitoring.
+
+### **6. Budget Estimate**
+
+- **Total Budget:** $200,000
+- **Major Cost Components:**
+    - Development: $100,000
+    - Testing & Integration: $50,000
+    - Training & Documentation: $25,000
+    - Incentives & Miscellaneous: $25,000
+
+### **7. Key Stakeholders**
+
+- **Project Sponsor:** Dr. Sharan Kalwani
+- **Project Manager:** Michael Vitale
+- **IT Department:** Development and support team
+- **Human Resources:** Employee engagement and program promotion
+- **Finance Department:** Cost analysis and reporting
+- **Employees:** End users of the system
+
+### **8. Risks and Assumptions**
+
+**Potential Risks:**
+
+- Low employee engagement → Mitigation: Offer attractive incentives.
+- Technical integration challenges → Mitigation: Allocate additional testing time.
+- Scope creep → Mitigation: Strict scope management and approvals.
+
+**Assumptions:**
+
+- Employees will actively participate in wellness programs.
+- No additional hardware or software purchases are required.
+- Project team has full support from management and HR.
+## Task 5 - Change Request
+---
+**Change Request Form**
+
+**Project Name:** Recreation and Wellness Intranet Project  
+**Change Request ID:** CR-001  
+**Date:** 4/9/2025
+**Requested By:** Michael Vitale
+**Project Manager:** Michael Vitale
+
+### **1. Change Description**
+
+The original project scope included basic tracking of employee participation in wellness programs. However, based on feedback from HR and employees, we propose enhancing the system to include a **personalized health dashboard** that provides users with tailored recommendations, progress tracking, and health improvement insights.
+
+### **2. Justification for Change**
+
+- **Increased Employee Engagement:** A personalized dashboard will encourage more employees to use the system actively.
+- **Better Health Outcomes:** Employees can track their progress more effectively, leading to improved health and cost savings.
+- **Alignment with Business Goals:** Enhanced functionality supports MYH’s goal of reducing healthcare costs through proactive wellness management.
+
+### **3. Impact Analysis**
+
+- **Scope Impact:** Expands system functionality to include personalized health analytics and insights.
+- **Schedule Impact:** Extends project timeline by **4 weeks** (new estimated completion: **7 months** instead of 6).
+- **Cost Impact:** Additional **$50,000** required for development and testing (new total budget: **$250,000**).
+- **Risk Impact:** Potential delays in deployment, mitigated by adding extra development resources.
+
+### **4. Approval Process**
+
+- **Project Sponsor Review:** Required
+- **IT and Development Approval:** Required
+- **Finance Department Approval:** Required
+- **HR Stakeholder Review:** Required
+
+### **5. Recommendation**
+
+Given the long-term benefits of increased employee participation and health improvements, this change is recommended for approval. The additional investment is justified by potential healthcare cost savings exceeding **$30 per employee per year**, further supporting MYH’s financial and strategic goals.
+# Part 2
