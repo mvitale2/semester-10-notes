@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "eba01a793668c252",
+    "id": "fd883e74b452692f",
     "type": "split",
     "children": [
       {
-        "id": "d9d8753c9b34ab85",
+        "id": "f152279f9548604c",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a9f5f37aa38ee3",
+            "id": "b5389e303be02c90",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9283f843245fbf85",
+    "id": "cf11fe66c4edd04c",
     "type": "split",
     "children": [
       {
-        "id": "caabfc6b2e684729",
+        "id": "0f3dcb7aa127eb31",
         "type": "tabs",
         "children": [
           {
-            "id": "bec38e370845365d",
+            "id": "1f4ed8380fd58c81",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "826a4ab83df606b5",
+            "id": "d46bdbb209cba454",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "72a5ed4862a10344",
+            "id": "1385bf7871b06e80",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,19 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
-    "id": "ade3cc37a5f68c94",
+    "id": "c2c30a75d764cf49",
     "type": "split",
     "children": [
       {
-        "id": "5a479dd3ab58309a",
+        "id": "8135ee85b628b22c",
         "type": "tabs",
         "children": [
           {
-            "id": "f8b20f2cc7c4ea8d",
+            "id": "cf4cf0a24041ff9d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -104,7 +103,7 @@
             }
           },
           {
-            "id": "356e9086abb4b09b",
+            "id": "e26804ef0383dbf1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -117,7 +116,7 @@
             }
           },
           {
-            "id": "8b037f2e5a67ff4f",
+            "id": "551d877f2c1d98a0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +131,7 @@
             }
           },
           {
-            "id": "35032e5b175cee9e",
+            "id": "e3fc112bba2b301a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,7 +145,7 @@
             }
           },
           {
-            "id": "3f72fb23b702e822",
+            "id": "24409bf1d7bf46bc",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,38 +175,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b4a9f5f37aa38ee3",
+  "active": "b5389e303be02c90",
   "lastOpenFiles": [
-    "CSI-4430/Assignments/3/Answers.md",
-    "CSI-4430/Assignments/3/Case_STUDY_Manage_Your_Health.pdf",
-    "CSI-4430/Assignments/2/Answers.md",
-    "CSI-4430/Assignments/1/Peer Review Rubric CSI 4430 Winter 2025.pdf",
-    "CSI-4430/Assignments/3/Case_STUDY_Manage_Your_Health.pdf.crdownload",
-    "CSI-4430/Assignments/3",
-    "CSI-4430/Assignments/1/Learning to Live With Red Tape.md",
-    "CSI-4430/Assignments/1/Answers to Guiding Questions.md",
-    "CSI-3620/Polymorphism.md",
-    "CSI-3450/Indexing.md",
-    "CSI-3450/Assignments/5/vitale_a5.md",
-    "CSI-3450/Assignments/5/Pasted image 20250318171647.png",
-    "CSI-3450/Assignments/5/Pasted image 20250318171642.png",
-    "CSI-3450/Assignments/5/Pasted image 20250318170432.png",
-    "CSI-3450/Assignments/5/Pasted image 20250318170410.png",
-    "CSI-3450/Assignments/5/Pasted image 20250318163924.png",
-    "CSI-3450/Assignments/5/Pasted image 20250318163908.png",
-    "CSI-3450/Assignments/5/Pasted image 20250318163818.png",
-    "CSI-3450/Assignments/5/Pasted image 20250318163754.png",
     "CSI-3620/Algorithmic Analysis.md",
-    "CSI-3620/cpp/classes/inheritance/a.exe",
-    "CSI-3620/Quizzes/10/Answers.md",
-    "CSI-3620/Textbooks/A Common-Sense Guide to Data Structures and Algorithms, -- Jay Wengrow -- 2020 -- Pragmatic Bookshelf -- 599738a3aa3c593fdfa62898d9dca042 -- Anna’s Archive.pdf",
-    "CSI-3620/Textbooks/Common Sense Guide Exercises.md",
-    "CSI-3620/Quizzes/10",
-    "CSI-3450/Assignments/5/Assignment5-check-triggers-views.pdf",
-    "CSI-3450/Assignments/5/Answers.md",
-    "CSI-3620/Arrays.md",
-    "CSI-3620/cpp/linear_search.cpp",
-    "CSI-3620/Textbooks/Data Structures and Algorithms in C++, Second Edition -- Safari, an O'Reilly Media Company_; Goodrich, Michael; -- 1st edition, 2011 -- Wiley; John -- 9780470383278 -- 92cb9026468c294f9f72259017f8f6c3 -- Anna’s Arc.pdf",
-    "CSI-3450/Extra Credit.md"
+    "CSI-3620/cpp/binary_search.cpp",
+    "CSI-3620/cpp/binar_search.cpp",
+    "CSI-3620/Quizzes/11/Answers.md",
+    "CSI-3620/Polymorphism.md",
+    "CSI-3620/Quizzes/11",
+    "CSI-4430/Assignments/3/Answers.md",
+    "CSI-4430/Assignments/3"
   ]
 }

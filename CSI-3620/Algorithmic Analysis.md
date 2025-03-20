@@ -41,6 +41,10 @@ The order of growth:
 - *n*^3
 - 2^n
 # Binary Search & Big O
-When performing binary search, the data structure has to be ordered. 
+When performing binary search, the data structure **must** be ordered. 
 
 Binary search works by eliminating one half of the array first. 
+
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/binary_search.cpp"
+```
