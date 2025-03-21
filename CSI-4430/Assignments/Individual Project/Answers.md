@@ -219,3 +219,185 @@ The original project scope included basic tracking of employee participation in 
 
 Given the long-term benefits of increased employee participation and health improvements, this change is recommended for approval. The additional investment is justified by potential healthcare cost savings exceeding **$30 per employee per year**, further supporting MYH’s financial and strategic goals.
 # Part 2
+## Task 1 - Requirements Traceability Matrix
+---
+
+|Requirement ID|Description|Source|Priority|
+|---|---|---|---|
+|RQ-001|Employees must be able to register for recreational programs (soccer, jogging, bowling, etc.).|HR Department|High|
+|RQ-002|Employees must be able to enroll in wellness programs (weight management, stress reduction, smoking cessation).|Employee Survey|High|
+|RQ-003|The system must track employee participation and display progress in a user-friendly dashboard.|IT Department|Medium|
+|RQ-004|The system must include an incentive program that rewards employees for achieving health goals.|HR & Finance|High|
+|RQ-005|The application must be accessible via the company’s intranet and require secure login authentication.|IT Security Team|High|
+## Task 2 - Scope Statement
+---
+### **1. Project Objectives**
+
+The Recreation and Wellness Intranet Project aims to improve employee health and reduce healthcare costs for Manage Your Health, Inc. (MYH). This project will provide an intranet-based platform where employees can register for wellness and recreational programs, track participation, and receive incentives for achieving health goals. The project must be completed within **six months** and within a **$200,000** budget.
+
+### **2. Project Scope Description**
+
+The system will include:
+
+- **Registration module** for employees to enroll in recreational and wellness programs.
+- **Tracking system** to monitor participation and progress in these programs.
+- **Incentive program** to reward employees for meeting wellness goals.
+- **User-friendly dashboard** for employees to view their progress and upcoming activities.
+- **Secure login and authentication** via the company’s intranet.
+
+### **3. Key Deliverables**
+
+- Fully functional intranet application with wellness program registration and tracking.
+- Secure authentication and access control mechanisms.
+- Employee incentive and rewards system.
+- User training materials and documentation.
+- System testing and deployment plan.
+
+### **4. Project Constraints**
+
+- The project must be completed within six months.
+- The total budget cannot exceed $200,000.
+- The system must run on the existing company intranet without additional hardware.
+- All data must comply with internal security and privacy policies.
+
+### **5. Assumptions**
+
+- Employees will actively use the system to improve their health.
+- No additional hardware purchases are required.
+- HR and IT departments will provide necessary support for system implementation.
+
+### **6. Out of Scope**
+
+- Development of a mobile application.
+- Integration with external healthcare providers.
+- Advanced analytics beyond basic tracking and reporting.
+
+### **7. Acceptance Criteria**
+
+- The system must allow at least **90% of employees** to register and access wellness programs.
+- User feedback should indicate at least **80% satisfaction** with system usability.
+- The incentive program must be functional and operational upon launch.
+- The system must pass security and performance testing before deployment.
+## Task 3 - WBS
+---
+**1. Project Management**
+
+- 1.1 Project Planning
+- 1.2 Stakeholder Communication
+- 1.3 Risk Management
+- 1.4 Progress Reporting
+
+**2. Requirements Definition**
+
+- 2.1 Gather Employee and HR Requirements
+- 2.2 Define System Functionalities
+- 2.3 Approve Requirements Document
+
+**3. System Design**
+
+- 3.1 Database Design
+- 3.2 User Interface (UI) Design
+- 3.3 Security and Authentication Design
+
+**4. System Development**
+
+- 4.1 Develop Registration Module
+- 4.2 Develop Tracking System
+- 4.3 Develop Incentive Program
+- 4.4 Implement Security Features
+
+**5. Testing**
+
+- 5.1 Unit Testing
+- 5.2 Integration Testing
+- 5.3 User Acceptance Testing
+
+**6. Training and Documentation**
+
+- 6.1 Develop User Training Materials
+- 6.2 Conduct Employee Training Sessions
+- 6.3 Create System Documentation
+
+**7. Deployment and Support**
+
+- 7.1 System Deployment
+- 7.2 Post-Implementation Support
+- 7.3 System Performance Review
+## Task 4 - Gantt Chart
+---
+```mermaid
+gantt
+    title Recreation and Wellness Intranet Project
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %d
+    section Planning
+    Project Kickoff       :done, 2025-04-01, 5d
+    Requirement Gathering :done, 2025-04-06, 10d
+    Scope Definition      :done, 2025-04-16, 7d
+
+    section Development
+    System Design         :active, 2025-04-23, 15d
+    Module Development    :2025-05-08, 40d
+    Database Setup        :2025-05-08, 20d
+
+    section Testing
+    Unit Testing          :2025-06-17, 10d
+    Integration Testing   :2025-06-27, 14d
+    User Acceptance Testing :2025-07-11, 14d
+
+    section Deployment
+    Training & Documentation :2025-07-25, 10d
+    System Deployment        :2025-08-04, 7d
+    Project Closure          :2025-08-11, 5d
+```
+## Task 5 - Scope Validation & Change Control
+---
+### **1. Scope Validation Strategy**
+
+Scope validation ensures that project deliverables meet the agreed requirements and receive formal acceptance from stakeholders. The following steps will be used to validate the scope of the Recreation and Wellness Intranet Project:
+
+1. **Requirement Verification:**
+    
+    - Compare deliverables against the Requirements Traceability Matrix (RTM).
+    - Conduct reviews with stakeholders (HR, IT, Finance) to confirm compliance.
+2. **Stakeholder Review and Sign-off:**
+    
+    - Demonstrate system functionality to key stakeholders.
+    - Collect formal approval from project sponsors and end-users.
+3. **User Acceptance Testing (UAT):**
+    
+    - Employees will participate in system testing.
+    - Gather feedback and address usability concerns before final deployment.
+4. **Final Approval:**
+    
+    - Obtain written confirmation from HR and IT departments confirming that the system meets expectations.
+    - Document sign-offs before project closure.
+
+### **2. Change Control Strategy**
+
+To prevent scope creep and ensure all modifications are managed efficiently, the following change control process will be implemented:
+
+1. **Change Request Submission:**
+    
+    - Any stakeholder proposing a change must submit a Change Request Form.
+    - The request must include justification, impact analysis, and urgency.
+2. **Impact Analysis:**
+    
+    - Evaluate how the change affects the project scope, timeline, and budget.
+    - Identify risks and required resources for implementation.
+3. **Change Review and Approval:**
+    
+    - The Project Manager and Change Control Board (CCB) will review the request.
+    - Changes exceeding a **10% impact on cost or schedule** require senior management approval.
+4. **Implementation and Documentation:**
+    
+    - Approved changes will be integrated into the project plan.
+    - Update the project schedule, scope statement, and WBS accordingly.
+5. **Communication and Monitoring:**
+    
+    - Inform all relevant stakeholders about approved changes.
+    - Monitor impact and ensure smooth execution without affecting critical deadlines.
+
+### **Conclusion**
+
+By implementing structured scope validation and change control processes, the Recreation and Wellness Intranet Project will maintain clear deliverables, prevent uncontrolled modifications, and ensure stakeholder satisfaction.

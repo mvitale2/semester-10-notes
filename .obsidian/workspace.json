@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86b3f40766a6b1fa",
+        "id": "bcf8b72b869693c6",
         "type": "tabs",
         "children": [
           {
-            "id": "2c2c08299b703ba0",
+            "id": "a776a19c1e972d87",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "91b78bbb931b2a42",
@@ -185,13 +185,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75973069098a5b02",
+  "active": "297f4f056ae13c5f",
   "lastOpenFiles": [
+    "CSI-4430/Assignments/2 & 3/1337101354_657898.pdf",
+    "CSI-4430/Assignments/2 & 3/vitale_Exercise 3.md",
+    "CSI-4430/Assignments/2 & 3/vitale_Exercise 3.pdf",
+    "CSI-4430/Assignments/2 & 3/vitale_Exercise 2.md",
+    "CSI-4430/Assignments/2 & 3/vitale_Exercise 2.pdf",
+    "CSI-4430/Assignments/2 & 3/1337101354_657898.pdf.crdownload",
+    "CSI-4430/Assignments/2 & 3",
+    "Untitled.canvas",
+    "CSI-4430/Assignments/Individual Project/Answers.md",
+    "CSI-4430/Assignments/Individual Project/Case_STUDY_Manage_Your_Health.pdf",
     "CSI-4430/Presentations/1/CS 01.pdf",
     "CSI-4430/Presentations/1/Diagrams.md",
     "CSI-4430/Presentations/1",
-    "CSI-4430/Presentations",
-    "CSI-4430/Assignments/3/Answers.md",
-    "CSI-4430/Assignments/3/Case_STUDY_Manage_Your_Health.pdf"
+    "CSI-4430/Presentations"
   ]
 }
