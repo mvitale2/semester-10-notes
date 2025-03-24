@@ -222,13 +222,13 @@ Given the long-term benefits of increased employee participation and health impr
 ## Task 1 - Requirements Traceability Matrix
 ---
 
-|Requirement ID|Description|Source|Priority|
-|---|---|---|---|
-|RQ-001|Employees must be able to register for recreational programs (soccer, jogging, bowling, etc.).|HR Department|High|
-|RQ-002|Employees must be able to enroll in wellness programs (weight management, stress reduction, smoking cessation).|Employee Survey|High|
-|RQ-003|The system must track employee participation and display progress in a user-friendly dashboard.|IT Department|Medium|
-|RQ-004|The system must include an incentive program that rewards employees for achieving health goals.|HR & Finance|High|
-|RQ-005|The application must be accessible via the company’s intranet and require secure login authentication.|IT Security Team|High|
+| Requirement ID | Description                                                                                                     | Source           | Priority |
+| -------------- | --------------------------------------------------------------------------------------------------------------- | ---------------- | -------- |
+| RQ-001         | Employees must be able to register for recreational programs (soccer, jogging, bowling, etc.).                  | HR Department    | High     |
+| RQ-002         | Employees must be able to enroll in wellness programs (weight management, stress reduction, smoking cessation). | Employee Survey  | High     |
+| RQ-003         | The system must track employee participation and display progress in a user-friendly dashboard.                 | IT Department    | Medium   |
+| RQ-004         | The system must include an incentive program that rewards employees for achieving health goals.                 | HR & Finance     | High     |
+| RQ-005         | The application must be accessible via the company’s intranet and require secure login authentication.          | IT Security Team | High     |
 ## Task 2 - Scope Statement
 ---
 ### **1. Project Objectives**
@@ -281,45 +281,38 @@ The system will include:
 ## Task 3 - WBS
 ---
 **1. Project Management**
-
 - 1.1 Project Planning
 - 1.2 Stakeholder Communication
 - 1.3 Risk Management
 - 1.4 Progress Reporting
 
 **2. Requirements Definition**
-
 - 2.1 Gather Employee and HR Requirements
 - 2.2 Define System Functionalities
 - 2.3 Approve Requirements Document
 
 **3. System Design**
-
 - 3.1 Database Design
 - 3.2 User Interface (UI) Design
 - 3.3 Security and Authentication Design
 
 **4. System Development**
-
 - 4.1 Develop Registration Module
 - 4.2 Develop Tracking System
 - 4.3 Develop Incentive Program
 - 4.4 Implement Security Features
 
 **5. Testing**
-
 - 5.1 Unit Testing
 - 5.2 Integration Testing
 - 5.3 User Acceptance Testing
 
 **6. Training and Documentation**
-
 - 6.1 Develop User Training Materials
 - 6.2 Conduct Employee Training Sessions
 - 6.3 Create System Documentation
 
 **7. Deployment and Support**
-
 - 7.1 System Deployment
 - 7.2 Post-Implementation Support
 - 7.3 System Performance Review
@@ -353,51 +346,163 @@ gantt
 ## Task 5 - Scope Validation & Change Control
 ---
 ### **1. Scope Validation Strategy**
-
 Scope validation ensures that project deliverables meet the agreed requirements and receive formal acceptance from stakeholders. The following steps will be used to validate the scope of the Recreation and Wellness Intranet Project:
-
-1. **Requirement Verification:**
-    
+1. **Requirement Verification:**    
     - Compare deliverables against the Requirements Traceability Matrix (RTM).
     - Conduct reviews with stakeholders (HR, IT, Finance) to confirm compliance.
-2. **Stakeholder Review and Sign-off:**
-    
+2. **Stakeholder Review and Sign-off:**    
     - Demonstrate system functionality to key stakeholders.
     - Collect formal approval from project sponsors and end-users.
-3. **User Acceptance Testing (UAT):**
-    
+3. **User Acceptance Testing (UAT):**    
     - Employees will participate in system testing.
     - Gather feedback and address usability concerns before final deployment.
-4. **Final Approval:**
-    
+4. **Final Approval:**    
     - Obtain written confirmation from HR and IT departments confirming that the system meets expectations.
     - Document sign-offs before project closure.
-
 ### **2. Change Control Strategy**
-
 To prevent scope creep and ensure all modifications are managed efficiently, the following change control process will be implemented:
-
-1. **Change Request Submission:**
-    
+1. **Change Request Submission:**    
     - Any stakeholder proposing a change must submit a Change Request Form.
     - The request must include justification, impact analysis, and urgency.
-2. **Impact Analysis:**
-    
+2. **Impact Analysis:**    
     - Evaluate how the change affects the project scope, timeline, and budget.
     - Identify risks and required resources for implementation.
-3. **Change Review and Approval:**
-    
+3. **Change Review and Approval:**    
     - The Project Manager and Change Control Board (CCB) will review the request.
     - Changes exceeding a **10% impact on cost or schedule** require senior management approval.
-4. **Implementation and Documentation:**
-    
+4. **Implementation and Documentation:**    
     - Approved changes will be integrated into the project plan.
     - Update the project schedule, scope statement, and WBS accordingly.
-5. **Communication and Monitoring:**
-    
+5. **Communication and Monitoring:**    
     - Inform all relevant stakeholders about approved changes.
     - Monitor impact and ensure smooth execution without affecting critical deadlines.
 
 ### **Conclusion**
-
 By implementing structured scope validation and change control processes, the Recreation and Wellness Intranet Project will maintain clear deliverables, prevent uncontrolled modifications, and ensure stakeholder satisfaction.
+# Part 3
+## Task 1 - Additional Activities for Resource and Duration Estimation
+---
+### **1. Detailed User Requirement Analysis**
+- **Description:** Conduct in-depth sessions with employees and HR to refine system requirements.
+- **Reason:** Ensures accurate development timelines and prevents scope changes later.
+- **Estimated Duration:** 2 weeks
+- **Resources Required:** Business analysts, HR representatives
+
+### **2. Prototype Development and Feedback**
+- **Description:** Develop a basic prototype of the intranet system and collect early feedback from stakeholders.
+- **Reason:** Helps identify usability issues early, reducing rework in later phases.
+- **Estimated Duration:** 3 weeks
+- **Resources Required:** UI/UX designers, developers, test users
+
+### **3. Security and Compliance Assessment**
+- **Description:** Perform a security and compliance review to ensure data protection policies are met.
+- **Reason:** Avoids potential legal or IT security issues post-launch.
+- **Estimated Duration:** 2 weeks
+- **Resources Required:** IT security specialists, compliance officers
+
+### **4. Load and Performance Testing**
+- **Description:** Simulate high user traffic scenarios to evaluate system performance under stress.
+- **Reason:** Ensures that the platform remains stable with company-wide usage.
+- **Estimated Duration:** 2 weeks
+- **Resources Required:** Developers, QA testers
+
+### **5. Employee Training and Support Preparation**
+- **Description:** Create training materials and schedule training sessions for employees before launch.
+- **Reason:** Ensures smooth adoption and reduces post-launch support requests.
+- **Estimated Duration:** 3 weeks
+- **Resources Required:** HR trainers, documentation specialists, IT support staff
+## Task 2 - Milestones
+---
+### **1. Project Kickoff Meeting**
+- **Date:** March 1, 2025
+- **Criteria:** Official approval of the project scope, objectives, and timeline.
+### **2. Completion of Requirements Gathering**
+- **Date:** March 15, 2025
+- **Criteria:** All stakeholder interviews, surveys, and requirement documents finalized.
+### **3. System Design Finalization**
+- **Date:** March 30, 2025
+- **Criteria:** UI/UX designs, database schema, and security models approved.
+### **4. Prototype Development and Initial Feedback**
+- **Date:** April 15, 2025
+- **Criteria:** A working prototype is tested by a select group of employees.
+### **5. Completion of Core System Development**
+- **Date:** May 30, 2025
+- **Criteria:** Major modules (registration, tracking, incentives) are functional.
+### **6. Completion of Testing Phase**
+- **Date:** June 30, 2025
+- **Criteria:** System passes unit, integration, and user acceptance testing.
+### **7. Employee Training and Documentation Ready**
+- **Date:** July 15, 2025
+- **Criteria:** Training sessions and manuals are completed for rollout.
+### **8. System Go-Live and Project Closure**
+- **Date:** August 1, 2025
+- **Criteria:** System is fully deployed, and final stakeholder approval is received.
+## Task 3 - Updated Gantt Chart
+---
+```mermaid
+gantt
+    title Recreation and Wellness Intranet Project
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %d
+
+    section Planning
+    Project Kickoff Meeting        :milestone, done, 2025-03-01, 5d
+    Requirement Gathering           :done, 2025-03-06, 10d
+    Scope Definition                :done, 2025-03-16, 7d
+    Completion of Requirements Gathering :milestone, done, 2025-03-15, 15d
+    System Design Finalization      :milestone, done, 2025-03-30, 15d
+
+    section Development
+    Prototype Development and Initial Feedback :milestone, active, 2025-04-15, 30d
+    System Design         :active, 2025-04-23, 15d
+    Module Development    :2025-05-08, 40d
+    Database Setup        :2025-05-08, 20d
+    Completion of Core System Development :milestone, 2025-05-30, 45d
+
+    section Testing
+    Unit Testing          :2025-06-17, 10d
+    Integration Testing   :2025-06-27, 14d
+    User Acceptance Testing :2025-07-11, 14d
+    Completion of Testing Phase :milestone, 2025-06-30, 30d
+
+    section Deployment
+    Training & Documentation       :2025-07-25, 10d
+    Employee Training and Documentation Ready :milestone, 2025-07-15, 15d
+    System Deployment              :2025-08-04, 7d
+    System Go-Live and Project Closure :milestone, 2025-08-01, 15d
+    Project Closure                :2025-08-11, 5d
+```
+
+# Part 4
+## Task 1 - Cost Model
+---
+
+| WBS ID | Task Description                       | Estimated Hours | Hourly Rate ($) | Total Cost ($) |
+| ------ | -------------------------------------- | --------------- | --------------- | -------------- |
+| 1      | Project Management                     | 500             | 100             | 50,000         |
+| 2      | Requirements Definition                | 150             | 60              | 9,000          |
+| 3      | Web Site Design                        | 250             | 60              | 15,000         |
+| 3.1    | Registration for Recreational Programs | 100             | 60              | 6,000          |
+| 3.2    | Registration for Classes and Programs  | 100             | 60              | 6,000          |
+| 3.3    | Tracking System                        | 150             | 60              | 9,000          |
+| 3.4    | Incentive System                       | 150             | 60              | 9,000          |
+| 4      | Web Site Development                   | 400             | 60              | 24,000         |
+| 4.1    | Registration for Recreational Programs | 150             | 60              | 9,000          |
+| 4.2    | Registration for Classes and Programs  | 150             | 60              | 9,000          |
+| 4.3    | Tracking System                        | 200             | 60              | 12,000         |
+| 4.4    | Incentive System                       | 200             | 60              | 12,000         |
+| 5      | Testing                                | 250             | 60              | 15,000         |
+| 6      | Training, Rollout, and Support         | 250             | 60              | 15,000         |
+|        | **Total Cost**                         |                 |                 | **200,000**    |
+## Task 2 - Cost Baseline
+---
+
+| Month     | Project Management ($) | Requirements Definition ($) | Web Design ($) | Development ($) | Testing ($) | Training & Rollout ($) | Total Monthly Cost ($) |
+| --------- | ---------------------- | --------------------------- | -------------- | --------------- | ----------- | ---------------------- | ---------------------- |
+| Month 1   | 10,000                 | 6,000                       | 5,000          | 0               | 0           | 0                      | 21,000                 |
+| Month 2   | 10,000                 | 3,000                       | 5,000          | 10,000          | 0           | 0                      | 28,000                 |
+| Month 3   | 10,000                 | 0                           | 5,000          | 20,000          | 0           | 0                      | 35,000                 |
+| Month 4   | 10,000                 | 0                           | 0              | 30,000          | 0           | 0                      | 40,000                 |
+| Month 5   | 10,000                 | 0                           | 0              | 30,000          | 10,000      | 0                      | 50,000                 |
+| Month 6   | 0                      | 0                           | 0              | 20,000          | 5,000       | 1,000                  | 26,000                 |
+| **Total** | **50,000**             | **9,000**                   | **15,000**     | **110,000**     | **15,000**  | **1,000**              | **200,000**            |

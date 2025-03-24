@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcf8b72b869693c6",
+        "id": "8457d85a59044469",
         "type": "tabs",
         "children": [
           {
-            "id": "a776a19c1e972d87",
+            "id": "dcd1abc9886fade8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "91b78bbb931b2a42",
@@ -185,8 +186,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "297f4f056ae13c5f",
+  "active": "dcd1abc9886fade8",
   "lastOpenFiles": [
+    "CSI-4430/Assignments/Individual Project/Case_STUDY_Manage_Your_Health.pdf",
+    "CSI-4430/Assignments/Individual Project/Answers.md",
+    "CSI-4430/Assignments/1/Answers.md",
+    "Grizz Hacks Presentation Notes.md",
     "CSI-4430/Assignments/2 & 3/1337101354_657898.pdf",
     "CSI-4430/Assignments/2 & 3/vitale_Exercise 3.md",
     "CSI-4430/Assignments/2 & 3/vitale_Exercise 3.pdf",
@@ -195,8 +200,6 @@
     "CSI-4430/Assignments/2 & 3/1337101354_657898.pdf.crdownload",
     "CSI-4430/Assignments/2 & 3",
     "Untitled.canvas",
-    "CSI-4430/Assignments/Individual Project/Answers.md",
-    "CSI-4430/Assignments/Individual Project/Case_STUDY_Manage_Your_Health.pdf",
     "CSI-4430/Presentations/1/CS 01.pdf",
     "CSI-4430/Presentations/1/Diagrams.md",
     "CSI-4430/Presentations/1",
