@@ -5,7 +5,7 @@ Static binding means that if a function inside a subclass has the same name as a
 
 Dynamic binding allows for function overloading, in a sense. By declaring the function as `virtual` in both the parent and child classes, the respective function for each class will be called. 
 # Question 3
-The parent's destructor is called first. 
+The child's destructor is called first. 
 # Question 4
 Big O notation measures the amount of steps it takes for a program to execute. This method is much better than other metrics since it does not depend on the machine's effectiveness. Measuring execution time or memory usage will be influenced by the machine's hardware, which will lead to inaccurate results for solely execution efficiency. 
 # Question 5
@@ -28,3 +28,5 @@ Linear search will always be more efficient than binary search if the element be
 # Question 10
 Arrays must be ordered to be able to execute binary search. It doesn't matter how arrays are ordered for linear search. 
 # Question 11
+The error is in the line `return false;`. If the element is not equal to `list[i]`, then the function will end immediately. It should be a `continue` statement. `return false` Should be outside of the for loop in case it ends without finding the desired element. 
+# Question 12
