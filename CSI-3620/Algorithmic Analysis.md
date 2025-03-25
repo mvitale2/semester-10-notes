@@ -41,7 +41,7 @@ The order of growth:
 - *n*^3
 - 2^n
 # Binary Search & Big O
-When performing binary search, the data structure **must** be ordered. 
+When performing binary search, the data structure **must** be ordered. The execution time of binary search is O(log *n*). 
 
 Binary search works by eliminating one half of the array first. 
 
