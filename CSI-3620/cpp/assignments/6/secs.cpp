@@ -17,10 +17,13 @@ void SECS::setFormat(const string& tempFormat) {
 }
 
 void SECS::getDescription() {
-    printf("%s is offered in %s format.\n", name, format);
+    // Call the parent class's getDescription method
+    Course::getDescription();
+    // Add additional functionality
+    printf("%s is offered in %s format.\n", name.c_str(), format.c_str());
 }
 
 // Destructor
 SECS::~SECS() {
-    printf("Deleting %s from SECS.\n", name);
+    printf("Deleting %s from SECS.\n", name.c_str());
 }
