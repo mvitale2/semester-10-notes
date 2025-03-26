@@ -11,10 +11,12 @@
             "id": "06b31be9b70e8898",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "CSI-3620/Assignments/6/Assignment 6.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment 6"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "91b78bbb931b2a42",
@@ -169,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,26 +191,27 @@
   },
   "active": "06b31be9b70e8898",
   "lastOpenFiles": [
+    "CSI-3620/cpp/assignments/6/a.exe",
+    "CSI-3620/cpp/assignments/6/main.cpp",
+    "CSI-3620/cpp/assignments/6/secs.cpp",
+    "CSI-3620/cpp/assignments/6/secs.h",
+    "CSI-3620/cpp/assignments/6/courseClass.cpp",
+    "CSI-3620/cpp/assignments/6/course.h",
+    "CSI-3620/cpp/assignments/6",
+    "CSI-3620/Assignments/6/Assignment 6.pdf",
+    "CSI-3620/Assignments/6/msoC04C.tmp",
+    "CSI-3620/Assignments/6",
+    "CSI-3620/Assignments/New folder",
     "CSI-3620/Assignments/5/vitale_a5.md",
-    "CSI-3620/Assignments/5/Assignment 5.pdf",
     "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/Quizzes/12/Answers.md",
-    "CSI-3620/Quizzes/12",
     "CSI-3620/Polymorphism.md",
-    "CSI-4430/Assignments/Individual Project/Case_STUDY_Manage_Your_Health.pdf",
     "CSI-4430/Assignments/Individual Project/Answers.md",
     "CSI-4430/Assignments/1/Answers.md",
     "Grizz Hacks Presentation Notes.md",
-    "CSI-4430/Assignments/2 & 3/1337101354_657898.pdf",
     "CSI-4430/Assignments/2 & 3/vitale_Exercise 3.md",
-    "CSI-4430/Assignments/2 & 3/vitale_Exercise 3.pdf",
     "CSI-4430/Assignments/2 & 3/vitale_Exercise 2.md",
-    "CSI-4430/Assignments/2 & 3/vitale_Exercise 2.pdf",
-    "CSI-4430/Assignments/2 & 3/1337101354_657898.pdf.crdownload",
-    "CSI-4430/Assignments/2 & 3",
     "Untitled.canvas",
-    "CSI-4430/Presentations/1/CS 01.pdf",
-    "CSI-4430/Presentations/1/Diagrams.md",
-    "CSI-4430/Presentations/1"
+    "CSI-4430/Presentations/1/Diagrams.md"
   ]
 }
