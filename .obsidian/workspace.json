@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3a9d85e53c92d5",
+        "id": "4cd88b9daed78b2e",
         "type": "tabs",
         "children": [
           {
-            "id": "06b31be9b70e8898",
+            "id": "f0d1d9f5ea4a9afe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSI-3620/Assignments/6/Assignment 6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Assignment 6"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "91b78bbb931b2a42",
@@ -172,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,21 +185,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "06b31be9b70e8898",
+  "active": "75973069098a5b02",
   "lastOpenFiles": [
-    "CSI-3620/cpp/assignments/6/a.exe",
-    "CSI-3620/cpp/assignments/6/main.cpp",
-    "CSI-3620/cpp/assignments/6/secs.cpp",
-    "CSI-3620/cpp/assignments/6/secs.h",
-    "CSI-3620/cpp/assignments/6/courseClass.cpp",
-    "CSI-3620/cpp/assignments/6/course.h",
-    "CSI-3620/cpp/assignments/6",
-    "CSI-3620/Assignments/6/Assignment 6.pdf",
-    "CSI-3620/Assignments/6/msoC04C.tmp",
-    "CSI-3620/Assignments/6",
-    "CSI-3620/Assignments/New folder",
-    "CSI-3620/Assignments/5/vitale_a5.md",
     "CSI-3620/Algorithmic Analysis.md",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/Practice.md",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/Solutions/3-25 Quiz.pdf",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/3-25 Quiz.pdf",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/Solutions/3-20 Quiz.pdf",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/Solutions/3-18 Quiz.pdf",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/3-18 Quiz.pdf",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/Solutions/3-13 Quiz.pdf",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/Solutions",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/3-20 Quiz.pdf",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/3-13 Quiz.pdf",
+    "CSI-3620/Tests/Exam 1.md",
+    "CSI-3620/Tests/Exam 2.md",
+    "CSI-3620/Quizzes/Exam 3 Quizzes/3-11 Quiz.pdf",
+    "CSI-3620/Quizzes/1/Questions.md",
+    "CSI-3620/Quizzes/8/Solutions.md",
+    "CSI-3620/Assignments/5/vitale_a5.md",
     "CSI-3620/Quizzes/12/Answers.md",
     "CSI-3620/Polymorphism.md",
     "CSI-4430/Assignments/Individual Project/Answers.md",
