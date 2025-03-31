@@ -49,6 +49,34 @@ graph TD
     E --> E2[Restore Facility to Lease Condition]
     E --> E3[Handover to Landlord]
 ```
+## Part 1
+```mermaid
+graph TD
+    A[Data Center Relocation Project] --> B[Facility Setup]
+    A --> C[Infrastructure Relocation]
+
+    B --> B1[Design & Build 8,000 sqft Facility]
+    B --> B2[Install Power, Cooling & Security]
+    B --> B3[Test & Certify Facility]
+
+    C --> C1[Inventory & Assess 225 Servers]
+    C --> C2[Plan & Execute Server Migration]
+    C --> C3[Reconfigure Network & Storage]
+```
+## Part 2
+```mermaid
+graph TD
+    A[Data Center Relocation Project] --> D[Employee Relocation]
+    A --> E[Decommission Old Site]
+
+    D --> D1[Plan Employee Move]
+    D --> D2[Setup Workstations]
+    D --> D3[Ensure Minimal Work Disruption]
+
+    E --> E1[Shut Down & Remove Equipment]
+    E --> E2[Restore Facility to Lease Condition]
+    E --> E3[Handover to Landlord]
+```
 # Budget
 ### **Estimated Cost Breakdown by Phases & Activities**
 | **Phase & Activities**                                                       | **Estimated Cost (USD)** | **% of Total Budget** |
