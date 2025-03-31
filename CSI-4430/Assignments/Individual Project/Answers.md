@@ -506,3 +506,72 @@ gantt
 | Month 5   | 10,000                 | 0                           | 0              | 30,000          | 10,000      | 0                      | 50,000                 |
 | Month 6   | 0                      | 0                           | 0              | 20,000          | 5,000       | 1,000                  | 26,000                 |
 | **Total** | **50,000**             | **9,000**                   | **15,000**     | **110,000**     | **15,000**  | **1,000**              | **200,000**            |
+## Task 3 - Cost Estimations
+### Part A
+#### Cost variance
+$$
+\begin{aligned}
+CV &= EV - AC \\
+CV &= 100,000 - 90,000 \\
+CV &= 10,000
+\end{aligned}
+$$
+#### Schedule Variance
+$$
+\begin{aligned}
+SV &= EV - PV \\
+SV &= 100,000 - 120,000 \\
+SV &= -20,000
+\end{aligned}
+$$
+#### CPI
+$$
+\begin{aligned}
+CPI &= \frac{EV}{AC} \\
+CPI &= \frac{100,000}{90,000} \\
+CPI &\approx 1.1 \\
+\end{aligned}
+$$
+#### SPI
+$$
+\begin{aligned}
+SPI &= \frac{EV}{PV} \\
+SPI &= \frac{100,000}{120,000} \\
+SPI &\approx 0.83
+\end{aligned}
+$$
+### Part B
+The SPI is less than 1, so it is behind schedule.
+The CPI is greater than 1, so it is under budget.
+### Part C
+$$
+\begin{aligned}
+EAC &= \frac{BAC}{CPI} \\
+EAC &= \frac{200,000}{0.83} \\
+EAC & \approx 240,964
+\end{aligned}
+$$
+The project is performing worse than planned. 
+#### Part D
+$$
+\begin{aligned}
+Estimated Duration &= \frac{4.5}{SPI} \\
+Estimated Duration &= \frac{4.5}{0.83} \\
+Estimated Duration &\approx 5.42
+\end{aligned}
+$$
+The project will likely take 5.42 months to complete. 
+#### Part E
+```chart
+type: line
+labels: [Month 1, Month 2, Month 3, Month 4, Month 5, Month 6]
+series:
+  - title: Planned Value (PV)
+    data: [20000, 50000, 80000, 120000, 160000, 200000]
+
+  - title: Actual Cost (AC)
+    data: [18000, 45000, 70000, 90000, 130000, 170000]
+
+  - title: Earned Value (EV)
+    data: [22000, 48000, 75000, 100000, 140000, 190000]
+```
