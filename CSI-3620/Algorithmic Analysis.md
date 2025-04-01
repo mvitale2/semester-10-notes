@@ -48,3 +48,18 @@ Binary search works by eliminating one half of the array first.
 ```embed-cpp
 PATH: "vault://CSI-3620/cpp/binary_search.cpp"
 ```
+# Sorting Unsorted Arrays
+## Bubble Sort
+Works by comparing the 0th element and the 1st element. Depending on which is higher, swap their positions. Repeat.
+
+After the first pass, the highest elements are guaranteed to be at the top of the array.
+ 
+1 passthrough means 1 pass through the entire array. 
+
+For example: given 4, 2, 7, 1, 3
+pass 1: 2, 4, 1, 3, 7
+pass 2: 2, 1, 3, 4, 7
+pass 3: 1, 2, 3, 4, 7
+pass 4: 1, 2, 3, 4, 7
+done!
+![[Bubble-sort-example-300px.gif]]
