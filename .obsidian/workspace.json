@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15ae81ab01e509b8",
+        "id": "0e0bb46724ae8b8b",
         "type": "tabs",
         "children": [
           {
-            "id": "1988813cb96bf622",
+            "id": "595491502da7d544",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,27 +185,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1988813cb96bf622",
+  "active": "75973069098a5b02",
   "lastOpenFiles": [
-    "CSI-3620/Algorithmic Analysis.md",
-    "CSI-3620/Insertion-sort-example-300px.gif",
-    "CSI-3620/cpp/insertion_sort.cpp",
+    "CSI-4430/Presentations/1/Diagrams.md",
+    "CSI-4430/Presentations/2/Diagrams.md",
+    "CSI-4430/Presentations/2/CS 02.pdf",
+    "CSI-4430/Presentations/2/Untitled 1.ods",
+    "CSI-4430/Presentations/2/lu49b9tlk.tmp",
     "CSI-3620/cpp/selection_sort.cpp",
+    "CSI-3620/cpp/insertion_sort.cpp",
     "CSI-3620/cpp/bubble_sort.cpp",
-    "CSI-3620/cpp/matrix_windows.cpp",
-    "CSI-3620/cpp/matrix.cpp",
-    "CSI-3620/cpp/executables/matrix.exe",
+    "CSI-3620/Insertion-sort-example-300px.gif",
     "CSI-3620/Bubble-sort-example-300px.gif",
-    "CSI-3620/Tests/Exam 3 Answers.md",
     "CSI-3450/Assignments/6/vitale_a6.pdf",
     "CSI-3450/Assignments/6/Assignment6-Functional dependency  normalization.pdf",
     "CSI-3450/Assignments/6/vitale_a6.md",
-    "CSI-4430/Presentations/1/Diagrams.md",
     "CSI-3620/cpp/assignments/6/vitale_a6.zip",
     "CSI-3620/cpp/assignments/6/secs.h",
     "CSI-3620/Quizzes/Exam 3 Quizzes/Practice.md",
     "CSI-3450/Group Project/Tasks.md",
     "CSI-3620/Assignments/5/vitale_a5.md",
+    "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/Quizzes/12/Answers.md",
     "CSI-3620/Polymorphism.md",
     "CSI-4430/Assignments/Individual Project/Answers.md",
