@@ -37,7 +37,7 @@ The order of growth:
 - 1 is the most efficient
 - log *n*
 - *n* log *n*
-- *n*^2
+- *n*^2 (generally associated with code that has two nested loops)
 - *n*^3
 - 2^n
 # Binary Search & Big O
@@ -62,4 +62,20 @@ pass 2: 2, 1, 3, 4, 7
 pass 3: 1, 2, 3, 4, 7
 pass 4: 1, 2, 3, 4, 7
 done!
+
 ![[Bubble-sort-example-300px.gif]]
+
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/bubble_sort.cpp"
+```
+## Selection Sort
+Scan through the entire array and identify the lowest element. Swap the lowest element with the 0th index. Increment positional index. Repeat.
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/selection_sort.cpp"
+```
+## Insertion Sort
+![[Insertion-sort-example-300px.gif]]
+
+```embed-cpp
+PATH: "vault://CSI-3620/cpp/insertion_sort.cpp"
+```
