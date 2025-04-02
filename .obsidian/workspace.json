@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2c14c5665d00e991",
+        "id": "c85034d1c44df005",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1011c06bd39587",
+            "id": "8e325c2f4de5313d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HC Anna and Keith Tack Finish with Honor Scholarship Submission.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "HC Anna and Keith Tack Finish with Honor Scholarship Submission"
+              "title": "New tab"
             }
           }
         ]
@@ -190,12 +186,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1b1011c06bd39587",
+  "active": "8e325c2f4de5313d",
   "lastOpenFiles": [
     "HC Anna and Keith Tack Finish with Honor Scholarship Submission.md",
     "CSI-4600/Labs/2/vitale_lab2.md",
-    "CSI-4600/Labs/2/vitale_lab2.pdf",
-    "CSI-4600/Labs/2/Lab 2.pdf",
     "CSI-4600/Labs/2/Pasted image 20250402152218.png",
     "CSI-4600/Labs/2/Pasted image 20250402142150.png",
     "CSI-4600/Labs/2/Pasted image 20250402142134.png",
@@ -206,32 +200,31 @@
     "CSI-4600/Labs/2/Pasted image 20250402135859.png",
     "CSI-4600/Labs/2/Pasted image 20250402135705.png",
     "CSI-4600/Labs/2/Pasted image 20250402135427.png",
-    "CSI-4430/Presentations/2/Untitled 1.ods",
-    "CSI-4430/Presentations/2/Diagrams.md",
-    "CSI-4430/Presentations/2",
-    "CSI-3620/cpp/selection_sort.cpp",
-    "CSI-3620/cpp/matrix.cpp",
-    "CSI-3620/cpp/insertion_sort.cpp",
-    "CSI-3620/cpp/executables/matrix.exe",
-    "CSI-3620/cpp/bubble_sort.cpp",
-    "CSI-3450/Assignments/6/vitale_a6.md",
-    "CSI-3450/Assignments/6",
-    "CSI-4430/Assignments/Individual Project/Answers.md",
-    "CSI-3450/Assignments/5/vitale_a5.md",
-    "Clippings/Protests hit Tesla dealerships across the world in challenge to Elon Musk.md",
-    "Clippings/US citizens getting pulled aside Travelers fear scrutiny at the border is rising.md",
-    "Dara Kerr.md",
     "CSI-4430/Assignments/Individual Project/vitale_individual_project.md",
-    "CSI-4430/Assignments/1/Answers.md",
+    "CSI-4430/Presentations/1/Diagrams.md",
+    "CSI-4430/Presentations/2/Diagrams.md",
+    "CSI-4430/Presentations/2/CS 02.pdf",
+    "CSI-4430/Presentations/2/Untitled 1.ods",
+    "CSI-4430/Presentations/2/lu49b9tlk.tmp",
+    "CSI-3620/cpp/selection_sort.cpp",
+    "CSI-3620/cpp/insertion_sort.cpp",
+    "CSI-3620/cpp/bubble_sort.cpp",
+    "CSI-3450/Assignments/6/vitale_a6.pdf",
+    "CSI-3450/Assignments/6/Assignment6-Functional dependency  normalization.pdf",
+    "CSI-3450/Assignments/6/vitale_a6.md",
+    "CSI-3620/cpp/assignments/6/vitale_a6.zip",
+    "CSI-3620/cpp/assignments/6/secs.h",
     "CSI-3620/Quizzes/Exam 3 Quizzes/Practice.md",
+    "CSI-3450/Group Project/Tasks.md",
     "CSI-3620/Assignments/5/vitale_a5.md",
     "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/Quizzes/12/Answers.md",
     "CSI-3620/Polymorphism.md",
+    "CSI-4430/Assignments/Individual Project/Answers.md",
+    "CSI-4430/Assignments/1/Answers.md",
     "Grizz Hacks Presentation Notes.md",
     "CSI-4430/Assignments/2 & 3/vitale_Exercise 3.md",
     "CSI-4430/Assignments/2 & 3/vitale_Exercise 2.md",
-    "Untitled.canvas",
-    "CSI-4430/Presentations/1/Diagrams.md"
+    "Untitled.canvas"
   ]
 }
