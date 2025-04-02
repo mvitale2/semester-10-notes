@@ -11,10 +11,14 @@
             "id": "1b1011c06bd39587",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HC Anna and Keith Tack Finish with Honor Scholarship Submission.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HC Anna and Keith Tack Finish with Honor Scholarship Submission"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "91b78bbb931b2a42",
@@ -185,8 +190,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75973069098a5b02",
+  "active": "1b1011c06bd39587",
   "lastOpenFiles": [
+    "HC Anna and Keith Tack Finish with Honor Scholarship Submission.md",
     "CSI-4600/Labs/2/vitale_lab2.md",
     "CSI-4600/Labs/2/vitale_lab2.pdf",
     "CSI-4600/Labs/2/Lab 2.pdf",
