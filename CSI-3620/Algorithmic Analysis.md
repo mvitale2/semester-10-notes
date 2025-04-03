@@ -49,10 +49,10 @@ Binary search works by eliminating one half of the array first.
 PATH: "vault://CSI-3620/cpp/binary_search.cpp"
 ```
 # Sorting Unsorted Arrays
-## Bubble Sort
+## Bubble Sort -- O($n^2$)
 Works by comparing the 0th element and the 1st element. Depending on which is higher, swap their positions. Repeat.
 
-After the first pass, the highest elements are guaranteed to be at the top of the array.
+After the first pass, the highest element is guaranteed to be at the top of the array.
  
 1 passthrough means 1 pass through the entire array. 
 
@@ -68,12 +68,16 @@ done!
 ```embed-cpp
 PATH: "vault://CSI-3620/cpp/bubble_sort.cpp"
 ```
-## Selection Sort
+## Selection Sort -- O($n^2$)
 Scan through the entire array and identify the lowest element. Swap the lowest element with the 0th index. Increment positional index. Repeat.
+
+There will always be $n-1$ passthroughs. 
+
 ```embed-cpp
 PATH: "vault://CSI-3620/cpp/selection_sort.cpp"
 ```
-## Insertion Sort
+## Insertion Sort -- O($n^2$)
+There will always be $n-1$ passthroughs. 
 ![[Insertion-sort-example-300px.gif]]
 
 ```embed-cpp
