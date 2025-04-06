@@ -80,26 +80,26 @@ graph TD
 # Budget
 ### **Estimated Cost Breakdown by Phases & Activities**
 | **Phase & Activities**                                                       | **Estimated Cost (USD)** | **% of Total Budget** |
-| ---------------------------------------------------------------------------- | ------------------------ | --------------------- |
-| **1. Initiation Phase**                                                      | **$300,000**             | **5.0%**              |
-| *Project charter, feasibility study, stakeholder alignment, risk assessment* | *$150,000*               | *2.5%*                |
-| *Hiring program manager & key resources*                                     | *$150,000*               | *2.5%*                |
-| **2. Planning Phase**                                                        | **$600,000**             | **10.0%**             |
-| *Work Breakdown Structure (WBS), risk mitigation, vendor contracts*          | *$250,000*               | *4.2%*                |
-| *Communication & contingency planning*                                       | *$150,000*               | *2.5%*                |
-| *Detailed infrastructure relocation planning*                                | *$200,000*               | *3.3%*                |
-| **3. Execution Phase**                                                       | **$4,200,000**           | **70.0%**             |
-| *Construction, power, cooling, security, compliance testing*                 | *$2,000,000*             | *33.3%*               |
-| *Server migration (225 servers), network reconfiguration, IT testing*        | *$1,500,000*             | *25.0%*               |
-| *Moving logistics, workstation setup, IT support*                            | *$400,000*               | *6.7%*                |
-| *Shut down, remove old infrastructure, restore lease conditions*             | *$300,000*               | *5.0%*                |
-| **4. Monitoring & Controlling Phase**                                        | **$600,000**             | **10.0%**             |
-| *Performance tracking, risk management, compliance audits*                   | *$400,000*               | *6.7%*                |
-| *Weekly status meetings, stakeholder reporting*                              | *$200,000*               | *3.3%*                |
-| **5. Closure Phase**                                                         | **$300,000**             | **5.0%**              |
-| *Final testing, documentation, stakeholder review*                           | *$200,000*               | *3.3%*                |
-| *Project handover to operations*                                             | *$100,000*               | *1.7%*                |
-| **Total**                                                                    | **$6,000,000**           | **100%**              |
+| ---------------------------------------------------------------------------- | -----------------------: | --------------------: |
+| **1. Initiation Phase**                                                      |             **$300,000** |              **5.0%** |
+| *Project charter, feasibility study, stakeholder alignment, risk assessment* |               *$150,000* |                *2.5%* |
+| *Hiring program manager & key resources*                                     |               *$150,000* |                *2.5%* |
+| **2. Planning Phase**                                                        |             **$600,000** |             **10.0%** |
+| *Work Breakdown Structure (WBS), risk mitigation, vendor contracts*          |               *$250,000* |                *4.2%* |
+| *Communication & contingency planning*                                       |               *$150,000* |                *2.5%* |
+| *Detailed infrastructure relocation planning*                                |               *$200,000* |                *3.3%* |
+| **3. Execution Phase**                                                       |           **$4,200,000** |             **70.0%** |
+| *Construction, power, cooling, security, compliance testing*                 |             *$2,000,000* |               *33.3%* |
+| *Server migration (225 servers), network reconfiguration, IT testing*        |             *$1,500,000* |               *25.0%* |
+| *Moving logistics, workstation setup, IT support*                            |               *$400,000* |                *6.7%* |
+| *Shut down, remove old infrastructure, restore lease conditions*             |               *$300,000* |                *5.0%* |
+| **4. Monitoring & Controlling Phase**                                        |             **$600,000** |             **10.0%** |
+| *Performance tracking, risk management, compliance audits*                   |               *$400,000* |                *6.7%* |
+| *Weekly status meetings, stakeholder reporting*                              |               *$200,000* |                *3.3%* |
+| **5. Closure Phase**                                                         |             **$300,000** |              **5.0%** |
+| *Final testing, documentation, stakeholder review*                           |               *$200,000* |                *3.3%* |
+| *Project handover to operations*                                             |               *$100,000* |                *1.7%* |
+| **Total**                                                                    |           **$6,000,000** |              **100%** |
 # Gantt Chart
 ```mermaid
 gantt

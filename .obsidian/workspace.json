@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48d39dfec574ba78",
+        "id": "8bac014cfad7af45",
         "type": "tabs",
         "children": [
           {
-            "id": "b93a65f049f6b2f4",
+            "id": "a21a8e92afaf86e8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,6 +187,11 @@
   },
   "active": "297f4f056ae13c5f",
   "lastOpenFiles": [
+    "CSI-4430/Presentations/1/Diagrams.md",
+    "CSI-4430/Presentations/2/vitale_sickles_anton_cs2.pdf",
+    "CSI-4430/Presentations/1/vitale_sickles_anton_cs1.pdf",
+    "CSI-4430/Assignments/Individual Project/vitale_individual_project.md",
+    "CSI-4430/Assignments/Individual Project/9ece3b9c-038d-49ae-a222-4dd3f75f49cb.png",
     "CSI-3620/cpp/classes/linked_lists/a.exe",
     "CSI-3620/cpp/classes/linked_lists/linked_list_main.cpp",
     "CSI-3620/cpp/classes/linked_lists/linked_list.h",
@@ -196,9 +201,7 @@
     "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/Linked Lists.md",
     "CSI-3620/cpp/linked_list_simple.cpp",
-    "CSI-4430/Assignments/Individual Project/vitale_individual_project.md",
     "CSI-4430/Assignments/Individual Project/Answers.md",
-    "CSI-4430/Assignments/Individual Project/9ece3b9c-038d-49ae-a222-4dd3f75f49cb.png",
     "HC Anna and Keith Tack Finish with Honor Scholarship Submission.md",
     "CSI-4600/Labs/2/vitale_lab2.md",
     "CSI-4600/Labs/2/Pasted image 20250402152218.png",
@@ -212,12 +215,8 @@
     "CSI-4600/Labs/2/Pasted image 20250402135705.png",
     "CSI-4430/Presentations/2/Diagrams.md",
     "CSI-4430/Presentations/2/Untitled 1.ods",
-    "CSI-4430/Presentations/2",
-    "CSI-3620/cpp/insertion_sort.cpp",
-    "CSI-3620/cpp/selection_sort.cpp",
     "CSI-3620/Tests/Exam 3 Answers.md",
     "CSI-3450/Assignments/6/vitale_a6.md",
-    "CSI-4430/Presentations/1/Diagrams.md",
     "CSI-3620/Quizzes/Exam 3 Quizzes/Practice.md",
     "CSI-3450/Group Project/Tasks.md",
     "CSI-3620/Assignments/5/vitale_a5.md",
