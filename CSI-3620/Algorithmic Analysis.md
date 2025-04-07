@@ -77,7 +77,6 @@ There will always be $n-1$ passthroughs.
 PATH: "vault://CSI-3620/cpp/selection_sort.cpp"
 ```
 ## Insertion Sort -- O($n^2$)
-There will always be $n-1$ passthroughs. 
 ![[Insertion-sort-example-300px.gif]]
 
 ```embed-cpp
