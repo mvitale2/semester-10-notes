@@ -11,13 +11,30 @@
             "id": "e95354d81b0bce80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3620/Assignments/7/vitale_a7.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "vitale_a7"
+            }
+          },
+          {
+            "id": "327d647db0801ef9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CSI-3620/Assignments/7/Assignment 7.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment 7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "91b78bbb931b2a42",
@@ -170,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +203,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e95354d81b0bce80",
+  "active": "327d647db0801ef9",
   "lastOpenFiles": [
     "CSI-3620/Assignments/7/vitale_a7.md",
     "CSI-3620/Assignments/7/Assignment 7.pdf",
+    "CSI-3620/cpp/assignments/7/a.exe",
     "CSI-3620/Linked Lists.md",
     "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/cpp/assignments/7/linked_list.h",
@@ -200,7 +218,6 @@
     "CSI-3620/cpp/assignments/7/Unconfirmed 552799.crdownload",
     "CSI-3620/cpp/assignments/7",
     "CSI-3620/cpp/assignments/New folder",
-    "CSI-3620/Assignments/7/mso457F.tmp",
     "CSI-4430/Assignments/Individual Project/vitale_individual_project.md",
     "HC Anna and Keith Tack Finish with Honor Scholarship Submission.md",
     "CSI-4600/Labs/2/vitale_lab2.md",

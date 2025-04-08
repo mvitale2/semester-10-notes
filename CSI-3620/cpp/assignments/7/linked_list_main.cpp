@@ -8,20 +8,28 @@ using namespace std;
 int main() {
 	LinkedList list;
 
-	// list.insertEnd("Charmander");
-	// list.insertEnd("Squirtle");
-	// list.insertEnd("Bulbasaur");
-	// list.print();
-
-	list.insertStart("Mew");
-	list.insertStart("Pikachu");
-	list.insertStart("Jigglypuff");
-	list.insertStart("Snorlax");
-	list.print();
-	
-	list.removeStart();
+	list.insertStart("James Holden");
+	list.insertEnd("Amos Burton");
+	list.insertEnd("Naomi Nagata");
+	list.insertEnd("Alex Kamal");
 	list.print();
 
-	list.removeEnd();
+	list.insertPos("Clarissa Mao", 2);
 	list.print();
+
+	list.removeElement("Clarissa Mao");
+	list.print();
+
+	list.insertEnd("Bobbie Draper");
+	list.print();
+
+	list.removePos(4);
+	list.print();
+
+	LinkedList emptyList;
+
+	emptyList.removeEnd();
+	emptyList.insertStart("wombo");
+	emptyList.print();
+	emptyList.removeStart();
 }

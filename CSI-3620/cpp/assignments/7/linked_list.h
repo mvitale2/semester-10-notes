@@ -20,13 +20,13 @@ class LinkedList {
 		// Insert element at head of list
 		void insertStart(string element);
 		void insertEnd(string element);
-		// void insertPos(string element, int position);
+		void insertPos(string element, int position);
 		// // Remove a specific element that matches the value
-		// void removeElement(string element);
+		void removeElement(string element);
 		// Remove an element starting at the head
 		void removeStart();
 		void removeEnd();
-		// void removePos(int position);
+		void removePos(int position);
 		// // Read the value of an element at the provided position
 		// void read(int position);
 		// // Return the position where an element is found

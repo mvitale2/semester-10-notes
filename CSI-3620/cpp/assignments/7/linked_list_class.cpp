@@ -65,12 +65,47 @@ void LinkedList::insertEnd(string element) {
 	size++;
 }
 
-// void LinkedList::insertPos(string element, int position) {
+void LinkedList::insertPos(string element, int position) {
+	// Check if the position is valid
+	if (position < 0 || position > size + 1) {
+		cout << "Invalid position!" << endl;
+		return;
+	}
 
-// }
+	// Declare the new element to insert
+	Node* newNode = new Node();
+	newNode->data = element;
+
+	// Special case if the first position is selected
+	if (position == 0) {
+		insertStart(element);
+		return;
+	}
+
+	// Set the beginning node to the head
+	Node* tempNode = head;
+	for (int i=0; i < position-1; i++) {
+		// Iterate until the position before the insertion point is reached
+		tempNode = tempNode->next;
+	}
+
+	// Insert the new element
+	newNode->next = tempNode->next;
+	tempNode->next = newNode;
+
+	// Increase the size of the list
+	size++;
+	// cout << "Inserted data :)" << endl;
+}
 
 // Remove head of linked list and shift to the next element
 void LinkedList::removeStart() {
+	if (head->next == NULL) {
+		cout << "List only has a head, removing head." << endl;
+		// Die!
+		delete head;
+		return;
+	}
 	Node* old = head;
 	head = old->next;
 	delete old;
@@ -88,6 +123,16 @@ void LinkedList::removeStart() {
 }
 
 void LinkedList::removeEnd() {
+	if (head == NULL) {
+		cout << "Head is empty :(" << endl;
+		return;
+	} else if (head->next == NULL) {
+		cout << "List only has a head, removing head." << endl;
+		// Die!
+		delete head;
+		return;
+	}
+
 	// Create temp node to traverse list until you reach the end
 	Node* tempNode = head;
 
@@ -96,18 +141,85 @@ void LinkedList::removeEnd() {
 	}
 
 	tempNode->next = NULL;
+	delete tempNode;
 
 	size--;
 }
 
-// void LinkedList::removePos(int position) {
+void LinkedList::removePos(int position) {
+	// Check if the position is valid
+	if (position < 0 || position > size + 1) {
+		cout << "Invalid position!" << endl;
+		return;
+	}
+	// Check if the list is empty or only has a head
+	if (head == NULL) {
+		cout << "Head is empty :(" << endl;
+		return;
+	}
 
-	
-// }
+	if (position == 0) {
+		removeStart();
+		return;
+	}
 
-// void LinkedList::removeElement(string element) {
-	
-// }
+	// Set the beginning node to the head
+	Node* tempNode = head;
+	for (int i=0; i < position-1; i++) {
+		// if (tempNode->next->next == NULL) {
+		// 	// Remove the end
+		// 	tempNode->next = NULL;
+		// 	size--;
+		// 	return;
+		// }
+		// Iterate
+		tempNode = tempNode->next;
+	}
+
+	// Since the loop stops at the position before the selected position, use the next pointer to point to node to be deleted
+	Node* nodeToDelete = tempNode->next;
+	// Set the node before the node to be deleted to be the node after the node to be deleted
+	tempNode->next = nodeToDelete->next;
+
+	// Delete that stupid thing
+	delete nodeToDelete;
+
+	size--;
+}
+
+void LinkedList::removeElement(string element) {
+	// Check if the list is empty
+	if (head == NULL) {
+		cout << "Head is empty :(" << endl;
+		return;
+	}
+
+	// Set the beginning node to the head
+	Node* tempNode = head;
+	// Keep track of the previous node, but only after it knows that the element is not the head
+	Node* prevNode = NULL;
+	for (int i=0; i < size-1; i++) {
+		if (tempNode->data == element && i == 0) {
+			removeStart();
+			return;
+		} else if (tempNode->data == element) {
+			break;
+		} else if (tempNode->next->next == NULL) {
+			// At this point we have checked the data of all nodes to no avail
+			cout << element << " does not exist in the list" << endl;
+			return;
+		}
+		// Iterate
+		prevNode = tempNode;
+		tempNode = tempNode->next;
+	}
+
+	prevNode->next = tempNode->next;
+
+	delete tempNode;
+
+	size--;
+}
 
 // int LinkedList::search(string element) {
 	
