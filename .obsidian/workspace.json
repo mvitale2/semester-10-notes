@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3aa725c3795e01ab",
+        "id": "b5d6356241a32e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "e95354d81b0bce80",
+            "id": "6340cee03f6c1dcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSI-3620/Assignments/7/vitale_a7.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "vitale_a7"
-            }
-          },
-          {
-            "id": "327d647db0801ef9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSI-3620/Assignments/7/Assignment 7.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Assignment 7"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +185,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "327d647db0801ef9",
+  "active": "297f4f056ae13c5f",
   "lastOpenFiles": [
-    "CSI-3620/Assignments/7/vitale_a7.md",
+    "Josh Reference Letter.md",
+    "CSI-3620/Assignments/7/vitale_a7.pdf",
     "CSI-3620/Assignments/7/Assignment 7.pdf",
+    "CSI-3620/Assignments/7/vitale_a7.md",
     "CSI-3620/cpp/assignments/7/a.exe",
     "CSI-3620/Linked Lists.md",
     "CSI-3620/Algorithmic Analysis.md",
@@ -217,7 +201,6 @@
     "CSI-3620/cpp/assignments/7/linked_list_class.cpp",
     "CSI-3620/cpp/assignments/7/Unconfirmed 552799.crdownload",
     "CSI-3620/cpp/assignments/7",
-    "CSI-3620/cpp/assignments/New folder",
     "CSI-4430/Assignments/Individual Project/vitale_individual_project.md",
     "HC Anna and Keith Tack Finish with Honor Scholarship Submission.md",
     "CSI-4600/Labs/2/vitale_lab2.md",
