@@ -16,10 +16,10 @@ class LinkedList {
 	public:
 		// Create empty linked list
 		LinkedList();
-		// ~LinkedList();
+		~LinkedList();
 		// // Insert element at head of list
 		void insertStart(string element);
-		// void insertEnd(string element);
+		void insertEnd(string element);
 		// void insertPos(string element, int position);
 		// // Remove a specific element that matches the value
 		// void removeElement(string element);
@@ -28,10 +28,10 @@ class LinkedList {
 		// void removeEnd();
 		// void removePos(int position);
 		// // Read the value of an element at the provided position
-		// void read(int position);
+		void read(int position);
 		// // Return the position where an element is found
 		// // If not found, the position value is -1
-		// int search(string element);
+		int search(string element);
 		// // Prints the contents of the entire linked list
 		void print();
 	

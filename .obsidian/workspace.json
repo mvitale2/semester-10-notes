@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5d6356241a32e8e",
+        "id": "f85c1b9cb5a87bc5",
         "type": "tabs",
         "children": [
           {
-            "id": "6340cee03f6c1dcd",
+            "id": "1cef86910e97d187",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3620/Stax.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Stax"
             }
           }
         ]
@@ -169,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,23 +190,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "297f4f056ae13c5f",
+  "active": "1cef86910e97d187",
   "lastOpenFiles": [
-    "Josh Reference Letter.md",
-    "CSI-3620/Assignments/7/vitale_a7.pdf",
-    "CSI-3620/Assignments/7/Assignment 7.pdf",
-    "CSI-3620/Assignments/7/vitale_a7.md",
-    "CSI-3620/cpp/assignments/7/a.exe",
-    "CSI-3620/Linked Lists.md",
+    "CSI-3620/cpp/classes/stax/stackListMain.cpp",
+    "CSI-3620/cpp/classes/stax/stackList.h",
+    "CSI-3620/cpp/classes/stax/stackListClass.cpp",
+    "CSI-3620/cpp/classes/stax/stackArrayMain.cpp",
+    "CSI-3620/cpp/classes/stax/stackArray.h",
+    "CSI-3620/cpp/classes/stax/stackArrayClass.cpp",
+    "CSI-3620/cpp/classes/stax",
+    "CSI-3620/cpp/classes/stx",
+    "CSI-3620/cpp/classes/New folder",
     "CSI-3620/Algorithmic Analysis.md",
-    "CSI-3620/cpp/assignments/7/linked_list.h",
-    "CSI-3620/cpp/assignments/7/Unconfirmed 633748.crdownload",
+    "CSI-3620/Stax.md",
+    "Josh Reference Letter.md",
     "CSI-3620/cpp/assignments/7/linked_list_main.cpp",
-    "CSI-3620/cpp/assignments/7/Unconfirmed 489909.crdownload",
     "CSI-3620/cpp/assignments/7/linked_list_class.cpp",
-    "CSI-3620/cpp/assignments/7/Unconfirmed 552799.crdownload",
-    "CSI-3620/cpp/assignments/7",
+    "CSI-3620/Assignments/7/vitale_a7.md",
+    "CSI-3620/Linked Lists.md",
     "CSI-4430/Assignments/Individual Project/vitale_individual_project.md",
+    "CSI-4430/Assignments/Individual Project/Answers.md",
+    "CSI-4430/Assignments/Individual Project/9ece3b9c-038d-49ae-a222-4dd3f75f49cb.png",
     "HC Anna and Keith Tack Finish with Honor Scholarship Submission.md",
     "CSI-4600/Labs/2/vitale_lab2.md",
     "CSI-4600/Labs/2/Pasted image 20250402152218.png",
@@ -213,23 +222,19 @@
     "CSI-4600/Labs/2/Pasted image 20250402135945.png",
     "CSI-4600/Labs/2/Pasted image 20250402135859.png",
     "CSI-4600/Labs/2/Pasted image 20250402135705.png",
-    "CSI-4600/Labs/2/Pasted image 20250402135427.png",
     "CSI-4430/Presentations/2/Diagrams.md",
+    "CSI-3620/Tests/Exam 3 Answers.md",
     "CSI-3450/Assignments/6/vitale_a6.md",
-    "CSI-4430/Assignments/Individual Project/Answers.md",
-    "CSI-3450/Assignments/5/vitale_a5.md",
-    "Clippings/Protests hit Tesla dealerships across the world in challenge to Elon Musk.md",
-    "Clippings/US citizens getting pulled aside Travelers fear scrutiny at the border is rising.md",
-    "Dara Kerr.md",
-    "CSI-4430/Assignments/1/Answers.md",
+    "CSI-4430/Presentations/1/Diagrams.md",
     "CSI-3620/Quizzes/Exam 3 Quizzes/Practice.md",
+    "CSI-3450/Group Project/Tasks.md",
     "CSI-3620/Assignments/5/vitale_a5.md",
     "CSI-3620/Quizzes/12/Answers.md",
     "CSI-3620/Polymorphism.md",
+    "CSI-4430/Assignments/1/Answers.md",
     "Grizz Hacks Presentation Notes.md",
     "CSI-4430/Assignments/2 & 3/vitale_Exercise 3.md",
     "CSI-4430/Assignments/2 & 3/vitale_Exercise 2.md",
-    "Untitled.canvas",
-    "CSI-4430/Presentations/1/Diagrams.md"
+    "Untitled.canvas"
   ]
 }

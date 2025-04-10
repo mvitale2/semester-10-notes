@@ -40,7 +40,7 @@ The order of growth:
 - *n*^2 (generally associated with code that has two nested loops)
 - *n*^3
 - 2^n
-# Binary Search & Big O
+## Binary Search & Big O
 When performing binary search, the data structure **must** be ordered. The execution time of binary search is O(log *n*). 
 
 Binary search works by eliminating one half of the array first. 
@@ -82,3 +82,24 @@ PATH: "vault://CSI-3620/cpp/selection_sort.cpp"
 ```embed-cpp
 PATH: "vault://CSI-3620/cpp/insertion_sort.cpp"
 ```
+# Math Mess
+Let $f(n)$ and $g(n)$ be functions mapping positive integers to positive real numbers. We say that $f(n)$ is $O(g(n))$ if there is a real constant $c > 0$ and an integer constant $n_0 \geq 1$ such that:
+$$
+f(n) \leq cg(n), for(n \geq n_0)
+$$
+
+Essentially, this formula is asking: what is the most reasonable worst case?
+
+- f(n) is the algorithm
+- g(n) is the big O category of the algorithm
+- n is the input data structure
+
+## Big Ω
+This math mess can be represented optimistically:
+$$
+f(n) \geq cg(n), for(n \geq n_0)
+$$
+## Big Θ (Theta)
+$$
+c'g(n) \leq f(n) \leq c''g(n), for(n \geq n_0)
+$$

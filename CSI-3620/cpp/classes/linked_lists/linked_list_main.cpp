@@ -8,39 +8,17 @@ using namespace std;
 int main() {
 	LinkedList list;
 
-	// list.insertEnd("Charmander");
-	// list.insertEnd("Squirtle");
-	// list.insertEnd("Bulbasaur");
+	list.insertEnd("Flareon");
+	list.insertEnd("Eevee");
+	list.insertEnd("Geodude");
+	list.insertEnd("Umbreon");
+	list.insertEnd("Scolipede");
 
-	list.insertStart("Wombo");
-	list.insertStart("Combo");
-	list.insertStart("Jombo");
-	list.insertStart("Snorlax");
+	int position = list.search("Geodude");
 
-	list.print();
-
-	list.removeStart();
-	list.print();
-
-	// list.insertStart("The Fellowship of the Ring");
-	// list.insertPos("The Two Towers", 2);
-	// list.insertEnd("The Return of the King");
-
-	// list.print();
-
-	// list.insertPos("The Hobbit", 2);
-
-	// list.print();
-
-	// list.removeEnd();
-
-	// list.print();
-
-	// list.removePos(2);
-
-	// list.print();
-
-	// cout << "Item found at " << list.search("The Return of the King") << "\n";
-
-	// list.read(2);
+	if (position != -1) {
+		cout << "Geodude is located at position " << position << endl;
+	} else {
+		cout << "Geodude was not found in the list." << endl;
+	}
 }
