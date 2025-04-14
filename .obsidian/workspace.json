@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59b2156c453edbbb",
+        "id": "75624468dfed4003",
         "type": "tabs",
         "children": [
           {
-            "id": "72a045f25b725f05",
+            "id": "cb4ee7e163b0d2e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "91b78bbb931b2a42",
@@ -185,21 +186,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "297f4f056ae13c5f",
+  "active": "75973069098a5b02",
   "lastOpenFiles": [
+    "CSI-3620/Assignments/8/vitale_a8.md",
+    "CSI-3620/Algorithmic Analysis.md",
+    "CSI-3620/Assignments/8/Assignment 8.pdf",
+    "CSI-3620/Assignments/8/Pasted image 20250414162659.png",
+    "CSI-3620/Assignments/8/Pasted image 20250414162211.png",
+    "CSI-3620/Pasted image 20250414152112.png",
     "CSI-3620/Stax.md",
+    "CSI-4600/Project/Presentation Notes.md",
+    "CSI-3620/Assignments/8/msoEF45.tmp",
+    "CSI-3620/Assignments/8",
+    "CSI-3620/Assignments/New folder",
     "CSI-3620/cpp/classes/stax/stackListMain.cpp",
     "CSI-3620/cpp/classes/stax/stackList.h",
     "CSI-3620/cpp/classes/stax/stackListClass.cpp",
     "CSI-3620/cpp/classes/stax/stackArrayMain.cpp",
     "CSI-3620/cpp/classes/stax/stackArray.h",
     "CSI-3620/cpp/classes/stax/stackArrayClass.cpp",
-    "CSI-3620/cpp/classes/stax",
-    "CSI-3620/cpp/classes/stx",
-    "CSI-3620/cpp/classes/New folder",
-    "CSI-3620/Algorithmic Analysis.md",
     "Josh Reference Letter.md",
-    "CSI-3620/cpp/assignments/7/linked_list_main.cpp",
     "CSI-3620/Assignments/7/vitale_a7.md",
     "CSI-3620/Linked Lists.md",
     "CSI-4430/Assignments/Individual Project/vitale_individual_project.md",
@@ -213,9 +219,6 @@
     "CSI-4600/Labs/2/Pasted image 20250402140115.png",
     "CSI-4600/Labs/2/Pasted image 20250402140058.png",
     "CSI-4600/Labs/2/Pasted image 20250402140035.png",
-    "CSI-4600/Labs/2/Pasted image 20250402135945.png",
-    "CSI-4600/Labs/2/Pasted image 20250402135859.png",
-    "CSI-4600/Labs/2/Pasted image 20250402135705.png",
     "CSI-4430/Presentations/2/Diagrams.md",
     "CSI-3620/Tests/Exam 3 Answers.md",
     "CSI-3450/Assignments/6/vitale_a6.md",

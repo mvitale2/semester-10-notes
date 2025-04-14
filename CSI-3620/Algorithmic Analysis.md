@@ -90,9 +90,13 @@ $$
 
 Essentially, this formula is asking: what is the most reasonable worst case?
 
-- f(n) is the algorithm
-- g(n) is the big O category of the algorithm
-- n is the input data structure
+- $f(n)$ is the algorithm's performance.
+- $g(n)$ is the big O category of the algorithm.
+- $c$ is a value that adjusts the upper bound of $g(n)$ to be slightly bigger than $f(n)$. 
+- $n_0$ is the cutoff point where the Big O bound starts to apply. 
+- The equation describes how efficient a searching algorithm is in comparison to another. 
+
+![[Pasted image 20250414152112.png]]
 
 ## Big Ω
 This math mess can be represented optimistically:
