@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75624468dfed4003",
+        "id": "04886748a3665639",
         "type": "tabs",
         "children": [
           {
-            "id": "cb4ee7e163b0d2e6",
+            "id": "c104c8f34c61ee2e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,15 +186,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75973069098a5b02",
+  "active": "c104c8f34c61ee2e",
   "lastOpenFiles": [
+    "CSI-3620/Stax.md",
+    "CSI-3620/Pasted image 20250415112034.png",
+    "CSI-3620/Pasted image 20250415112012.png",
     "CSI-3620/Assignments/8/vitale_a8.md",
     "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/Assignments/8/Assignment 8.pdf",
     "CSI-3620/Assignments/8/Pasted image 20250414162659.png",
     "CSI-3620/Assignments/8/Pasted image 20250414162211.png",
     "CSI-3620/Pasted image 20250414152112.png",
-    "CSI-3620/Stax.md",
     "CSI-4600/Project/Presentation Notes.md",
     "CSI-3620/Assignments/8/msoEF45.tmp",
     "CSI-3620/Assignments/8",
@@ -217,8 +219,6 @@
     "CSI-4600/Labs/2/Pasted image 20250402142150.png",
     "CSI-4600/Labs/2/Pasted image 20250402142134.png",
     "CSI-4600/Labs/2/Pasted image 20250402140115.png",
-    "CSI-4600/Labs/2/Pasted image 20250402140058.png",
-    "CSI-4600/Labs/2/Pasted image 20250402140035.png",
     "CSI-4430/Presentations/2/Diagrams.md",
     "CSI-3620/Tests/Exam 3 Answers.md",
     "CSI-3450/Assignments/6/vitale_a6.md",
