@@ -70,9 +70,9 @@ This is the final result using VisualGo:
 ![[Pasted image 20250414162659.png]]
 # Question 13
 1. The depth of node 28 is 3. 
-2. The depth of node 77 is 3.
-3. The height of the tree is 5. 
+2. The depth of node 77 is 6.
+3. The height of the tree is 8. 
 # Question 14
-1. Preorder Traversal: `38 43 61 57 56 52 69 2 29 26 18 79 83 84 89 92`
-2. Inorder traversal: `2 29 26 18 38 43 61 57 56 52 69 79 83 84 89 92`
-3. Postorder traversal: `2 29 26 18 79 83 84 89 92 38 43 61 57 56 52 69`
+1. Preorder Traversal: `84, 79, 83, 38, 2, 29, 26, 18, 45, 61, 57, 56, 52, 69, 89, 92`
+2. Inorder traversal: `18, 26, 29, 2, 38, 43, 61, 57, 56, 52, 69, 79, 83, 84, 89, 92`
+3. Postorder traversal: `18, 26, 29, 2, 38, 43, 61, 57, 56, 52, 69, 79, 83, 92, 89, 84`

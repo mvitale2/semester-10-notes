@@ -24,20 +24,23 @@ graph TD
 	C["fombo"]
 	D["jombo"]
 	E["hombo"]
+	F["kombo"]
 
 	A --> B
 	A --> C
 	B --> D
 	C --> E
+	C --> F
 ```
 
 hombo & jombo have a depth of 2.
 ## Traversal
 - Preorder: From the root, start at the left and move to the right.
-	- `wombo, gombo, jombo, fombo, hombo`
+	- `wombo, gombo, jombo, fombo, hombo, kombo`
 - Postorder: Start at the very left and move right, ending at the root.
-	- `jombo, gombo, hombo, fombo, wombo`
-- Inorder: 
+	- `jombo, gombo, hombo, kombo, fombo, wombo`
+- Inorder: Start at the left, traverse up to the root, then traverse to the right
+	- `jombo, gombo, wombo, hombo, fumbo, kombo`
 ## Binary Search Trees
 A ordered tree in which:
 - Every node has at most two children

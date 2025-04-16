@@ -4,20 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "f13bba4423ab051c",
+        "id": "9c7ef710aa341dac",
         "type": "tabs",
         "children": [
           {
-            "id": "c58865cc157c99f9",
+            "id": "b38c0d0bbb1315c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CSI-3450/Assignments/7/vitale_a7.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "vitale_a7"
             }
           }
         ]
+      },
+      {
+        "id": "be6c5fcc2982cf03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d6f52a56ead3477",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CSI-3450/Assignments/7/Assignment7.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment7"
+            }
+          },
+          {
+            "id": "ffcb7aa65acde3d2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/67feae43-9250-800c-af54-6a487fc4963f",
+                "title": "SQLite Sample Database",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "SQLite Sample Database"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,31 +223,31 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c58865cc157c99f9",
+  "active": "b38c0d0bbb1315c9",
   "lastOpenFiles": [
     "CSI-3450/Assignments/7/vitale_a7.md",
     "CSI-3450/Assignments/7/Assignment7.pdf",
+    "CSI-3450/Assignments/7/mso79EF.tmp",
+    "CSI-3620/Assignments/8/vitale_a8.md",
+    "CSI-3620/Assignments/8/vitale_a8.pdf",
+    "CSI-3620/Stax.md",
+    "CSI-3620/Algorithmic Analysis.md",
+    "CSI-3620/Assignments/8/Assignment 8.pdf",
+    "CSI-3620/Assignments/8/mso811B.tmp",
+    "CSI-3620/Assignments/7/vitale_a7.md",
     "CSI-3450/Assignments/7/library.db",
     "CSI-3620/Pasted image 20250415112034.png",
     "CSI-3620/Pasted image 20250415112012.png",
     "CSI-4600/Proposal Presentation Notes.md",
     "CSI-4600/Project/Presentation Notes.md",
     "CSI-3620/Pasted image 20250414152112.png",
-    "CSI-3620/Assignments/8/vitale_a8.md",
     "CSI-3620/Assignments/8/Pasted image 20250414162659.png",
     "CSI-3620/Assignments/8/Pasted image 20250414162211.png",
     "CSI-3620/Assignments/8",
-    "CSI-3620/Stax.md",
     "CSI-3620/cpp/classes/stax/stackListMain.cpp",
     "CSI-3620/cpp/classes/stax/stackList.h",
     "CSI-3620/cpp/classes/stax/stackListClass.cpp",
-    "CSI-3620/cpp/classes/stax/stackArrayMain.cpp",
-    "CSI-3620/cpp/classes/stax/stackArray.h",
-    "CSI-3620/cpp/classes/stax/stackArrayClass.cpp",
-    "CSI-3620/cpp/classes/stax",
-    "CSI-3620/Algorithmic Analysis.md",
     "Josh Reference Letter.md",
-    "CSI-3620/Assignments/7/vitale_a7.md",
     "CSI-3620/Linked Lists.md",
     "CSI-4430/Assignments/Individual Project/vitale_individual_project.md",
     "CSI-4430/Assignments/Individual Project/Answers.md",
