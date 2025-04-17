@@ -67,3 +67,21 @@ An unbalanced binary tree doesn't maintain the height balance. The example below
 ```
 
 This is why insertion order matters. 
+# B-Trees
+These are NOT the same as binary trees. It stands for Balanced Tree. No matter what order values are inserted into a b-tree, the tree stays balanced. Whenever a node is inserted, the tree is re-shuffled. Additionally, multiple numbers can be stored inside a single node. 
+
+```mermaid
+graph TD
+	cell1[35 65]
+	cell2[110 118]
+	cell3[72 68 55]
+	cell4[98 105 92]
+	100 --> cell1
+	100 --> cell2
+	cell1 --> cell3
+	cell2 --> cell4
+```
+## Efficiency
+- Searching: O($log(n)$)
+- Inserting: O($log(n)$)
+- Deleting: O($log(n)$)

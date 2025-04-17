@@ -4,57 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9c7ef710aa341dac",
+        "id": "d9b1b1206117f2b8",
         "type": "tabs",
         "children": [
           {
-            "id": "b38c0d0bbb1315c9",
+            "id": "4a1902095ec40d56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSI-3450/Assignments/7/vitale_a7.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "vitale_a7"
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "be6c5fcc2982cf03",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d6f52a56ead3477",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSI-3450/Assignments/7/Assignment7.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Assignment7"
-            }
-          },
-          {
-            "id": "ffcb7aa65acde3d2",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/c/67feae43-9250-800c-af54-6a487fc4963f",
-                "title": "SQLite Sample Database",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "SQLite Sample Database"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "91b78bbb931b2a42",
@@ -223,27 +185,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b38c0d0bbb1315c9",
+  "active": "297f4f056ae13c5f",
   "lastOpenFiles": [
-    "CSI-3450/Assignments/7/vitale_a7.md",
-    "CSI-3450/Assignments/7/Assignment7.pdf",
-    "CSI-3450/Assignments/7/mso79EF.tmp",
+    "CSI-3620/Assignments/7/vitale_a7.md",
+    "CSI-3620/Stax.md",
+    "CSI-3620/Hash Tables.md",
     "CSI-3620/Assignments/8/vitale_a8.md",
     "CSI-3620/Assignments/8/vitale_a8.pdf",
-    "CSI-3620/Stax.md",
-    "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/Assignments/8/Assignment 8.pdf",
-    "CSI-3620/Assignments/8/mso811B.tmp",
-    "CSI-3620/Assignments/7/vitale_a7.md",
+    "CSI-3450/Assignments/7/vitale_a7.md",
     "CSI-3450/Assignments/7/library.db",
+    "CSI-3450/Assignments/7",
     "CSI-3620/Pasted image 20250415112034.png",
     "CSI-3620/Pasted image 20250415112012.png",
-    "CSI-4600/Proposal Presentation Notes.md",
-    "CSI-4600/Project/Presentation Notes.md",
-    "CSI-3620/Pasted image 20250414152112.png",
+    "CSI-3620/Algorithmic Analysis.md",
     "CSI-3620/Assignments/8/Pasted image 20250414162659.png",
     "CSI-3620/Assignments/8/Pasted image 20250414162211.png",
+    "CSI-3620/Pasted image 20250414152112.png",
+    "CSI-4600/Project/Presentation Notes.md",
+    "CSI-3620/Assignments/8/msoEF45.tmp",
     "CSI-3620/Assignments/8",
+    "CSI-3620/Assignments/New folder",
     "CSI-3620/cpp/classes/stax/stackListMain.cpp",
     "CSI-3620/cpp/classes/stax/stackList.h",
     "CSI-3620/cpp/classes/stax/stackListClass.cpp",
@@ -270,6 +232,7 @@
     "CSI-4430/Assignments/1/Answers.md",
     "Grizz Hacks Presentation Notes.md",
     "CSI-4430/Assignments/2 & 3/vitale_Exercise 3.md",
+    "CSI-4430/Assignments/2 & 3/vitale_Exercise 2.md",
     "Untitled.canvas"
   ]
 }
