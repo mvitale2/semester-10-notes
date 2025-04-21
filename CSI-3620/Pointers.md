@@ -30,7 +30,7 @@ grade_ptr = &grade; // sets the pointer equal to the memory location of grade
 PATH: "vault://CSI-3620/cpp/intro_to_pointers.cpp"
 ```
 ## How to not declare a pointer
-It is not possible to declare pointers on one line.
+It is not possible to declare pointers on one line. In this example, attempting to use `y` and `z` will throw errors because pointers can't be declared in one line. 
 ```c++
 int a, b, c
 int* x, y, z
