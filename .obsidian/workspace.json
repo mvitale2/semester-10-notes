@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c89c48c4a123e753",
+    "id": "6348a2fe97510dbb",
     "type": "split",
     "children": [
       {
-        "id": "b014b9570e79fa1f",
+        "id": "d7d1a6ea8d4dbfa5",
         "type": "tabs",
         "children": [
           {
-            "id": "e195c82daee0c507",
+            "id": "b1ff55eeffe2260e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "99f46c6d38e461f7",
+    "id": "9213b6c7d1076964",
     "type": "split",
     "children": [
       {
-        "id": "03561390eebd86da",
+        "id": "61361ad1cae41110",
         "type": "tabs",
         "children": [
           {
-            "id": "297f4f056ae13c5f",
+            "id": "162502a39ed49367",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "3d124a9ffe97a76b",
+            "id": "70504032c993ec58",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "35606c09c26ccb97",
+            "id": "34bf4c14233d93e3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,22 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 272.5
   },
   "right": {
-    "id": "91b78bbb931b2a42",
+    "id": "45a743467013ff0d",
     "type": "split",
     "children": [
       {
-        "id": "1d08c6f1af205dbf",
+        "id": "49d5e7fb1fc4d731",
         "type": "tabs",
         "children": [
           {
-            "id": "f51f4d0f50487a66",
+            "id": "b42ce002f16a1999",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSI-4430/Final Exam/vitale_final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +100,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for vitale_final"
             }
           },
           {
-            "id": "93da6061cecf8bac",
+            "id": "bea50b2d0bfa7e2c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +117,7 @@
             }
           },
           {
-            "id": "f169cdca2193143a",
+            "id": "7913fb3c94376f0d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,21 +132,22 @@
             }
           },
           {
-            "id": "7796b736e00fd1a7",
+            "id": "f26efd6482e22724",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "CSI-4430/Final Exam/vitale_final.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of vitale_final"
             }
           },
           {
-            "id": "75973069098a5b02",
+            "id": "52c710f7dd167d0e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -153,23 +155,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "a6d5c316f391b253",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,54 +177,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "297f4f056ae13c5f",
+  "active": "162502a39ed49367",
   "lastOpenFiles": [
-    "CSI-3620/Pointers.md",
-    "CSI-3620/Tests/Final Exam Review Topics.pdf",
-    "CSI-3620/cpp/linear search/student_class.cpp",
-    "CSI-3620/cpp/linear search/student.h",
-    "CSI-3620/cpp/linear search/person_class.cpp",
-    "CSI-3620/cpp/linear search/person.h",
-    "CSI-3620/cpp/linear search/main.cpp",
-    "CSI-3620/cpp/linear search/linearSearch.cpp",
-    "CSI-3620/cpp/linear search",
-    "CSI-3620/linear search/student_class.cpp",
-    "CSI-3620/linear search/student.h",
-    "CSI-3620/Assignments/7/vitale_a7.md",
-    "CSI-3620/Stax.md",
-    "CSI-3620/Hash Tables.md",
+    "CSI-4430/Final Exam/vitale_final.pdf",
+    "CSI-4430/Final Exam/CSI 4430 FINAL WINTER 2025.pdf",
+    "CSI-4430/Final Exam/vitale_final.md",
+    "CSI-4430/Final Exam/CSI 4430 FINAL WINTER 2025.pdf.crdownload",
+    "CSI-4430/Final Exam",
+    "CSI-4430/New folder",
+    "CSI-4600/Project/tl submission.zip",
     "CSI-4600/Project/TL Presentation Notes.md",
     "CSI-4600/Project/Proposal Presentation Notes.md",
+    "CSI-3620/cpp/linear search/linearSearch.cpp",
+    "CSI-3620/cpp/linear search/person_class.cpp",
+    "CSI-3620/cpp/linear search/student_class.cpp",
+    "CSI-3620/cpp/linear search/student.h",
+    "CSI-3620/cpp/linear search/person.h",
     "CSI-3450/cheat sheet.md",
-    "CSI-3450/Assignments/7/vitale_a7.md",
-    "CSI-3620/Pasted image 20250415112034.png",
-    "CSI-3620/Pasted image 20250415112012.png",
-    "CSI-4600/Proposal Presentation Notes.md",
-    "CSI-4600/Project/Presentation Notes.md",
-    "CSI-3620/Pasted image 20250414152112.png",
-    "CSI-3620/Assignments/8/vitale_a8.md",
-    "CSI-3620/Assignments/8/Pasted image 20250414162659.png",
-    "CSI-3620/Assignments/8/Pasted image 20250414162211.png",
-    "CSI-3620/Algorithmic Analysis.md",
-    "Josh Reference Letter.md",
-    "CSI-3620/Linked Lists.md",
-    "CSI-4430/Assignments/Individual Project/vitale_individual_project.md",
-    "CSI-4430/Assignments/Individual Project/Answers.md",
-    "CSI-4430/Assignments/Individual Project/9ece3b9c-038d-49ae-a222-4dd3f75f49cb.png",
-    "HC Anna and Keith Tack Finish with Honor Scholarship Submission.md",
-    "CSI-4600/Labs/2/vitale_lab2.md",
-    "CSI-4600/Labs/2/Pasted image 20250402152218.png",
-    "CSI-4600/Labs/2/Pasted image 20250402142150.png",
-    "CSI-4600/Labs/2/Pasted image 20250402142134.png",
-    "CSI-4600/Labs/2/Pasted image 20250402140115.png",
-    "CSI-4430/Presentations/2/Diagrams.md",
-    "CSI-3620/Tests/Exam 3 Answers.md",
-    "CSI-3450/Assignments/6/vitale_a6.md",
-    "CSI-4430/Presentations/1/Diagrams.md",
-    "CSI-3620/Quizzes/Exam 3 Quizzes/Practice.md",
-    "CSI-3450/Group Project/Tasks.md",
-    "CSI-3620/Assignments/5/vitale_a5.md",
-    "CSI-3620/Quizzes/12/Answers.md",
-    "Untitled.canvas"
+    "CSI-3450/Assignments/7/vitale_a7.md"
   ]
 }
